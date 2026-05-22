@@ -9,6 +9,7 @@
     "research:crawl-current": "node scripts/crawl-current-site.mjs",
     "research:intelligence": "node scripts/design-intelligence-cycle.mjs",
     "research:intelligence-capture": "node scripts/design-intelligence-cycle.mjs --capture",
+    "repo:push": "node scripts/push-with-notify.mjs",
     "research:hourly": "node scripts/research-runner.mjs hourly",
     "research:report": "node scripts/research-runner.mjs six-hour",
     "research:daily": "node scripts/research-runner.mjs daily",

@@ -21,6 +21,14 @@ node scripts/notify-whatsapp.mjs push "Pushed RTIH research update to GitHub."
 node scripts/notify-whatsapp.mjs roadblock "Roadblock: describe the issue."
 ```
 
+## Push Wrapper
+
+Use this for future pushes so a successful push can notify WhatsApp:
+
+```bash
+GITHUB_PAT_FILE="/home/mohit/Desktop/GITHUB PAT" npm run repo:push
+```
+
 ## Current Limitation
 
 WhatsApp does not support unauthenticated arbitrary shell messages. A provider such as WhatsApp Business Cloud API, Twilio WhatsApp, a private webhook bridge, or an approved logged-in WhatsApp Web workflow is required before messages can actually be delivered.
