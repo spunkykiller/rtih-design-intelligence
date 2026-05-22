@@ -1,0 +1,2193 @@
+{
+  "site": {
+    "name": "Creative Destruction Lab",
+    "slug": "creative-destruction-lab",
+    "url": "https://creativedestructionlab.com/",
+    "category": "deep-tech-innovation",
+    "priority": 0.5,
+    "focus": [
+      "deep-tech positioning",
+      "program geography",
+      "venture science credibility"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:50:39.451Z",
+  "viewports": {
+    "desktop": {
+      "title": "Home - Creative Destruction Lab",
+      "finalUrl": "https://creativedestructionlab.com/",
+      "language": "en",
+      "fontFamilies": [
+        "FuturaBT-Book, Helvetica, Arial, sans-serif",
+        "FuturaBT-Heavy"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(236, 4, 123)",
+        "rgb(102, 102, 102)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "BUILD SOMETHING MASSIVE",
+          "fontSize": "110px",
+          "fontWeight": "400",
+          "lineHeight": "110px"
+        },
+        {
+          "tag": "h2",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology",
+          "fontSize": "36px",
+          "fontWeight": "400",
+          "lineHeight": "46.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "fontSize": "36px",
+          "fontWeight": "400",
+          "lineHeight": "46.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "CDL operates 23 streams",
+          "fontSize": "36px",
+          "fontWeight": "400",
+          "lineHeight": "46.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Advanced Therapies",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "AgriFood",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Artificial Intelligence",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Biomedical Engineering",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cancer",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Climate",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Computational Health",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Compute",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Society",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Energy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health & Wellness",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manufacturing",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Minerals",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neuro",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Next Gen Computing",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Oceans",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Prime",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Quantum",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h3",
+          "text": "Risk",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Unlocking Enterprise Productivity Through AI: CDL’s Putting AI to Work Program",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "×",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": ".cls-1{fill:#ed037c}",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        },
+        {
+          "text": "Energy",
+          "href": "https://creativedestructionlab.com/streams/energy/"
+        },
+        {
+          "text": "Health",
+          "href": "https://creativedestructionlab.com/streams/health/"
+        },
+        {
+          "text": "Health & Wellness",
+          "href": "https://creativedestructionlab.com/streams/health/health-wellness/"
+        },
+        {
+          "text": "Manufacturing",
+          "href": "https://creativedestructionlab.com/streams/manufacturing/"
+        },
+        {
+          "text": "Minerals",
+          "href": "https://creativedestructionlab.com/streams/minerals/"
+        },
+        {
+          "text": "Neuro",
+          "href": "https://creativedestructionlab.com/streams/health/neuro/"
+        },
+        {
+          "text": "Next Gen Computing",
+          "href": "https://creativedestructionlab.com/streams/next-gen-computing/"
+        },
+        {
+          "text": "Oceans",
+          "href": "https://creativedestructionlab.com/streams/oceans/"
+        },
+        {
+          "text": "Quantum",
+          "href": "https://creativedestructionlab.com/streams/quantum/"
+        },
+        {
+          "text": "Risk",
+          "href": "https://creativedestructionlab.com/streams/risk/"
+        },
+        {
+          "text": "Space",
+          "href": "https://creativedestructionlab.com/streams/space/"
+        },
+        {
+          "text": "Supply Chain",
+          "href": "https://creativedestructionlab.com/streams/supply-chain/"
+        },
+        {
+          "text": "Web3",
+          "href": "https://creativedestructionlab.com/streams/blockchain-web3/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Berlin",
+          "href": "https://creativedestructionlab.com/locations/berlin/"
+        },
+        {
+          "text": "Calgary",
+          "href": "https://creativedestructionlab.com/locations/calgary/"
+        },
+        {
+          "text": "Doha",
+          "href": "https://creativedestructionlab.com/locations/doha/"
+        },
+        {
+          "text": "Estonia",
+          "href": "https://creativedestructionlab.com/locations/estonia/"
+        },
+        {
+          "text": "Halifax",
+          "href": "https://creativedestructionlab.com/locations/halifax/"
+        },
+        {
+          "text": "London",
+          "href": "https://creativedestructionlab.com/locations/london/"
+        },
+        {
+          "text": "Melbourne",
+          "href": "https://creativedestructionlab.com/locations/melbourne/"
+        },
+        {
+          "text": "Milan",
+          "href": "https://creativedestructionlab.com/locations/milan/"
+        },
+        {
+          "text": "Montreal",
+          "href": "https://creativedestructionlab.com/locations/montreal/"
+        },
+        {
+          "text": "Paris",
+          "href": "https://creativedestructionlab.com/locations/paris/"
+        },
+        {
+          "text": "San Sebastian",
+          "href": "https://creativedestructionlab.com/locations/san-sebastian/"
+        },
+        {
+          "text": "Seattle",
+          "href": "https://creativedestructionlab.com/locations/seattle/"
+        },
+        {
+          "text": "Texas",
+          "href": "https://creativedestructionlab.com/locations/texas/"
+        },
+        {
+          "text": "Toronto",
+          "href": "https://creativedestructionlab.com/locations/toronto/"
+        },
+        {
+          "text": "Vancouver",
+          "href": "https://creativedestructionlab.com/locations/vancouver/"
+        },
+        {
+          "text": "Wisconsin",
+          "href": "https://creativedestructionlab.com/locations/wisconsin/"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://creativedestructionlab.com/mentors/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://creativedestructionlab.com/companies/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://creativedestructionlab.com/partners-program/"
+        },
+        {
+          "text": "Blog",
+          "href": "https://creativedestructionlab.com/blog/"
+        },
+        {
+          "text": "Community",
+          "href": "https://community.creativedestructionlab.com/"
+        },
+        {
+          "text": "EN",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "FR",
+          "href": "https://creativedestructionlab.com/fr/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://creativedestructionlab.com/application-triage/"
+        },
+        {
+          "text": "",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "header--main",
+          "className": "header--main",
+          "label": ".cls-1{fill:#ed037c} About Program Streams Locations Staff Putting AI to Work CDL Research Streams Prime (General) Advanced Therapies AgriFood Artificial Intelligence Biomedical En",
+          "text": ".cls-1{fill:#ed037c} About Program Streams Locations Staff Putting AI to Work CDL Research Streams Prime (General) Advanced Therapies AgriFood Artificial Intelligence Biomedical Engineering Cancer Climate Computational Health Compute Defence Digital Society Energy Health Health & Wellness Manufacturing Minerals Neuro Next Gen Computing Oceans Quantum Risk Space Supply Chain Web3 Locations Berlin Calgary Doha Estonia Halifax London Melbourne Milan Montreal Paris San Sebastian Seattle Texas Toronto Vancouver Wisconsin Mentors Companies Partners Blog Community EN FR Apply",
+          "rect": {
+            "x": 0,
+            "y": 71,
+            "width": 1440,
+            "height": 99
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/navigation/01-cls-1-fill-ed037c-about-program-streams-locations-staff-putting-ai-to-work-cdl-research-st.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "",
+          "className": "hero-home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "Your browser does not support the video element. BUILD SOMETHING MASSIVE Watch video",
+          "rect": {
+            "x": 0,
+            "y": 71,
+            "width": 1440,
+            "height": 1000
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/hero-sections/02-build-something-massive.png"
+        },
+        {
+          "index": 4,
+          "tag": "h1",
+          "id": "",
+          "className": "hero-title hero-title--home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "BUILD SOMETHING MASSIVE",
+          "rect": {
+            "x": 360,
+            "y": 404,
+            "width": 720,
+            "height": 330
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/hero-sections/03-build-something-massive.png"
+        },
+        {
+          "index": 5,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-0",
+          "label": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "rect": {
+            "x": 93,
+            "y": 1312,
+            "width": 1254,
+            "height": 438
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/startup-showcase/04-creative-destruction-lab-cdl-is-a-nonprofit-organization-that-delivers-an-objectives-based.png"
+        },
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic in .scene-1",
+          "label": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses. “Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 80,
+            "y": 1803,
+            "width": 1280,
+            "height": 660
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/hero-sections/05-our-mentors-share-founders-ambition-they-ve-pushed-the-boundaries-of-what-s-possible-in-th.png"
+        },
+        {
+          "index": 7,
+          "tag": "article",
+          "id": "",
+          "className": "unit s-35 mentor-testimonial",
+          "label": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustaina",
+          "text": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 814,
+            "y": 1946,
+            "width": 469,
+            "height": 514
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/hero-sections/06-why-do-we-do-cdl-for-me-it-s-to-improve-our-quality-of-life-build-something-massive-does-n.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-2",
+          "label": "CDL operates 23 streams",
+          "text": "CDL operates 23 streams Advanced Therapies AgriFood Artificial Intelligence Biomedical Engineering Cancer Climate Computational Health Compute Digital Society Energy Health Health & Wellness Manufacturing Minerals Neuro Next Gen Computing Oceans Prime Quantum Risk Space Supply Chain Web3",
+          "rect": {
+            "x": 93,
+            "y": 2610,
+            "width": 1254,
+            "height": 1863
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/grid-systems/07-cdl-operates-23-streams.png"
+        },
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-locations",
+          "label": "16 locations globally",
+          "text": "16 locations globally Founded at the Rotman School of Management at the University of Toronto in 2012, CDL now operates five sites in Canada, three in the United States, six in Europe, one in Australia, and one in Asia. All locations ›",
+          "rect": {
+            "x": 0,
+            "y": 4408,
+            "width": 1440,
+            "height": 1080
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/ecosystem-maps/08-16-locations-globally.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4",
+          "label": "From the blog",
+          "text": "From the blog Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy. Announcements Creative Destruction Lab partners with BIC Gipuzkoa and IESE Business School to launch CDL-San Sebastian in Spain CDL-San Sebastian will join the global CDL Quantum program, and launch a CDL AI stream focused on natural language processing and multilingual models to complement the arrival of the IBM System Two quantum computer and strengthen Gipuzkoa’s role as a growing hub for deep tech commercialization in Europe.",
+          "rect": {
+            "x": 80,
+            "y": 5444,
+            "width": 1280,
+            "height": 945
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/cta-systems/09-from-the-blog.png"
+        },
+        {
+          "index": 11,
+          "tag": "article",
+          "id": "",
+          "className": "article-card unit",
+          "label": "Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha",
+          "text": "Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy.",
+          "rect": {
+            "x": 56,
+            "y": 5490,
+            "width": 664,
+            "height": 898
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/ecosystem-maps/10-creative-destruction-lab-connects-entrepreneurs-to-global-network-with-cdl-doha.png"
+        },
+        {
+          "index": 13,
+          "tag": "div",
+          "id": "",
+          "className": "cta pad",
+          "label": "Applications are now open for the 2026/27 program year",
+          "text": "Applications are now open for the 2026/27 program year Apply",
+          "rect": {
+            "x": 0,
+            "y": 6477,
+            "width": 1440,
+            "height": 650
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/cta-systems/11-applications-are-now-open-for-the-2026-27-program-year.png"
+        },
+        {
+          "index": 14,
+          "tag": "div",
+          "id": "",
+          "className": "cta__block",
+          "label": "Applications are now open for the 2026/27 program year",
+          "text": "Applications are now open for the 2026/27 program year",
+          "rect": {
+            "x": 110,
+            "y": 6653,
+            "width": 610,
+            "height": 195
+          },
+          "category": "application-funnels",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/application-funnels/12-applications-are-now-open-for-the-2026-27-program-year.png"
+        },
+        {
+          "index": 16,
+          "tag": "footer",
+          "id": "",
+          "className": "footer",
+          "label": "Creative Destruction Lab™ founded at the Rotman School of Management",
+          "text": "Log in to Community CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy Sign up for email updates Creative Destruction Lab™ founded at the Rotman School of Management",
+          "rect": {
+            "x": 0,
+            "y": 7127,
+            "width": 1440,
+            "height": 1323
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/cta-systems/13-creative-destruction-lab-founded-at-the-rotman-school-of-management.png"
+        },
+        {
+          "index": 17,
+          "tag": "nav",
+          "id": "",
+          "className": "nav nav--footer has-community",
+          "label": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "text": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "rect": {
+            "x": 482,
+            "y": 7219,
+            "width": 431,
+            "height": 264
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/creative-destruction-lab/desktop/navigation/14-cdl-intro-webinar-faqs-press-job-postings-contact-privacy-policy.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Home - Creative Destruction Lab",
+      "finalUrl": "https://creativedestructionlab.com/",
+      "language": "en",
+      "fontFamilies": [
+        "FuturaBT-Book, Helvetica, Arial, sans-serif",
+        "FuturaBT-Heavy"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(236, 4, 123)",
+        "rgb(102, 102, 102)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "BUILD SOMETHING MASSIVE",
+          "fontSize": "50px",
+          "fontWeight": "400",
+          "lineHeight": "50px"
+        },
+        {
+          "tag": "h2",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "CDL operates 23 streams",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "Advanced Therapies",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "AgriFood",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Artificial Intelligence",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Biomedical Engineering",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cancer",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Climate",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Computational Health",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Compute",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Society",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Energy",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health & Wellness",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manufacturing",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Minerals",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neuro",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Next Gen Computing",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Oceans",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Prime",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Quantum",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Risk",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Unlocking Enterprise Productivity Through AI: CDL’s Putting AI to Work Program",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "×",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": ".cls-1{fill:#ed037c}",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        },
+        {
+          "text": "Energy",
+          "href": "https://creativedestructionlab.com/streams/energy/"
+        },
+        {
+          "text": "Health",
+          "href": "https://creativedestructionlab.com/streams/health/"
+        },
+        {
+          "text": "Health & Wellness",
+          "href": "https://creativedestructionlab.com/streams/health/health-wellness/"
+        },
+        {
+          "text": "Manufacturing",
+          "href": "https://creativedestructionlab.com/streams/manufacturing/"
+        },
+        {
+          "text": "Minerals",
+          "href": "https://creativedestructionlab.com/streams/minerals/"
+        },
+        {
+          "text": "Neuro",
+          "href": "https://creativedestructionlab.com/streams/health/neuro/"
+        },
+        {
+          "text": "Next Gen Computing",
+          "href": "https://creativedestructionlab.com/streams/next-gen-computing/"
+        },
+        {
+          "text": "Oceans",
+          "href": "https://creativedestructionlab.com/streams/oceans/"
+        },
+        {
+          "text": "Quantum",
+          "href": "https://creativedestructionlab.com/streams/quantum/"
+        },
+        {
+          "text": "Risk",
+          "href": "https://creativedestructionlab.com/streams/risk/"
+        },
+        {
+          "text": "Space",
+          "href": "https://creativedestructionlab.com/streams/space/"
+        },
+        {
+          "text": "Supply Chain",
+          "href": "https://creativedestructionlab.com/streams/supply-chain/"
+        },
+        {
+          "text": "Web3",
+          "href": "https://creativedestructionlab.com/streams/blockchain-web3/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Berlin",
+          "href": "https://creativedestructionlab.com/locations/berlin/"
+        },
+        {
+          "text": "Calgary",
+          "href": "https://creativedestructionlab.com/locations/calgary/"
+        },
+        {
+          "text": "Doha",
+          "href": "https://creativedestructionlab.com/locations/doha/"
+        },
+        {
+          "text": "Estonia",
+          "href": "https://creativedestructionlab.com/locations/estonia/"
+        },
+        {
+          "text": "Halifax",
+          "href": "https://creativedestructionlab.com/locations/halifax/"
+        },
+        {
+          "text": "London",
+          "href": "https://creativedestructionlab.com/locations/london/"
+        },
+        {
+          "text": "Melbourne",
+          "href": "https://creativedestructionlab.com/locations/melbourne/"
+        },
+        {
+          "text": "Milan",
+          "href": "https://creativedestructionlab.com/locations/milan/"
+        },
+        {
+          "text": "Montreal",
+          "href": "https://creativedestructionlab.com/locations/montreal/"
+        },
+        {
+          "text": "Paris",
+          "href": "https://creativedestructionlab.com/locations/paris/"
+        },
+        {
+          "text": "San Sebastian",
+          "href": "https://creativedestructionlab.com/locations/san-sebastian/"
+        },
+        {
+          "text": "Seattle",
+          "href": "https://creativedestructionlab.com/locations/seattle/"
+        },
+        {
+          "text": "Texas",
+          "href": "https://creativedestructionlab.com/locations/texas/"
+        },
+        {
+          "text": "Toronto",
+          "href": "https://creativedestructionlab.com/locations/toronto/"
+        },
+        {
+          "text": "Vancouver",
+          "href": "https://creativedestructionlab.com/locations/vancouver/"
+        },
+        {
+          "text": "Wisconsin",
+          "href": "https://creativedestructionlab.com/locations/wisconsin/"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://creativedestructionlab.com/mentors/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://creativedestructionlab.com/companies/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://creativedestructionlab.com/partners-program/"
+        },
+        {
+          "text": "Blog",
+          "href": "https://creativedestructionlab.com/blog/"
+        },
+        {
+          "text": "Community",
+          "href": "https://community.creativedestructionlab.com/"
+        },
+        {
+          "text": "EN",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "FR",
+          "href": "https://creativedestructionlab.com/fr/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://creativedestructionlab.com/application-triage/"
+        },
+        {
+          "text": "",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "",
+          "className": "hero-home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "Your browser does not support the video element. BUILD SOMETHING MASSIVE Watch video",
+          "rect": {
+            "x": 0,
+            "y": 62,
+            "width": 834,
+            "height": 1112
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/hero-sections/01-build-something-massive.png"
+        },
+        {
+          "index": 4,
+          "tag": "h1",
+          "id": "",
+          "className": "hero-title hero-title--home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "BUILD SOMETHING MASSIVE",
+          "rect": {
+            "x": 209,
+            "y": 518,
+            "width": 417,
+            "height": 150
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/hero-sections/02-build-something-massive.png"
+        },
+        {
+          "index": 5,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-0",
+          "label": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "rect": {
+            "x": 87,
+            "y": 1402,
+            "width": 661,
+            "height": 624
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/startup-showcase/03-creative-destruction-lab-cdl-is-a-nonprofit-organization-that-delivers-an-objectives-based.png"
+        },
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic in .scene-1",
+          "label": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses. “Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 80,
+            "y": 2057,
+            "width": 674,
+            "height": 557
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/hero-sections/04-our-mentors-share-founders-ambition-they-ve-pushed-the-boundaries-of-what-s-possible-in-th.png"
+        },
+        {
+          "index": 7,
+          "tag": "article",
+          "id": "",
+          "className": "unit s-35 mentor-testimonial",
+          "label": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustaina",
+          "text": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 466,
+            "y": 2181,
+            "width": 246,
+            "height": 432
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/hero-sections/05-why-do-we-do-cdl-for-me-it-s-to-improve-our-quality-of-life-build-something-massive-does-n.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-2",
+          "label": "CDL operates 23 streams",
+          "text": "CDL operates 23 streams Advanced Therapies AgriFood Artificial Intelligence Biomedical Engineering Cancer Climate Computational Health Compute Digital Society Energy Health Health & Wellness Manufacturing Minerals Neuro Next Gen Computing Oceans Prime Quantum Risk Space Supply Chain Web3",
+          "rect": {
+            "x": 87,
+            "y": 2735,
+            "width": 661,
+            "height": 1677
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/grid-systems/06-cdl-operates-23-streams.png"
+        },
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-locations",
+          "label": "16 locations globally",
+          "text": "16 locations globally Founded at the Rotman School of Management at the University of Toronto in 2012, CDL now operates five sites in Canada, three in the United States, six in Europe, one in Australia, and one in Asia. All locations ›",
+          "rect": {
+            "x": 0,
+            "y": 4357,
+            "width": 834,
+            "height": 626
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/ecosystem-maps/07-16-locations-globally.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4",
+          "label": "From the blog",
+          "text": "From the blog Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy. Announcements Creative Destruction Lab partners with BIC Gipuzkoa and IESE Business School to launch CDL-San Sebastian in Spain CDL-San Sebastian will join the global CDL Quantum program, and launch a CDL AI stream focused on natural language processing and multilingual models to complement the arrival of the IBM System Two quantum computer and strengthen Gipuzkoa’s role as a growing hub for deep tech commercialization in Europe.",
+          "rect": {
+            "x": 80,
+            "y": 4950,
+            "width": 674,
+            "height": 748
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/cta-systems/08-from-the-blog.png"
+        },
+        {
+          "index": 11,
+          "tag": "article",
+          "id": "",
+          "className": "article-card unit",
+          "label": "Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha",
+          "text": "Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy.",
+          "rect": {
+            "x": 56,
+            "y": 4981,
+            "width": 361,
+            "height": 717
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/ecosystem-maps/09-creative-destruction-lab-connects-entrepreneurs-to-global-network-with-cdl-doha.png"
+        },
+        {
+          "index": 13,
+          "tag": "div",
+          "id": "",
+          "className": "cta pad",
+          "label": "Applications are now open for the 2026/27 program year",
+          "text": "Applications are now open for the 2026/27 program year Apply",
+          "rect": {
+            "x": 0,
+            "y": 5762,
+            "width": 834,
+            "height": 174
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/cta-systems/10-applications-are-now-open-for-the-2026-27-program-year.png"
+        },
+        {
+          "index": 16,
+          "tag": "footer",
+          "id": "",
+          "className": "footer",
+          "label": "Creative Destruction Lab™ founded at the Rotman School of Management",
+          "text": "Log in to Community CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy Sign up for email updates Creative Destruction Lab™ founded at the Rotman School of Management",
+          "rect": {
+            "x": 0,
+            "y": 5936,
+            "width": 834,
+            "height": 1752
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/cta-systems/11-creative-destruction-lab-founded-at-the-rotman-school-of-management.png"
+        },
+        {
+          "index": 17,
+          "tag": "nav",
+          "id": "",
+          "className": "nav nav--footer has-community",
+          "label": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "text": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "rect": {
+            "x": 80,
+            "y": 6080,
+            "width": 674,
+            "height": 192
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/creative-destruction-lab/tablet/navigation/12-cdl-intro-webinar-faqs-press-job-postings-contact-privacy-policy.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Home - Creative Destruction Lab",
+      "finalUrl": "https://creativedestructionlab.com/",
+      "language": "en",
+      "fontFamilies": [
+        "FuturaBT-Book, Helvetica, Arial, sans-serif",
+        "FuturaBT-Heavy"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(236, 4, 123)",
+        "rgb(102, 102, 102)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "BUILD SOMETHING MASSIVE",
+          "fontSize": "50px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h2",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "CDL operates 23 streams",
+          "fontSize": "24px",
+          "fontWeight": "400",
+          "lineHeight": "31.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "Advanced Therapies",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "AgriFood",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Artificial Intelligence",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Biomedical Engineering",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cancer",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Climate",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Computational Health",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Compute",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Society",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Energy",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Health & Wellness",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manufacturing",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Minerals",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neuro",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Next Gen Computing",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Oceans",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Prime",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Quantum",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Risk",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Unlocking Enterprise Productivity Through AI: CDL’s Putting AI to Work Program",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "×",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": ".cls-1{fill:#ed037c}",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        },
+        {
+          "text": "Energy",
+          "href": "https://creativedestructionlab.com/streams/energy/"
+        },
+        {
+          "text": "Health",
+          "href": "https://creativedestructionlab.com/streams/health/"
+        },
+        {
+          "text": "Health & Wellness",
+          "href": "https://creativedestructionlab.com/streams/health/health-wellness/"
+        },
+        {
+          "text": "Manufacturing",
+          "href": "https://creativedestructionlab.com/streams/manufacturing/"
+        },
+        {
+          "text": "Minerals",
+          "href": "https://creativedestructionlab.com/streams/minerals/"
+        },
+        {
+          "text": "Neuro",
+          "href": "https://creativedestructionlab.com/streams/health/neuro/"
+        },
+        {
+          "text": "Next Gen Computing",
+          "href": "https://creativedestructionlab.com/streams/next-gen-computing/"
+        },
+        {
+          "text": "Oceans",
+          "href": "https://creativedestructionlab.com/streams/oceans/"
+        },
+        {
+          "text": "Quantum",
+          "href": "https://creativedestructionlab.com/streams/quantum/"
+        },
+        {
+          "text": "Risk",
+          "href": "https://creativedestructionlab.com/streams/risk/"
+        },
+        {
+          "text": "Space",
+          "href": "https://creativedestructionlab.com/streams/space/"
+        },
+        {
+          "text": "Supply Chain",
+          "href": "https://creativedestructionlab.com/streams/supply-chain/"
+        },
+        {
+          "text": "Web3",
+          "href": "https://creativedestructionlab.com/streams/blockchain-web3/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Berlin",
+          "href": "https://creativedestructionlab.com/locations/berlin/"
+        },
+        {
+          "text": "Calgary",
+          "href": "https://creativedestructionlab.com/locations/calgary/"
+        },
+        {
+          "text": "Doha",
+          "href": "https://creativedestructionlab.com/locations/doha/"
+        },
+        {
+          "text": "Estonia",
+          "href": "https://creativedestructionlab.com/locations/estonia/"
+        },
+        {
+          "text": "Halifax",
+          "href": "https://creativedestructionlab.com/locations/halifax/"
+        },
+        {
+          "text": "London",
+          "href": "https://creativedestructionlab.com/locations/london/"
+        },
+        {
+          "text": "Melbourne",
+          "href": "https://creativedestructionlab.com/locations/melbourne/"
+        },
+        {
+          "text": "Milan",
+          "href": "https://creativedestructionlab.com/locations/milan/"
+        },
+        {
+          "text": "Montreal",
+          "href": "https://creativedestructionlab.com/locations/montreal/"
+        },
+        {
+          "text": "Paris",
+          "href": "https://creativedestructionlab.com/locations/paris/"
+        },
+        {
+          "text": "San Sebastian",
+          "href": "https://creativedestructionlab.com/locations/san-sebastian/"
+        },
+        {
+          "text": "Seattle",
+          "href": "https://creativedestructionlab.com/locations/seattle/"
+        },
+        {
+          "text": "Texas",
+          "href": "https://creativedestructionlab.com/locations/texas/"
+        },
+        {
+          "text": "Toronto",
+          "href": "https://creativedestructionlab.com/locations/toronto/"
+        },
+        {
+          "text": "Vancouver",
+          "href": "https://creativedestructionlab.com/locations/vancouver/"
+        },
+        {
+          "text": "Wisconsin",
+          "href": "https://creativedestructionlab.com/locations/wisconsin/"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://creativedestructionlab.com/mentors/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://creativedestructionlab.com/companies/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://creativedestructionlab.com/partners-program/"
+        },
+        {
+          "text": "Blog",
+          "href": "https://creativedestructionlab.com/blog/"
+        },
+        {
+          "text": "Community",
+          "href": "https://community.creativedestructionlab.com/"
+        },
+        {
+          "text": "EN",
+          "href": "https://creativedestructionlab.com/"
+        },
+        {
+          "text": "FR",
+          "href": "https://creativedestructionlab.com/fr/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://creativedestructionlab.com/application-triage/"
+        },
+        {
+          "text": "",
+          "href": "https://creativedestructionlab.com/#"
+        },
+        {
+          "text": "About",
+          "href": "https://creativedestructionlab.com/about/"
+        },
+        {
+          "text": "Program",
+          "href": "https://creativedestructionlab.com/program/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Locations",
+          "href": "https://creativedestructionlab.com/locations/"
+        },
+        {
+          "text": "Staff",
+          "href": "https://creativedestructionlab.com/cdl-staff/"
+        },
+        {
+          "text": "Putting AI to Work",
+          "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+        },
+        {
+          "text": "CDL Research",
+          "href": "https://creativedestructionlab.com/data-research/"
+        },
+        {
+          "text": "Streams",
+          "href": "https://creativedestructionlab.com/streams/"
+        },
+        {
+          "text": "Prime (General)",
+          "href": "https://creativedestructionlab.com/streams/prime/"
+        },
+        {
+          "text": "Advanced Therapies",
+          "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+        },
+        {
+          "text": "AgriFood",
+          "href": "https://creativedestructionlab.com/streams/ag/"
+        },
+        {
+          "text": "Artificial Intelligence",
+          "href": "https://creativedestructionlab.com/streams/ai/"
+        },
+        {
+          "text": "Biomedical Engineering",
+          "href": "https://creativedestructionlab.com/streams/health/biomedical-engineering/"
+        },
+        {
+          "text": "Cancer",
+          "href": "https://creativedestructionlab.com/streams/health/cancer/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://creativedestructionlab.com/streams/climate/"
+        },
+        {
+          "text": "Computational Health",
+          "href": "https://creativedestructionlab.com/streams/health/computational-health/"
+        },
+        {
+          "text": "Compute",
+          "href": "https://creativedestructionlab.com/streams/compute/"
+        },
+        {
+          "text": "Defence",
+          "href": "https://creativedestructionlab.com/streams/defence/"
+        },
+        {
+          "text": "Digital Society",
+          "href": "https://creativedestructionlab.com/streams/digital-society/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "",
+          "className": "hero-home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "Your browser does not support the video element. BUILD SOMETHING MASSIVE Watch video",
+          "rect": {
+            "x": 0,
+            "y": 62,
+            "width": 390,
+            "height": 844
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/hero-sections/01-build-something-massive.png"
+        },
+        {
+          "index": 4,
+          "tag": "h1",
+          "id": "",
+          "className": "hero-title hero-title--home",
+          "label": "BUILD SOMETHING MASSIVE",
+          "text": "BUILD SOMETHING MASSIVE",
+          "rect": {
+            "x": 0,
+            "y": 354,
+            "width": 390,
+            "height": 210
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/hero-sections/02-build-something-massive.png"
+        },
+        {
+          "index": 5,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-0",
+          "label": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "text": "Creative Destruction Lab (CDL) is a nonprofit organization that delivers an objectives-based program for massively scalable, seed-stage, science- and technology-based companies.",
+          "rect": {
+            "x": 28,
+            "y": 1136,
+            "width": 333,
+            "height": 744
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/startup-showcase/03-creative-destruction-lab-cdl-is-a-nonprofit-organization-that-delivers-an-objectives-based.png"
+        },
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic in .scene-1",
+          "label": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses.",
+          "text": "Our mentors share founders’ ambition. They’ve pushed the boundaries of what’s possible in their own businesses. “Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 25,
+            "y": 1912,
+            "width": 340,
+            "height": 761
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/hero-sections/04-our-mentors-share-founders-ambition-they-ve-pushed-the-boundaries-of-what-s-possible-in-th.png"
+        },
+        {
+          "index": 7,
+          "tag": "article",
+          "id": "",
+          "className": "unit s-35 mentor-testimonial",
+          "label": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustaina",
+          "text": "“Why do we do CDL? For me, it’s to improve our quality of life. ‘Build Something Massive’ does not just mean profit. These technologies are important for trying to build a sustainable world.” Chris Hadfield Former Commander of the International Space Station See all Mentors ›",
+          "rect": {
+            "x": 10,
+            "y": 2319,
+            "width": 370,
+            "height": 353
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/hero-sections/05-why-do-we-do-cdl-for-me-it-s-to-improve-our-quality-of-life-build-something-massive-does-n.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4 magic up-in .scene-2",
+          "label": "CDL operates 23 streams",
+          "text": "CDL operates 23 streams Advanced Therapies AgriFood Artificial Intelligence Biomedical Engineering Cancer Climate Computational Health Compute Digital Society Energy Health Health & Wellness Manufacturing Minerals Neuro Next Gen Computing Oceans Prime Quantum Risk Space Supply Chain Web3",
+          "rect": {
+            "x": 28,
+            "y": 2796,
+            "width": 333,
+            "height": 1889
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/grid-systems/06-cdl-operates-23-streams.png"
+        },
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-locations",
+          "label": "16 locations globally",
+          "text": "16 locations globally Founded at the Rotman School of Management at the University of Toronto in 2012, CDL now operates five sites in Canada, three in the United States, six in Europe, one in Australia, and one in Asia. All locations ›",
+          "rect": {
+            "x": 0,
+            "y": 4728,
+            "width": 390,
+            "height": 502
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/ecosystem-maps/07-16-locations-globally.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "v-space-4",
+          "label": "From the blog",
+          "text": "From the blog Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy. Announcements Creative Destruction Lab partners with BIC Gipuzkoa and IESE Business School to launch CDL-San Sebastian in Spain CDL-San Sebastian will join the global CDL Quantum program, and launch a CDL AI stream focused on natural language processing and multilingual models to complement the arrival of the IBM System Two quantum computer and strengthen Gipuzkoa’s role as a growing hub for deep tech commercialization in Europe.",
+          "rect": {
+            "x": 25,
+            "y": 5294,
+            "width": 340,
+            "height": 1373
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/cta-systems/08-from-the-blog.png"
+        },
+        {
+          "index": 11,
+          "tag": "article",
+          "id": "",
+          "className": "article-card unit",
+          "label": "Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha",
+          "text": "Announcements Creative Destruction Lab Connects Entrepreneurs to Global Network with CDL-Doha With funding from the Qatar Investment Authority and the Qatar Research, Development, and Innovation Council, CDL-Doha will advance research-driven entrepreneurship and strengthen Qatar’s role in the global innovation economy.",
+          "rect": {
+            "x": 1,
+            "y": 5325,
+            "width": 388,
+            "height": 634
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/ecosystem-maps/09-creative-destruction-lab-connects-entrepreneurs-to-global-network-with-cdl-doha.png"
+        },
+        {
+          "index": 12,
+          "tag": "article",
+          "id": "",
+          "className": "article-card unit",
+          "label": "Creative Destruction Lab partners with BIC Gipuzkoa and IESE Business School to launch CDL-San Sebastian in Spain",
+          "text": "Announcements Creative Destruction Lab partners with BIC Gipuzkoa and IESE Business School to launch CDL-San Sebastian in Spain CDL-San Sebastian will join the global CDL Quantum program, and launch a CDL AI stream focused on natural language processing and multilingual models to complement the arrival of the IBM System Two quantum computer and strengthen Gipuzkoa’s role as a growing hub for deep tech commercialization in Europe.",
+          "rect": {
+            "x": 1,
+            "y": 5959,
+            "width": 388,
+            "height": 708
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/cta-systems/10-creative-destruction-lab-partners-with-bic-gipuzkoa-and-iese-business-school-to-launch-cdl.png"
+        },
+        {
+          "index": 13,
+          "tag": "div",
+          "id": "",
+          "className": "cta pad",
+          "label": "Applications are now open for the 2026/27 program year",
+          "text": "Applications are now open for the 2026/27 program year Apply",
+          "rect": {
+            "x": 0,
+            "y": 6731,
+            "width": 390,
+            "height": 247
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/cta-systems/11-applications-are-now-open-for-the-2026-27-program-year.png"
+        },
+        {
+          "index": 14,
+          "tag": "div",
+          "id": "",
+          "className": "cta__block",
+          "label": "Applications are now open for the 2026/27 program year",
+          "text": "Applications are now open for the 2026/27 program year",
+          "rect": {
+            "x": 30,
+            "y": 6761,
+            "width": 330,
+            "height": 109
+          },
+          "category": "application-funnels",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/application-funnels/12-applications-are-now-open-for-the-2026-27-program-year.png"
+        },
+        {
+          "index": 16,
+          "tag": "footer",
+          "id": "",
+          "className": "footer",
+          "label": "Creative Destruction Lab™ founded at the Rotman School of Management",
+          "text": "Log in to Community CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy Sign up for email updates Creative Destruction Lab™ founded at the Rotman School of Management",
+          "rect": {
+            "x": 0,
+            "y": 6977,
+            "width": 390,
+            "height": 1408
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/cta-systems/13-creative-destruction-lab-founded-at-the-rotman-school-of-management.png"
+        },
+        {
+          "index": 17,
+          "tag": "nav",
+          "id": "",
+          "className": "nav nav--footer has-community",
+          "label": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "text": "CDL Intro Webinar FAQs Press Job Postings Contact Privacy Policy",
+          "rect": {
+            "x": 25,
+            "y": 7121,
+            "width": 340,
+            "height": 192
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/creative-destruction-lab/mobile/navigation/14-cdl-intro-webinar-faqs-press-job-postings-contact-privacy-policy.png"
+        }
+      ]
+    }
+  }
+}

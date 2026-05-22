@@ -1,0 +1,1749 @@
+{
+  "site": {
+    "name": "500 Global",
+    "slug": "500-global",
+    "url": "https://500.co/",
+    "category": "global-accelerator",
+    "priority": 1,
+    "focus": [
+      "portfolio density",
+      "investment credibility",
+      "global ecosystem"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:24:45.362Z",
+  "viewports": {
+    "desktop": {
+      "title": "500 Global",
+      "finalUrl": "https://500.co/",
+      "language": null,
+      "fontFamilies": [
+        "\"Apercu Pro\", sans-serif",
+        "\"Apercu Mono Pro\"",
+        "\"Tobias Light\", serif",
+        "\"Apercu Pro\"",
+        "\"Apercu Mono Pro\", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "Tobias",
+        "\"Apercu Mono Pro\", sans-serif",
+        "\"Apercu Mono\", sans-serif"
+      ],
+      "colors": [
+        "rgb(2, 8, 23)",
+        "rgb(10, 30, 37)",
+        "rgb(102, 102, 102)",
+        "rgb(255, 255, 255)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(229, 231, 235)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h2",
+          "text": "Talent lives everywhere. Capital and opportunity does not.",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Alberta Accelerator by 500",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Putting performance to work",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h1",
+          "text": "thematic focus pages, to add in v2",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "21px"
+        },
+        {
+          "tag": "h2",
+          "text": "Upcoming events",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Content Block: One-column description",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cairo Collective InnovAItion Summit by 500 Global",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "Disclaimer",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "18px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://500.co/"
+        },
+        {
+          "text": "PORTFOLIO",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "See our full portfolio→",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERS",
+          "href": "https://500.co/founders/alberta/accelerator"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "href": "https://events.500.co/irishstartupshowcase/website"
+        },
+        {
+          "text": "FounderCairo Collective InnovAItion Summit by 500 GlobalDecember 18th, 2024 Cairo, EgyptInvite only→",
+          "href": "http://events.500.co/jstarx24/Website"
+        },
+        {
+          "text": "Contact",
+          "href": "https://500.co/get-in-touch"
+        },
+        {
+          "text": "Careers",
+          "href": "https://500.co/careers"
+        },
+        {
+          "text": "Content Hub",
+          "href": "https://500.co/content"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://500.co/newsletter-sign-up"
+        },
+        {
+          "text": "Partnerships",
+          "href": "https://500.co/partnerships"
+        },
+        {
+          "text": "LP Portal",
+          "href": "https://adfs4.sts.altareturn.com/adfs/ls/?wa=wsignin1.0&wtrealm=urn%3aportal%3a500&wctx=https%3a%2f%2f500.altareturn.com%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2f500.altareturn.com%2f_trust%2fdefault.aspx"
+        },
+        {
+          "text": "Strategy",
+          "href": "https://500.co/funds"
+        },
+        {
+          "text": "Directory",
+          "href": "https://500.co/directory"
+        },
+        {
+          "text": "Legal",
+          "href": "https://500.co/legal#terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://500.co/legal"
+        },
+        {
+          "text": "Do Not Sell/Share My Info",
+          "href": "https://500.co/legal#do-not-sell-share-my-info"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/500GlobalVC"
+        },
+        {
+          "text": "",
+          "href": "https://facebook.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://instagram.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://linkedin.com/company/500global"
+        }
+      ],
+      "sections": [
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "css-88hukf",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.See our full portfolio→",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 1440,
+            "height": 445
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/01-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.",
+          "rect": {
+            "x": 120,
+            "y": 112,
+            "width": 1200,
+            "height": 175
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/02-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 12,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERSUS/Global↓US/GlobalLatin AmericaMiddle East/North AfricaEurasiaSoutheast AsiaEast AsiaUS/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSUS/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "rect": {
+            "x": 120,
+            "y": 510,
+            "width": 1200,
+            "height": 797
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/desktop/navigation/03-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 13,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→",
+          "rect": {
+            "x": 160,
+            "y": 570,
+            "width": 1120,
+            "height": 233
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/desktop/navigation/04-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 120,
+            "y": 1327,
+            "width": 1200,
+            "height": 558
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/desktop/navigation/05-putting-performance-to-work.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 160,
+            "y": 1347,
+            "width": 1120,
+            "height": 518
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/desktop/navigation/06-putting-performance-to-work.png"
+        },
+        {
+          "index": 17,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "$2.3Bin AUM1",
+          "text": "$2.3Bin AUM1",
+          "rect": {
+            "x": 740,
+            "y": 1409,
+            "width": 260,
+            "height": 90
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/desktop/grid-systems/07-2-3bin-aum1.png"
+        },
+        {
+          "index": 19,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "35+companies valued at $1B2",
+          "text": "35+companies valued at $1B2",
+          "rect": {
+            "x": 740,
+            "y": 1580,
+            "width": 260,
+            "height": 88
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/08-35-companies-valued-at-1b2.png"
+        },
+        {
+          "index": 21,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "3,000+startups backed",
+          "text": "3,000+startups backed",
+          "rect": {
+            "x": 740,
+            "y": 1743,
+            "width": 260,
+            "height": 88
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/09-3-000-startups-backed.png"
+        },
+        {
+          "index": 24,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 120,
+            "y": 1885,
+            "width": 1200,
+            "height": 608
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/desktop/hero-sections/10-upcoming-events.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 160,
+            "y": 1945,
+            "width": 1120,
+            "height": 488
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/desktop/hero-sections/11-upcoming-events.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "rect": {
+            "x": 184,
+            "y": 2053,
+            "width": 312,
+            "height": 236
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/desktop/hero-sections/12-networkingirish-startup-showcase-by-500-globalmay-14th-2026san-francisco-ca.png"
+        },
+        {
+          "index": 29,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Content Block: One-column description",
+          "text": "Content Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttitor nunc ut magnis nibh volutpat nibh. Malesuada a hendrerit tincidunt in ut a erat sed. A condimentum enim nec vel convallis vitae sit scelerisque tincidunt. Arcu vitae cras et dui turpis mi ornare libero ultricies. Sit ut pellentesque vulputate aliquam non adipiscing rhoncus interdum consectetur. Egestas tortor accumsan pharetra scelerisque vitae a venenatis consequat libero. Leo neque sagittis lectus consequat accumsan id quis. Eget sit faucibus vitae vel vitae elit tempor enim vulputate.C",
+          "rect": {
+            "x": 160,
+            "y": 2333,
+            "width": 1120,
+            "height": 100
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/desktop/grid-systems/13-content-block-one-column-description.png"
+        },
+        {
+          "index": 32,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 120,
+            "y": 2493,
+            "width": 1200,
+            "height": 444
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/14-disclaimer.png"
+        },
+        {
+          "index": 33,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 170,
+            "y": 2553,
+            "width": 1100,
+            "height": 324
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/desktop/startup-showcase/15-disclaimer.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "500 Global",
+      "finalUrl": "https://500.co/",
+      "language": null,
+      "fontFamilies": [
+        "\"Apercu Pro\", sans-serif",
+        "\"Apercu Mono Pro\"",
+        "\"Tobias Light\", serif",
+        "\"Apercu Pro\"",
+        "\"Apercu Mono Pro\", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "Tobias",
+        "\"Apercu Mono Pro\", sans-serif",
+        "\"Apercu Mono\", sans-serif"
+      ],
+      "colors": [
+        "rgb(2, 8, 23)",
+        "rgb(10, 30, 37)",
+        "rgb(102, 102, 102)",
+        "rgb(255, 255, 255)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(229, 231, 235)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h2",
+          "text": "Talent lives everywhere. Capital and opportunity does not.",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Alberta Accelerator by 500",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Putting performance to work",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h1",
+          "text": "thematic focus pages, to add in v2",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "21px"
+        },
+        {
+          "tag": "h2",
+          "text": "Upcoming events",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Content Block: One-column description",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cairo Collective InnovAItion Summit by 500 Global",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "Disclaimer",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "18px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://500.co/"
+        },
+        {
+          "text": "PORTFOLIO",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "See our full portfolio→",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERS",
+          "href": "https://500.co/founders/alberta/accelerator"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "href": "https://events.500.co/irishstartupshowcase/website"
+        },
+        {
+          "text": "FounderCairo Collective InnovAItion Summit by 500 GlobalDecember 18th, 2024 Cairo, EgyptInvite only→",
+          "href": "http://events.500.co/jstarx24/Website"
+        },
+        {
+          "text": "Contact",
+          "href": "https://500.co/get-in-touch"
+        },
+        {
+          "text": "Careers",
+          "href": "https://500.co/careers"
+        },
+        {
+          "text": "Content Hub",
+          "href": "https://500.co/content"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://500.co/newsletter-sign-up"
+        },
+        {
+          "text": "Partnerships",
+          "href": "https://500.co/partnerships"
+        },
+        {
+          "text": "LP Portal",
+          "href": "https://adfs4.sts.altareturn.com/adfs/ls/?wa=wsignin1.0&wtrealm=urn%3aportal%3a500&wctx=https%3a%2f%2f500.altareturn.com%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2f500.altareturn.com%2f_trust%2fdefault.aspx"
+        },
+        {
+          "text": "Strategy",
+          "href": "https://500.co/funds"
+        },
+        {
+          "text": "Directory",
+          "href": "https://500.co/directory"
+        },
+        {
+          "text": "Legal",
+          "href": "https://500.co/legal#terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://500.co/legal"
+        },
+        {
+          "text": "Do Not Sell/Share My Info",
+          "href": "https://500.co/legal#do-not-sell-share-my-info"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/500GlobalVC"
+        },
+        {
+          "text": "",
+          "href": "https://facebook.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://instagram.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://linkedin.com/company/500global"
+        }
+      ],
+      "sections": [
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "css-88hukf",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.See our full portfolio→",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 834,
+            "height": 518
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/01-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.",
+          "rect": {
+            "x": 20,
+            "y": 112,
+            "width": 794,
+            "height": 248
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/02-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 12,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERSUS/Global↓US/GlobalLatin AmericaMiddle East/North AfricaEurasiaSoutheast AsiaEast AsiaUS/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSUS/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "rect": {
+            "x": 0,
+            "y": 583,
+            "width": 834,
+            "height": 660
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/tablet/navigation/03-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 13,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→",
+          "rect": {
+            "x": 40,
+            "y": 643,
+            "width": 754,
+            "height": 233
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/tablet/navigation/04-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 0,
+            "y": 1263,
+            "width": 834,
+            "height": 1102
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/tablet/navigation/05-putting-performance-to-work.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 40,
+            "y": 1283,
+            "width": 754,
+            "height": 1062
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/tablet/navigation/06-putting-performance-to-work.png"
+        },
+        {
+          "index": 17,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "$2.3Bin AUM1",
+          "text": "$2.3Bin AUM1",
+          "rect": {
+            "x": 40,
+            "y": 1472,
+            "width": 754,
+            "height": 90
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/tablet/grid-systems/07-2-3bin-aum1.png"
+        },
+        {
+          "index": 18,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "$300B+cumulative portfolio valuation2",
+          "text": "$300B+cumulative portfolio valuation2",
+          "rect": {
+            "x": 40,
+            "y": 1623,
+            "width": 754,
+            "height": 90
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/08-300b-cumulative-portfolio-valuation2.png"
+        },
+        {
+          "index": 19,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "35+companies valued at $1B2",
+          "text": "35+companies valued at $1B2",
+          "rect": {
+            "x": 40,
+            "y": 1794,
+            "width": 754,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/09-35-companies-valued-at-1b2.png"
+        },
+        {
+          "index": 20,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "160+companies valued at $100M2",
+          "text": "160+companies valued at $100M2",
+          "rect": {
+            "x": 40,
+            "y": 1937,
+            "width": 754,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/10-160-companies-valued-at-100m2.png"
+        },
+        {
+          "index": 21,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "3,000+startups backed",
+          "text": "3,000+startups backed",
+          "rect": {
+            "x": 40,
+            "y": 2080,
+            "width": 754,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/11-3-000-startups-backed.png"
+        },
+        {
+          "index": 22,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "1,400+investors trained",
+          "text": "1,400+investors trained",
+          "rect": {
+            "x": 40,
+            "y": 2223,
+            "width": 754,
+            "height": 82
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/tablet/grid-systems/12-1-400-investors-trained.png"
+        },
+        {
+          "index": 24,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 0,
+            "y": 2365,
+            "width": 834,
+            "height": 1125
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/tablet/hero-sections/13-upcoming-events.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 119,
+            "y": 2425,
+            "width": 596,
+            "height": 1005
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/tablet/hero-sections/14-upcoming-events.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "rect": {
+            "x": 143,
+            "y": 2533,
+            "width": 548,
+            "height": 206
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/tablet/hero-sections/15-networkingirish-startup-showcase-by-500-globalmay-14th-2026san-francisco-ca.png"
+        },
+        {
+          "index": 27,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite only",
+          "text": "networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite only",
+          "rect": {
+            "x": 143,
+            "y": 2807,
+            "width": 548,
+            "height": 206
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/tablet/grid-systems/16-networking500-global-japan-pre-summer-bbq-2026april-15th-2026tokyo-japaninvite-only.png"
+        },
+        {
+          "index": 28,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite only",
+          "text": "networkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite only",
+          "rect": {
+            "x": 143,
+            "y": 3080,
+            "width": 548,
+            "height": 206
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/tablet/grid-systems/17-networkingai-researchers-super-hike-brunchapril-26th-2026san-francisco-cainvite-only.png"
+        },
+        {
+          "index": 29,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Content Block: One-column description",
+          "text": "Content Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttitor nunc ut magnis nibh volutpat nibh. Malesuada a hendrerit tincidunt in ut a erat sed. A condimentum enim nec vel convallis vitae sit scelerisque tincidunt. Arcu vitae cras et dui turpis mi ornare libero ultricies. Sit ut pellentesque vulputate aliquam non adipiscing rhoncus interdum consectetur. Egestas tortor accumsan pharetra scelerisque vitae a venenatis consequat libero. Leo neque sagittis lectus consequat accumsan id quis. Eget sit faucibus vitae vel vitae elit tempor enim vulputate.C",
+          "rect": {
+            "x": 119,
+            "y": 3330,
+            "width": 596,
+            "height": 100
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/tablet/grid-systems/18-content-block-one-column-description.png"
+        },
+        {
+          "index": 32,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 0,
+            "y": 3490,
+            "width": 834,
+            "height": 574
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/19-disclaimer.png"
+        },
+        {
+          "index": 33,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 50,
+            "y": 3550,
+            "width": 734,
+            "height": 454
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/tablet/startup-showcase/20-disclaimer.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "500 Global",
+      "finalUrl": "https://500.co/",
+      "language": null,
+      "fontFamilies": [
+        "\"Apercu Pro\", sans-serif",
+        "\"Apercu Mono Pro\"",
+        "\"Tobias Light\", serif",
+        "\"Apercu Pro\"",
+        "\"Apercu Mono Pro\", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "Tobias",
+        "\"Apercu Mono Pro\", sans-serif",
+        "\"Apercu Mono\", sans-serif"
+      ],
+      "colors": [
+        "rgb(2, 8, 23)",
+        "rgb(10, 30, 37)",
+        "rgb(102, 102, 102)",
+        "rgb(255, 255, 255)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(229, 231, 235)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h1",
+          "text": "We invest in the world's potential",
+          "fontSize": "60px",
+          "fontWeight": "400",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h2",
+          "text": "Talent lives everywhere. Capital and opportunity does not.",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Flagship Accelerator",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "VC Unlocked: Silicon Valley",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Alberta Accelerator by 500",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Growth Strategy",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h2",
+          "text": "Putting performance to work",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h1",
+          "text": "thematic focus pages, to add in v2",
+          "fontSize": "18px",
+          "fontWeight": "400",
+          "lineHeight": "21px"
+        },
+        {
+          "tag": "h2",
+          "text": "Upcoming events",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h2",
+          "text": "Content Block: One-column description",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "44px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cairo Collective InnovAItion Summit by 500 Global",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "Disclaimer",
+          "fontSize": "14px",
+          "fontWeight": "400",
+          "lineHeight": "18px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://500.co/"
+        },
+        {
+          "text": "PORTFOLIO",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "See our full portfolio→",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORS",
+          "href": "https://500.co/strategy/flagship"
+        },
+        {
+          "text": "US/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERS",
+          "href": "https://500.co/founders/flagship"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORS",
+          "href": "https://500.co/venture-education/vcu/stanford"
+        },
+        {
+          "text": "US/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERS",
+          "href": "https://500.co/founders/alberta/accelerator"
+        },
+        {
+          "text": "GlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "href": "https://500.co/strategy/sustainable-growth"
+        },
+        {
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "href": "https://events.500.co/irishstartupshowcase/website"
+        },
+        {
+          "text": "FounderCairo Collective InnovAItion Summit by 500 GlobalDecember 18th, 2024 Cairo, EgyptInvite only→",
+          "href": "http://events.500.co/jstarx24/Website"
+        },
+        {
+          "text": "Contact",
+          "href": "https://500.co/get-in-touch"
+        },
+        {
+          "text": "Careers",
+          "href": "https://500.co/careers"
+        },
+        {
+          "text": "Content Hub",
+          "href": "https://500.co/content"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://500.co/portfolio"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://500.co/newsletter-sign-up"
+        },
+        {
+          "text": "Partnerships",
+          "href": "https://500.co/partnerships"
+        },
+        {
+          "text": "LP Portal",
+          "href": "https://adfs4.sts.altareturn.com/adfs/ls/?wa=wsignin1.0&wtrealm=urn%3aportal%3a500&wctx=https%3a%2f%2f500.altareturn.com%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2f500.altareturn.com%2f_trust%2fdefault.aspx"
+        },
+        {
+          "text": "Strategy",
+          "href": "https://500.co/funds"
+        },
+        {
+          "text": "Directory",
+          "href": "https://500.co/directory"
+        },
+        {
+          "text": "Legal",
+          "href": "https://500.co/legal#terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://500.co/legal"
+        },
+        {
+          "text": "Do Not Sell/Share My Info",
+          "href": "https://500.co/legal#do-not-sell-share-my-info"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/500GlobalVC"
+        },
+        {
+          "text": "",
+          "href": "https://facebook.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://instagram.com/500Global/"
+        },
+        {
+          "text": "",
+          "href": "https://linkedin.com/company/500global"
+        }
+      ],
+      "sections": [
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "css-88hukf",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.See our full portfolio→",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 390,
+            "height": 722
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/01-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 10,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "We invest in the world's potential",
+          "text": "We invest in the world's potential500 Global is a VC firm with $2.3 billion¹ in AUM investing in globally ambitious founders building fast-growing technology companies. We focus on the U.S. and global markets where innovation, capital, and ecosystems can propel startups and unlock long-term value.",
+          "rect": {
+            "x": 20,
+            "y": 104,
+            "width": 350,
+            "height": 457
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/02-we-invest-in-the-world-s-potential.png"
+        },
+        {
+          "index": 12,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→US/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERSUS/Global↓US/GlobalLatin AmericaMiddle East/North AfricaEurasiaSoutheast AsiaEast AsiaUS/GlobalFOR INVESTORSFlagship StrategyFOR INVESTORSUS/GlobalFOR FOUNDERSFlagship AcceleratorFOR FOUNDERSUS/GlobalPROGRAM FOR INVESTORSVC Unlocked: Silicon ValleyPROGRAM FOR INVESTORSUS/GlobalPROGRAM FOR FOUNDERSAlberta Accelerator by 500PROGRAM FOR FOUNDERSGlobalFOR ENABLERSSustainable Growth StrategyFOR ENABLERS",
+          "rect": {
+            "x": 0,
+            "y": 787,
+            "width": 390,
+            "height": 1492
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/mobile/navigation/03-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 13,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Talent lives everywhere. Capital and opportunity does not.",
+          "text": "Talent lives everywhere. Capital and opportunity does not. We invest in founders and empower investors with a global mindset across sectors, geographies, and markets where our capital, global networks, and resources can unlock their potential to drive uncommon outcomes. Leveraging our deep local expertise in the US and nascent ecosystems, we provide mentorship and resources that founders and investors need to navigate and scale across diverse markets worldwide.Custom button→",
+          "rect": {
+            "x": 40,
+            "y": 827,
+            "width": 310,
+            "height": 512
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/mobile/navigation/04-talent-lives-everywhere-capital-and-opportunity-does-not.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 0,
+            "y": 2299,
+            "width": 390,
+            "height": 1356
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/mobile/navigation/05-putting-performance-to-work.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Putting performance to work",
+          "text": "Putting performance to workWe make venture education, resources, networking, and venture capital accessible to regions with untapped potential. We drive sustainable innovation and growth locally and globally by fostering communities of entrepreneurs, investors, mentors, and operators in 80+ countries.$2.3Bin AUM1Lorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.$2.3Bin AUM1$300B+cumulative portfolio valuation235+companies valued at $1B2160+companies valued at $100M23,000+startups backed1,400+investors trained",
+          "rect": {
+            "x": 40,
+            "y": 2339,
+            "width": 310,
+            "height": 1276
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/500-global/mobile/navigation/06-putting-performance-to-work.png"
+        },
+        {
+          "index": 17,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "$2.3Bin AUM1",
+          "text": "$2.3Bin AUM1",
+          "rect": {
+            "x": 40,
+            "y": 2742,
+            "width": 310,
+            "height": 90
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/mobile/grid-systems/07-2-3bin-aum1.png"
+        },
+        {
+          "index": 18,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "$300B+cumulative portfolio valuation2",
+          "text": "$300B+cumulative portfolio valuation2",
+          "rect": {
+            "x": 40,
+            "y": 2893,
+            "width": 310,
+            "height": 90
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/08-300b-cumulative-portfolio-valuation2.png"
+        },
+        {
+          "index": 19,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "35+companies valued at $1B2",
+          "text": "35+companies valued at $1B2",
+          "rect": {
+            "x": 40,
+            "y": 3064,
+            "width": 310,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/09-35-companies-valued-at-1b2.png"
+        },
+        {
+          "index": 20,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "160+companies valued at $100M2",
+          "text": "160+companies valued at $100M2",
+          "rect": {
+            "x": 40,
+            "y": 3207,
+            "width": 310,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/10-160-companies-valued-at-100m2.png"
+        },
+        {
+          "index": 21,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "3,000+startups backed",
+          "text": "3,000+startups backed",
+          "rect": {
+            "x": 40,
+            "y": 3350,
+            "width": 310,
+            "height": 82
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/11-3-000-startups-backed.png"
+        },
+        {
+          "index": 22,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "1,400+investors trained",
+          "text": "1,400+investors trained",
+          "rect": {
+            "x": 40,
+            "y": 3493,
+            "width": 310,
+            "height": 82
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/mobile/grid-systems/12-1-400-investors-trained.png"
+        },
+        {
+          "index": 24,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 0,
+            "y": 3655,
+            "width": 390,
+            "height": 1320
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/mobile/hero-sections/13-upcoming-events.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Upcoming events",
+          "text": "Upcoming eventsLorem ipsum dolor sit amet consectetur. Hac quam suscipit et ultricies. Lobortis posuere interdum eget urna egestas augue. Duis nec turpis cursus ac turpis nunc. Lacus est tempus sed feugiat ultrices fermentum consectetur morbi.networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA → networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite onlynetworkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite onlyContent Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttit",
+          "rect": {
+            "x": 40,
+            "y": 3695,
+            "width": 310,
+            "height": 1240
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/mobile/hero-sections/14-upcoming-events.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "text": "networkingIrish Startup Showcase by 500 GlobalMay 14th, 2026San Francisco, CA →",
+          "rect": {
+            "x": 64,
+            "y": 3847,
+            "width": 262,
+            "height": 269
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/500-global/mobile/hero-sections/15-networkingirish-startup-showcase-by-500-globalmay-14th-2026san-francisco-ca.png"
+        },
+        {
+          "index": 27,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite only",
+          "text": "networking500 Global Japan Pre-Summer BBQ 2026April 15th, 2026Tokyo, JapanInvite only",
+          "rect": {
+            "x": 64,
+            "y": 4184,
+            "width": 262,
+            "height": 269
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/mobile/grid-systems/16-networking500-global-japan-pre-summer-bbq-2026april-15th-2026tokyo-japaninvite-only.png"
+        },
+        {
+          "index": 28,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "networkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite only",
+          "text": "networkingAI Researchers Super Hike & BrunchApril 26th, 2026San Francisco, CAinvite only",
+          "rect": {
+            "x": 64,
+            "y": 4522,
+            "width": 262,
+            "height": 269
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/mobile/grid-systems/17-networkingai-researchers-super-hike-brunchapril-26th-2026san-francisco-cainvite-only.png"
+        },
+        {
+          "index": 29,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Content Block: One-column description",
+          "text": "Content Block: One-column descriptionLorem ipsum dolor sit amet consectetur. Ac lacus vestibulum vestibulum tortor sed egestas congue et leo. A bibendum ornare vitae tempus. Pharetra sit ornare tellus convallis. Amet dictumst ligula nunc elementum pretium erat ut nibh ante. Nulla condimentum mauris arcu elementum donec amet pulvinar sodales. Elementum orci auctor in ut ut lacus vulputate egestas. Quis nec mattis ornare diam. Aliquet ullamcorper tincidunt aliquam consequat euismod et sed. Consectetur eget tristique rhoncus amet vitae tellus lectus natoque. Posuere at nibh elit sociis massa diam. Accumsan mi urna feugiat metus molestie.Diam purus quam duis risus odio. Ullamcorper non fusce porttitor nunc ut magnis nibh volutpat nibh. Malesuada a hendrerit tincidunt in ut a erat sed. A condimentum enim nec vel convallis vitae sit scelerisque tincidunt. Arcu vitae cras et dui turpis mi ornare libero ultricies. Sit ut pellentesque vulputate aliquam non adipiscing rhoncus interdum consectetur. Egestas tortor accumsan pharetra scelerisque vitae a venenatis consequat libero. Leo neque sagittis lectus consequat accumsan id quis. Eget sit faucibus vitae vel vitae elit tempor enim vulputate.C",
+          "rect": {
+            "x": 40,
+            "y": 4835,
+            "width": 310,
+            "height": 100
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/500-global/mobile/grid-systems/18-content-block-one-column-description.png"
+        },
+        {
+          "index": 32,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 0,
+            "y": 4975,
+            "width": 390,
+            "height": 1237
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/19-disclaimer.png"
+        },
+        {
+          "index": 33,
+          "tag": "section",
+          "id": "",
+          "className": "css-c7v8zh",
+          "label": "Disclaimer",
+          "text": "Disclaimer1. AS OF 30 APRIL 2025. ASSETS UNDER MANAGEMENT (“AUM”) STATED HEREIN ARE ROUNDED TO THE NEAREST $100M AND ARE CALCULATED IN ACCORDANCE WITH SEC FORM ADV PART 1A INSTRUCTION 5.B. TO INCLUDE THE CURRENT MARKET VALUE (OR FAIR VALUE) OF ALL PRIVATE FUND ASSETS AND THE CONTRACTUAL AMOUNT OF ANY UNCALLED COMMITMENTS TO SUCH PRIVATE FUNDS, TOGETHER WITH THE CURRENT MARKET VALUE OF ALL OTHER SECURITIES PORTFOLIOS FOR WHICH 500 STARTUPS MANAGEMENT COMPANY, L.L.C. OR ITS AFFILIATES PROVIDES ONGOING DISCRETIONARY INVESTMENT MANAGEMENT SERVICES, WITH MARKET VALUE DETERMINED USING THE SAME METHOD USED TO REPORT ACCOUNT VALUES TO CLIENTS OR TO CALCULATE FEES FOR INVESTMENT ADVISORY SERVICES. ASSETS UNDER MANAGEMENT MAY INCREASE OR DECREASE SIGNIFICANTLY OVER TIME.2. AS OF 30 APRIL 2025 AND INCLUDES PRIVATE, PUBLIC AND EXITED COMPANIES. FOR EXITED POSITIONS, VALUATION DATE IS DATE OF EXIT. THESE FIGURES ARE ESTIMATES, AGGREGATED ACROSS ALL PORTFOLIO COMPANIES HELD ACROSS ALL FUNDS ADVISED BY 500 STARTUPS MANAGEMENT COMPANY, LLC AND ITS AFFILIATES, AND ARE BASED ON INTERNAL DATA THAT HAS NOT BEEN EXTERNALLY VERIFIED AND RELIES ON PORTFOLIO INFORMATION SUPPLIED BY EXTERNAL SOURCES WHICH ",
+          "rect": {
+            "x": 50,
+            "y": 5035,
+            "width": 290,
+            "height": 1117
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/500-global/mobile/startup-showcase/20-disclaimer.png"
+        }
+      ]
+    }
+  }
+}

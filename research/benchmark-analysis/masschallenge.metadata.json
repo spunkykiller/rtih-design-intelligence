@@ -1,0 +1,1890 @@
+{
+  "site": {
+    "name": "MassChallenge",
+    "slug": "masschallenge",
+    "url": "https://masschallenge.org/",
+    "category": "global-accelerator",
+    "priority": 0.5,
+    "focus": [
+      "nonprofit accelerator",
+      "ecosystem programs",
+      "startup showcase"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:54:15.261Z",
+  "viewports": {
+    "desktop": {
+      "title": "Home - MassChallenge",
+      "finalUrl": "https://masschallenge.org/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Montserrat, Montserrat",
+        "Lato",
+        "Oswald"
+      ],
+      "colors": [
+        "rgb(51, 51, 51)",
+        "rgb(14, 171, 188)",
+        "rgb(6, 94, 111)",
+        "rgb(102, 104, 106)",
+        "rgb(255, 255, 255)",
+        "rgb(6, 141, 164)",
+        "rgb(39, 39, 39)",
+        "rgb(4, 80, 137)",
+        "rgb(0, 112, 142)",
+        "rgb(191, 2, 97)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(4, 68, 81)",
+        "rgb(6, 94, 111)",
+        "rgba(255, 255, 255, 0.98)",
+        "rgba(0, 0, 0, 0.3)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Climate",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Security & Resiliency",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "FinTech",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Healthcare",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Food Systems",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Early Stage",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Challenge Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Additional Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Bridge to MC",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Corporate Innovation",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Community Partners",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Innovation Blog",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Featured Startups",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Case Studies",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Events",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "About Us / Mission",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "News",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Hubs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Team",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Diversity, Equity, and Inclusion",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Careers",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Financials",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Ways to Support",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h1",
+          "text": "Home",
+          "fontSize": "1px",
+          "fontWeight": "800",
+          "lineHeight": "72px"
+        }
+      ],
+      "links": [
+        {
+          "text": "MassChallenge",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "<img width=\"88\" height=\"48\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/logo-horizontal-1.png\" alt=\"\"/>",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "html",
+          "id": "",
+          "className": "js csspointerevents no-touchevents mediaqueries",
+          "label": "Climate",
+          "text": "Home - MassChallenge <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Oswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap\"> {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/masschallenge.org\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/masschallenge.org#listItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organization\",\"name\":\"MassChallenge\",\"description\":\"MassChallenge is the global network for innovators working to solve massive challenges.\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/masschallenge.org\\/wp-content\\/uploads\\/2022\\/06\\/mc-logo@2x.png\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\",\"width\":480,\"height\":62},\"image\":{\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/masschallenge.org\\/#webpage\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"name\":\"Home - MassChallenge\",\"description\":\"WE BACK THE RARE HUMANS WITH THE GRI",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 3815
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/masschallenge/desktop/ecosystem-maps/01-climate.png"
+        },
+        {
+          "index": 1,
+          "tag": "header",
+          "id": "thhf-masthead-sticky",
+          "className": "",
+          "label": "Climate",
+          "text": "MassChallenge Network Close Network Open Network OUR NETWORK Founders Experts Collaborators OUR NETWORK Founders Experts Collaborators Challenge Areas Close Challenge Areas Open Challenge Areas OUR CHALLENGE AREAS Healthcare and Life Sciences Security and Resiliency Sustainable Food Systems Climate Global Financial Systems OUR CHALLENGE AREAS Healthcare and Life Sciences Security and Resiliency Sustainable Food Systems Climate Global Financial Systems Accelerators Close Accelerators Open Accelerators OUR ACCELERATORS Traction Challenge OUR ACCELERATORS Traction Challenge Corporate Partners About Close About Open About ABOUT US Regions Team Ways to Support ABOUT US Regions Team Ways to Support Insights Close Insights Open Insights Case Studies Innovation Blog News Case Studies Innovation Blog News Give Login Apply <img width=\"88\" height=\"48\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/logo-horizontal-1.png\" alt=\"\"/> Give Login Apply Network Close Network Open Network OUR NETWORK Founders Experts Collaborators OUR NETWORK Founders Experts Collaborators Challenge Areas Close Challenge Areas Open Challenge Areas OUR CHALLENGE AREAS Healthcare and Life Sciences Security an",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 92
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/desktop/navigation/02-climate.png"
+        },
+        {
+          "index": 56,
+          "tag": "section",
+          "id": "",
+          "className": "content-editor",
+          "label": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES.",
+          "text": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS We back the rare humans with the grit to solve the toughest challenges. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 + DIFFERENT BY DESIGN Since 2009, we’ve built a formidable global network and we’re obsessive about giving founders breakthrough access to the people and power that move markets. Corporates, customers, regulators, funders—leaders who understand complexity and help you scale what truly matters. FOUNDERS Founders need more than capital. They need access, insight, and relationships that unlock momentum. We accelerate those connections through proven programs, giving you the leverage to move faster and go further. <img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height",
+          "rect": {
+            "x": 0,
+            "y": 92,
+            "width": 1440,
+            "height": 3295
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/desktop/navigation/03-we-back-the-rare-humans-with-the-grit-to-solve-the-toughest-challenges.png"
+        },
+        {
+          "index": 57,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-333c4cb9 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+          "label": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 +",
+          "text": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 +",
+          "rect": {
+            "x": 0,
+            "y": 766,
+            "width": 1440,
+            "height": 234
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/masschallenge/desktop/startup-showcase/04-startups-accelerated-5-000-follow-on-capital-raised-29-b-direct-jobs-created-90-000-global.png"
+        },
+        {
+          "index": 58,
+          "tag": "div",
+          "id": "",
+          "className": "swiper elementor-loop-container elementor-grid swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and th",
+          "text": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and the people that will help you take your company to the next level, this is one of the most worthwhile programs. <img width=\"64\" height=\"64\" decoding=\"async\" src=\"https://masschallenge.org/wp-content/uploads/elementor/thumbs/jimboyte-rg69kg7ghyuu6k4gd7zwx39n5bfa4wx5ospscj5j0g.jpeg\" title=\"jimboyte\" alt=\"jimboyte\" loading=\"lazy\" /> JIM BOYTE Founder & CEO at ActiveDefender .elementor-17388 .elementor-element.elementor-element-39cf773{--display:flex;--min-height:276px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-17388 .elementor-element.elementor-element-90ab1b3{--display:flex;--min-height:276px;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:16px 16px 16px 16px;box-shadow:0px 0px 10px -7px rgba(0,0,0,0.5);--p",
+          "rect": {
+            "x": 148,
+            "y": 2322,
+            "width": 1144,
+            "height": 363
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/desktop/navigation/05-i-am-so-excited-for-the-networking-we-ve-gone-through-together-it-takes-all-of-us-to-make-.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-11ebe580 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+          "label": "FEATURED PARTNERS",
+          "text": "FEATURED PARTNERS <img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"167\" src=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png\" alt=\"BAE\" srcset=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png 300w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1024x569.png 1024w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-768x427.png 768w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1536x854.png 1536w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-180x100.png 180w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-144x80.png 144w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-394x219.png 394w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-915x509.png 915w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1240x689.png 1240w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website.png 1876w\" sizes=\"(max-wid",
+          "rect": {
+            "x": 0,
+            "y": 2709,
+            "width": 1440,
+            "height": 678
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/masschallenge/desktop/grid-systems/06-featured-partners.png"
+        },
+        {
+          "index": 61,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "",
+          "label": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masscha",
+          "text": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png 480w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-300x39.png 300w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-394x51.png 394w\" sizes=\"(max-width: 480px) 100vw, 480px\" /> contacts@masschallenge.org Careers Ways to Support Join the Network © MassChallenge 2026 | Privacy Policy | Terms of Use",
+          "rect": {
+            "x": 0,
+            "y": 3411,
+            "width": 1440,
+            "height": 404
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/masschallenge/desktop/cta-systems/07-img-width-480-height-62-src-masschallenge-org-wp-content-uploads-2022-06-mc-logo-2x-png-cl.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Home - MassChallenge",
+      "finalUrl": "https://masschallenge.org/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Montserrat, Montserrat",
+        "Lato",
+        "Oswald"
+      ],
+      "colors": [
+        "rgb(51, 51, 51)",
+        "rgb(14, 171, 188)",
+        "rgb(6, 94, 111)",
+        "rgb(102, 104, 106)",
+        "rgb(255, 255, 255)",
+        "rgb(6, 141, 164)",
+        "rgb(39, 39, 39)",
+        "rgb(4, 80, 137)",
+        "rgb(0, 112, 142)",
+        "rgb(191, 2, 97)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(4, 68, 81)",
+        "rgb(6, 94, 111)",
+        "rgba(255, 255, 255, 0.98)",
+        "rgba(0, 0, 0, 0.3)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Climate",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Security & Resiliency",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "FinTech",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Healthcare",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Food Systems",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Early Stage",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Challenge Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Additional Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Bridge to MC",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Corporate Innovation",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Community Partners",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Innovation Blog",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Featured Startups",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Case Studies",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Events",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "About Us / Mission",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "News",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Hubs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Team",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Diversity, Equity, and Inclusion",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Careers",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Financials",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Ways to Support",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h1",
+          "text": "Home",
+          "fontSize": "56px",
+          "fontWeight": "800",
+          "lineHeight": "52px"
+        }
+      ],
+      "links": [
+        {
+          "text": "MassChallenge",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "<img width=\"88\" height=\"48\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/logo-horizontal-1.png\" alt=\"\"/>",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "html",
+          "id": "",
+          "className": "js csspointerevents no-touchevents mediaqueries",
+          "label": "Climate",
+          "text": "Home - MassChallenge <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Oswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap\"> {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/masschallenge.org\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/masschallenge.org#listItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organization\",\"name\":\"MassChallenge\",\"description\":\"MassChallenge is the global network for innovators working to solve massive challenges.\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/masschallenge.org\\/wp-content\\/uploads\\/2022\\/06\\/mc-logo@2x.png\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\",\"width\":480,\"height\":62},\"image\":{\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/masschallenge.org\\/#webpage\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"name\":\"Home - MassChallenge\",\"description\":\"WE BACK THE RARE HUMANS WITH THE GRI",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 4872
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/masschallenge/tablet/ecosystem-maps/01-climate.png"
+        },
+        {
+          "index": 56,
+          "tag": "section",
+          "id": "",
+          "className": "content-editor",
+          "label": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES.",
+          "text": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS We back the rare humans with the grit to solve the toughest challenges. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 + DIFFERENT BY DESIGN Since 2009, we’ve built a formidable global network and we’re obsessive about giving founders breakthrough access to the people and power that move markets. Corporates, customers, regulators, funders—leaders who understand complexity and help you scale what truly matters. FOUNDERS Founders need more than capital. They need access, insight, and relationships that unlock momentum. We accelerate those connections through proven programs, giving you the leverage to move faster and go further. <img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height",
+          "rect": {
+            "x": 0,
+            "y": 75,
+            "width": 834,
+            "height": 4342
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/tablet/navigation/02-we-back-the-rare-humans-with-the-grit-to-solve-the-toughest-challenges.png"
+        },
+        {
+          "index": 57,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-333c4cb9 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+          "label": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 +",
+          "text": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 90,000 Global Partners 500 +",
+          "rect": {
+            "x": 0,
+            "y": 749,
+            "width": 834,
+            "height": 266
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/masschallenge/tablet/startup-showcase/03-startups-accelerated-5-000-follow-on-capital-raised-29-b-direct-jobs-created-90-000-global.png"
+        },
+        {
+          "index": 58,
+          "tag": "div",
+          "id": "",
+          "className": "swiper elementor-loop-container elementor-grid swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and th",
+          "text": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and the people that will help you take your company to the next level, this is one of the most worthwhile programs. <img width=\"64\" height=\"64\" decoding=\"async\" src=\"https://masschallenge.org/wp-content/uploads/elementor/thumbs/jimboyte-rg69kg7ghyuu6k4gd7zwx39n5bfa4wx5ospscj5j0g.jpeg\" title=\"jimboyte\" alt=\"jimboyte\" loading=\"lazy\" /> JIM BOYTE Founder & CEO at ActiveDefender .elementor-17388 .elementor-element.elementor-element-39cf773{--display:flex;--min-height:276px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-17388 .elementor-element.elementor-element-90ab1b3{--display:flex;--min-height:276px;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:16px 16px 16px 16px;box-shadow:0px 0px 10px -7px rgba(0,0,0,0.5);--p",
+          "rect": {
+            "x": 0,
+            "y": 2455,
+            "width": 834,
+            "height": 363
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/tablet/navigation/04-i-am-so-excited-for-the-networking-we-ve-gone-through-together-it-takes-all-of-us-to-make-.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-11ebe580 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+          "label": "FEATURED PARTNERS",
+          "text": "FEATURED PARTNERS <img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"167\" src=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png\" alt=\"BAE\" srcset=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png 300w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1024x569.png 1024w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-768x427.png 768w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1536x854.png 1536w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-180x100.png 180w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-144x80.png 144w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-394x219.png 394w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-915x509.png 915w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1240x689.png 1240w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website.png 1876w\" sizes=\"(max-wid",
+          "rect": {
+            "x": 0,
+            "y": 2842,
+            "width": 834,
+            "height": 1575
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/masschallenge/tablet/grid-systems/05-featured-partners.png"
+        },
+        {
+          "index": 61,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "",
+          "label": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masscha",
+          "text": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png 480w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-300x39.png 300w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-394x51.png 394w\" sizes=\"(max-width: 480px) 100vw, 480px\" /> contacts@masschallenge.org Careers Ways to Support Join the Network © MassChallenge 2026 | Privacy Policy | Terms of Use",
+          "rect": {
+            "x": 0,
+            "y": 4441,
+            "width": 834,
+            "height": 431
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/masschallenge/tablet/cta-systems/06-img-width-480-height-62-src-masschallenge-org-wp-content-uploads-2022-06-mc-logo-2x-png-cl.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Home - MassChallenge",
+      "finalUrl": "https://masschallenge.org/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Montserrat, Montserrat",
+        "Lato",
+        "Oswald"
+      ],
+      "colors": [
+        "rgb(51, 51, 51)",
+        "rgb(14, 171, 188)",
+        "rgb(6, 94, 111)",
+        "rgb(102, 104, 106)",
+        "rgb(255, 255, 255)",
+        "rgb(6, 141, 164)",
+        "rgb(39, 39, 39)",
+        "rgb(4, 80, 137)",
+        "rgb(0, 112, 142)",
+        "rgb(191, 2, 97)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(4, 68, 81)",
+        "rgb(6, 94, 111)",
+        "rgba(255, 255, 255, 0.98)",
+        "rgba(0, 0, 0, 0.3)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Climate",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Security & Resiliency",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "FinTech",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Healthcare",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Sustainable Food Systems",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Early Stage",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Challenge Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Additional Programs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Bridge to MC",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Corporate Innovation",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Community Partners",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Innovation Blog",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Featured Startups",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Case Studies",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Events",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "About Us / Mission",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "News",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Hubs",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Team",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Diversity, Equity, and Inclusion",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Careers",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Financials",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h2",
+          "text": "Ways to Support",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "27px"
+        },
+        {
+          "tag": "h1",
+          "text": "Home",
+          "fontSize": "40px",
+          "fontWeight": "800",
+          "lineHeight": "52px"
+        }
+      ],
+      "links": [
+        {
+          "text": "MassChallenge",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        },
+        {
+          "text": "Ways to Support",
+          "href": "https://masschallenge.org/give/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://masschallenge.org/casestudies/"
+        },
+        {
+          "text": "Innovation Blog",
+          "href": "https://masschallenge.org/articles/"
+        },
+        {
+          "text": "News",
+          "href": "https://masschallenge.org/news/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "<img width=\"88\" height=\"48\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/logo-horizontal-1.png\" alt=\"\"/>",
+          "href": "https://masschallenge.org/"
+        },
+        {
+          "text": "Give",
+          "href": "https://www.classy.org/give/495627/#!/donation/checkout"
+        },
+        {
+          "text": "Login",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?utm_source=webpage&utm_medium=button&utm_campaign=main&_ga=2.2291635.2059546084.1685971907-1163564231.1572528617&_gl=1*zypknr*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "Apply",
+          "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR NETWORK",
+          "href": "https://masschallenge.org/our-network/"
+        },
+        {
+          "text": "Founders",
+          "href": "https://masschallenge.org/founders/"
+        },
+        {
+          "text": "Experts",
+          "href": "https://masschallenge.org/experts/"
+        },
+        {
+          "text": "Collaborators",
+          "href": "https://masschallenge.org/collaborators/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR CHALLENGE AREAS",
+          "href": "https://masschallenge.org/our-challenge-areas/"
+        },
+        {
+          "text": "Healthcare and Life Sciences",
+          "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+        },
+        {
+          "text": "Security and Resiliency",
+          "href": "https://masschallenge.org/security-and-resiliency/"
+        },
+        {
+          "text": "Sustainable Food Systems",
+          "href": "https://masschallenge.org/sustainable-food-systems/"
+        },
+        {
+          "text": "Climate",
+          "href": "https://masschallenge.org/climate/"
+        },
+        {
+          "text": "Global Financial Systems",
+          "href": "https://masschallenge.org/global-financial-systems/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "OUR ACCELERATORS",
+          "href": "https://masschallenge.org/our-accelerators/"
+        },
+        {
+          "text": "Traction",
+          "href": "https://masschallenge.org/traction-program/"
+        },
+        {
+          "text": "Challenge",
+          "href": "https://masschallenge.org/challenge-program/"
+        },
+        {
+          "text": "Corporate Partners",
+          "href": "https://masschallenge.org/for-partners"
+        },
+        {
+          "text": "ABOUT US",
+          "href": "https://masschallenge.org/about-us/"
+        },
+        {
+          "text": "Regions",
+          "href": "https://masschallenge.org/regions/"
+        },
+        {
+          "text": "Team",
+          "href": "https://masschallenge.org/team/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "html",
+          "id": "",
+          "className": "js csspointerevents no-touchevents mediaqueries",
+          "label": "Climate",
+          "text": "Home - MassChallenge <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Oswald%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap\"> {\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/masschallenge.org\\/#breadcrumblist\",\"itemListElement\":[{\"@type\":\"ListItem\",\"@id\":\"https:\\/\\/masschallenge.org#listItem\",\"position\":1,\"name\":\"Home\"}]},{\"@type\":\"Organization\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organization\",\"name\":\"MassChallenge\",\"description\":\"MassChallenge is the global network for innovators working to solve massive challenges.\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https:\\/\\/masschallenge.org\\/wp-content\\/uploads\\/2022\\/06\\/mc-logo@2x.png\",\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\",\"width\":480,\"height\":62},\"image\":{\"@id\":\"https:\\/\\/masschallenge.org\\/#organizationLogo\"}},{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/masschallenge.org\\/#webpage\",\"url\":\"https:\\/\\/masschallenge.org\\/\",\"name\":\"Home - MassChallenge\",\"description\":\"WE BACK THE RARE HUMANS WITH THE GRI",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 5052
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/masschallenge/mobile/ecosystem-maps/01-climate.png"
+        },
+        {
+          "index": 56,
+          "tag": "section",
+          "id": "",
+          "className": "content-editor",
+          "label": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES.",
+          "text": "WE BACK THE RARE HUMANS WITH THE GRIT TO SOLVE THE TOUGHEST CHALLENGES. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS We back the rare humans with the grit to solve the toughest challenges. Accelerating solutions in Healthcare & Life Sciences, Security & Resiliency, Sustainable Food Systems, Climate, and Global Financial Systems. APPLY TO AN ACCELERATOR WORK WITH FOUNDERS Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 1 Global Partners 1 + DIFFERENT BY DESIGN Since 2009, we’ve built a formidable global network and we’re obsessive about giving founders breakthrough access to the people and power that move markets. Corporates, customers, regulators, funders—leaders who understand complexity and help you scale what truly matters. FOUNDERS Founders need more than capital. They need access, insight, and relationships that unlock momentum. We accelerate those connections through proven programs, giving you the leverage to move faster and go further. <img fetchpriority=\"high\" decoding=\"async\" width=\"1024\" height=\"627\" ",
+          "rect": {
+            "x": 0,
+            "y": 61,
+            "width": 390,
+            "height": 4476
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/mobile/navigation/02-we-back-the-rare-humans-with-the-grit-to-solve-the-toughest-challenges.png"
+        },
+        {
+          "index": 57,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-333c4cb9 elementor-section-content-middle elementor-section-full_width elementor-section-height-default elementor-section-height-default",
+          "label": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 1 Global Partners 1 +",
+          "text": "Startups Accelerated 5,000 + Follow-on Capital Raised $ 29 B Direct Jobs Created 1 Global Partners 1 +",
+          "rect": {
+            "x": 0,
+            "y": 541,
+            "width": 390,
+            "height": 597
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/masschallenge/mobile/startup-showcase/03-startups-accelerated-5-000-follow-on-capital-raised-29-b-direct-jobs-created-1-global-part.png"
+        },
+        {
+          "index": 58,
+          "tag": "div",
+          "id": "",
+          "className": "swiper elementor-loop-container elementor-grid swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and th",
+          "text": "I am so excited for the networking we’ve gone through. Together it takes all of us to make the world a better place. If you’re looking for the networking and the connections and the people that will help you take your company to the next level, this is one of the most worthwhile programs. <img width=\"64\" height=\"64\" decoding=\"async\" src=\"https://masschallenge.org/wp-content/uploads/elementor/thumbs/jimboyte-rg69kg7ghyuu6k4gd7zwx39n5bfa4wx5ospscj5j0g.jpeg\" title=\"jimboyte\" alt=\"jimboyte\" loading=\"lazy\" /> JIM BOYTE Founder & CEO at ActiveDefender .elementor-17388 .elementor-element.elementor-element-39cf773{--display:flex;--min-height:276px;--flex-direction:column;--container-widget-width:calc( ( 1 - var( --container-widget-flex-grow ) ) * 100% );--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--flex-wrap-mobile:wrap;--justify-content:center;--align-items:center;--gap:0px 0px;--row-gap:0px;--column-gap:0px;}.elementor-17388 .elementor-element.elementor-element-90ab1b3{--display:flex;--min-height:276px;--gap:0px 0px;--row-gap:0px;--column-gap:0px;--border-radius:16px 16px 16px 16px;box-shadow:0px 0px 10px -7px rgba(0,0,0,0.5);--p",
+          "rect": {
+            "x": 0,
+            "y": 3226,
+            "width": 390,
+            "height": 546
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/masschallenge/mobile/navigation/04-i-am-so-excited-for-the-networking-we-ve-gone-through-together-it-takes-all-of-us-to-make-.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "elementor-section elementor-top-section elementor-element elementor-element-11ebe580 elementor-section-boxed elementor-section-height-default elementor-section-height-default",
+          "label": "FEATURED PARTNERS",
+          "text": "FEATURED PARTNERS <img loading=\"lazy\" decoding=\"async\" width=\"300\" height=\"167\" src=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png\" alt=\"BAE\" srcset=\"https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-300x167.png 300w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1024x569.png 1024w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-768x427.png 768w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1536x854.png 1536w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-180x100.png 180w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-144x80.png 144w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-394x219.png 394w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-915x509.png 915w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website-1240x689.png 1240w, https://masschallenge.org/wp-content/uploads/2025/01/BAE-Systems-logo_MC-website.png 1876w\" sizes=\"(max-wid",
+          "rect": {
+            "x": 0,
+            "y": 3796,
+            "width": 390,
+            "height": 741
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/masschallenge/mobile/grid-systems/05-featured-partners.png"
+        },
+        {
+          "index": 61,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "",
+          "label": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masscha",
+          "text": "<img width=\"480\" height=\"62\" src=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png\" class=\"attachment-full size-full wp-image-487\" alt=\"\" srcset=\"https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x.png 480w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-300x39.png 300w, https://masschallenge.org/wp-content/uploads/2022/06/mc-logo@2x-394x51.png 394w\" sizes=\"(max-width: 480px) 100vw, 480px\" /> contacts@masschallenge.org Careers Ways to Support Join the Network © MassChallenge 2026 | Privacy Policy | Terms of Use",
+          "rect": {
+            "x": 0,
+            "y": 4561,
+            "width": 390,
+            "height": 491
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/masschallenge/mobile/cta-systems/06-img-width-480-height-62-src-masschallenge-org-wp-content-uploads-2022-06-mc-logo-2x-png-cl.png"
+        }
+      ]
+    }
+  }
+}

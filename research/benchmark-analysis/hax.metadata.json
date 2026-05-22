@@ -1,0 +1,1586 @@
+{
+  "site": {
+    "name": "HAX",
+    "slug": "hax",
+    "url": "https://hax.co/",
+    "category": "venture-studio",
+    "priority": 0.5,
+    "focus": [
+      "hard-tech venture studio",
+      "prototype storytelling",
+      "founder resources"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:51:52.534Z",
+  "viewports": {
+    "desktop": {
+      "title": "HAX – Hands-on Venture Capital for Hard Tech",
+      "finalUrl": "https://hax.co/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Inconsolata, monospace",
+        "apercuregular",
+        "apercuregular, sans-serif"
+      ],
+      "colors": [
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(160, 162, 189)",
+        "rgba(255, 255, 255, 0.533)",
+        "rgb(16, 18, 59)",
+        "rgb(137, 136, 136)",
+        "rgb(0, 0, 0)"
+      ],
+      "backgroundColors": [
+        "rgb(16, 18, 59)",
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(0, 172, 173)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "hands-on support for hard-tech founders",
+          "fontSize": "108px",
+          "fontWeight": "700",
+          "lineHeight": "91.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "for pre-seed startups solving hard problems with hard tech",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        },
+        {
+          "tag": "h3",
+          "text": "unspun",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "R-Zero",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neptune Robotics",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Smartex",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h2",
+          "text": "more than capital —a global engineering organization",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        },
+        {
+          "tag": "h3",
+          "text": "440",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$550K",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$11B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$225M+",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$1.5B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$3.5B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h2",
+          "text": "a seasoned team of scientists & engineers",
+          "fontSize": "53px",
+          "fontWeight": "700",
+          "lineHeight": "55.65px"
+        },
+        {
+          "tag": "h1",
+          "text": "we are SOSV",
+          "fontSize": "51.24px",
+          "fontWeight": "700",
+          "lineHeight": "53.802px"
+        },
+        {
+          "tag": "h2",
+          "text": "Get Monthly Email Updates from SOSV",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "https://hax.co/#primary"
+        },
+        {
+          "text": "Register for SOSV Deep Tech Live – Dr. Rick Gottscho on Plasma & Semiconductors",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "HAX Plasma Forge",
+          "href": "https://hax.co/hax-plasma-forge/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "News",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction",
+          "href": "https://hax.co/how-hax-helps-hard-tech-founders-rapidly-prototype-de-risk-technology-achieve-traction/"
+        },
+        {
+          "text": "Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge",
+          "href": "https://hax.co/were-hiring-site-lead-hax-plasma-forge/"
+        },
+        {
+          "text": "Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabricatio",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials",
+          "href": "https://hax.co/plasma-beyond-fusion-powering-next-gen-semiconductor-manufacturing-materials/"
+        },
+        {
+          "text": "All news",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "unspun",
+          "href": "https://hax.co/case_studies/unspun-custom-built-jeans-case-study/"
+        },
+        {
+          "text": "R-Zero",
+          "href": "https://hax.co/case_studies/making-uv-c-disinfection-technologies-accessible-to-all/"
+        },
+        {
+          "text": "Neptune Robotics",
+          "href": "https://hax.co/case_studies/an-underwater-cleaning-robot-for-the-marine-industry/"
+        },
+        {
+          "text": "Smartex",
+          "href": "https://hax.co/case_studies/transparent-supply-chain-for-the-next-generation-of-the-worlds-garments/"
+        },
+        {
+          "text": "More Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "35,000 sq. ft Newark HQ headquarters",
+          "href": "https://sosv.com/sosv-hax-program-officially-opens-doors-to-its-new-hq-in-newark/"
+        },
+        {
+          "text": "10,000 sq. ft. HAX Plasma Forge in Princeton",
+          "href": "https://hax.co/introducing-the-hax-plasma-forge-a-new-era-for-plasma-in-nj/"
+        },
+        {
+          "text": "Duncan Turner",
+          "href": "https://sosv.com/team/duncan-turner/"
+        },
+        {
+          "text": "Avra van der Zee",
+          "href": "https://sosv.com/team/avra-van-der-zee/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/about/"
+        },
+        {
+          "text": "resourced locations",
+          "href": "http://www.sosv.com/locations"
+        },
+        {
+          "text": "founder community",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "jobs in hard tech",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "become a mentor",
+          "href": "https://hax.co/mentors"
+        },
+        {
+          "text": "industry partnerships",
+          "href": "https://hax.co/partnerships"
+        },
+        {
+          "text": "invest with us",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "university partners",
+          "href": "https://hax.co/universities"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://sosv.com/privacy-statement/"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://policies.google.com/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://policies.google.com/terms"
+        },
+        {
+          "text": "Learn",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "About the Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Our Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://hax.co/faq/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://hax.co/contact/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "How to Apply",
+          "href": "https://hax.co/faq/#application"
+        },
+        {
+          "text": "Apply to HAX",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Investing with SOSV",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Participate",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Jobs with HAX Startups",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "Join Talent Network",
+          "href": "https://jobs.hax.co/talent-network/login"
+        },
+        {
+          "text": "Become a Mentor",
+          "href": "https://hax.co/mentors/"
+        },
+        {
+          "text": "Industry Partnerships",
+          "href": "https://hax.co/partnerships/"
+        },
+        {
+          "text": "University Collaborations",
+          "href": "https://hax.co/universities/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Privacy Statement",
+          "href": "https://sosv.com/privacy-statement"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Cookie Policy",
+          "href": "https://sosv.com/cookie-policy/"
+        },
+        {
+          "text": "Disclaimer",
+          "href": "https://sosv.com/disclaimer"
+        },
+        {
+          "text": "Communication Policy",
+          "href": "https://sosv.com/communication-policy"
+        },
+        {
+          "text": "Code of Conduct",
+          "href": "https://sosv.com/code-of-conduct"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        }
+      ],
+      "sections": [
+        {
+          "index": 2,
+          "tag": "article",
+          "id": "post-10",
+          "className": "post-10 page type-page status-publish has-post-thumbnail hentry",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); } .gb-6a100ad092474{font-size: 60px;}@media only screen and (max-width: 600px) {.gb-6a100ad092474{font-size: 45px!important;}} for pre-seed startups solving hard problems with hard tech .gb-6a100ad094a5c{font-size: 21px;}@media only screen and (max-width: 600px) {.gb-6a100a",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 4588
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/desktop/hero-sections/01-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "cohere-hero-block_91917b1ea43a7544d338ed523aa398f1",
+          "className": "cohere-hero  alignfull is-style-default",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 948
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/desktop/hero-sections/02-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "masthead",
+          "className": "site-header",
+          "label": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__s",
+          "text": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__search'); searchInput.on('focus', function() { search.addClass('open') }) searchInput.on('blur', function() { search.removeClass('open') }) });",
+          "rect": {
+            "x": 0,
+            "y": 40,
+            "width": 1440,
+            "height": 109
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/desktop/navigation/03-program-hax-plasma-forge-case-studies-companies-team-news-invest-apply-apply-jquery-functi.png"
+        },
+        {
+          "index": 5,
+          "tag": "div",
+          "id": "",
+          "className": "cohere-hero__inner ",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news",
+          "rect": {
+            "x": 70,
+            "y": 329,
+            "width": 1300,
+            "height": 559
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/hax/desktop/startup-showcase/04-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 6,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "site-footer",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations Copyright All Rights Reserved 2026 SOSV Investments LLC - HAX® is a trademark of SOSV. All other trademarks are of their respective owners. Privacy Statement Terms of Use Cookie Policy Disclaimer Communication Policy Code of Conduct",
+          "rect": {
+            "x": 0,
+            "y": 4588,
+            "width": 1440,
+            "height": 596
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/desktop/navigation/05-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        },
+        {
+          "index": 7,
+          "tag": "nav",
+          "id": "",
+          "className": "main-navigation",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations",
+          "rect": {
+            "x": 70,
+            "y": 4648,
+            "width": 1300,
+            "height": 286
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/desktop/navigation/06-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "HAX – Hands-on Venture Capital for Hard Tech",
+      "finalUrl": "https://hax.co/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Inconsolata, monospace",
+        "apercuregular, sans-serif",
+        "apercuregular"
+      ],
+      "colors": [
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(160, 162, 189)",
+        "rgba(255, 255, 255, 0.533)",
+        "rgb(16, 18, 59)",
+        "rgb(137, 136, 136)",
+        "rgb(0, 0, 0)"
+      ],
+      "backgroundColors": [
+        "rgb(16, 18, 59)",
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(0, 172, 173)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "hands-on support for hard-tech founders",
+          "fontSize": "108px",
+          "fontWeight": "700",
+          "lineHeight": "91.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "for pre-seed startups solving hard problems with hard tech",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        },
+        {
+          "tag": "h3",
+          "text": "unspun",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "R-Zero",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neptune Robotics",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Smartex",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h2",
+          "text": "more than capital —a global engineering organization",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        },
+        {
+          "tag": "h3",
+          "text": "440",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$550K",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$11B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$225M+",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$1.5B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h3",
+          "text": "$3.5B",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "70.7px"
+        },
+        {
+          "tag": "h2",
+          "text": "a seasoned team of scientists & engineers",
+          "fontSize": "53px",
+          "fontWeight": "700",
+          "lineHeight": "55.65px"
+        },
+        {
+          "tag": "h1",
+          "text": "we are SOSV",
+          "fontSize": "51.24px",
+          "fontWeight": "700",
+          "lineHeight": "53.802px"
+        },
+        {
+          "tag": "h2",
+          "text": "Get Monthly Email Updates from SOSV",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "63px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "https://hax.co/#primary"
+        },
+        {
+          "text": "Register for SOSV Deep Tech Live – Dr. Rick Gottscho on Plasma & Semiconductors",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "HAX Plasma Forge",
+          "href": "https://hax.co/hax-plasma-forge/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "News",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction",
+          "href": "https://hax.co/how-hax-helps-hard-tech-founders-rapidly-prototype-de-risk-technology-achieve-traction/"
+        },
+        {
+          "text": "Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge",
+          "href": "https://hax.co/were-hiring-site-lead-hax-plasma-forge/"
+        },
+        {
+          "text": "Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabricatio",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials",
+          "href": "https://hax.co/plasma-beyond-fusion-powering-next-gen-semiconductor-manufacturing-materials/"
+        },
+        {
+          "text": "All news",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "unspun",
+          "href": "https://hax.co/case_studies/unspun-custom-built-jeans-case-study/"
+        },
+        {
+          "text": "R-Zero",
+          "href": "https://hax.co/case_studies/making-uv-c-disinfection-technologies-accessible-to-all/"
+        },
+        {
+          "text": "Neptune Robotics",
+          "href": "https://hax.co/case_studies/an-underwater-cleaning-robot-for-the-marine-industry/"
+        },
+        {
+          "text": "Smartex",
+          "href": "https://hax.co/case_studies/transparent-supply-chain-for-the-next-generation-of-the-worlds-garments/"
+        },
+        {
+          "text": "More Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "35,000 sq. ft Newark HQ headquarters",
+          "href": "https://sosv.com/sosv-hax-program-officially-opens-doors-to-its-new-hq-in-newark/"
+        },
+        {
+          "text": "10,000 sq. ft. HAX Plasma Forge in Princeton",
+          "href": "https://hax.co/introducing-the-hax-plasma-forge-a-new-era-for-plasma-in-nj/"
+        },
+        {
+          "text": "Duncan Turner",
+          "href": "https://sosv.com/team/duncan-turner/"
+        },
+        {
+          "text": "Avra van der Zee",
+          "href": "https://sosv.com/team/avra-van-der-zee/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/about/"
+        },
+        {
+          "text": "resourced locations",
+          "href": "http://www.sosv.com/locations"
+        },
+        {
+          "text": "founder community",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "jobs in hard tech",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "become a mentor",
+          "href": "https://hax.co/mentors"
+        },
+        {
+          "text": "industry partnerships",
+          "href": "https://hax.co/partnerships"
+        },
+        {
+          "text": "invest with us",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "university partners",
+          "href": "https://hax.co/universities"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://sosv.com/privacy-statement/"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://policies.google.com/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://policies.google.com/terms"
+        },
+        {
+          "text": "Learn",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "About the Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Our Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://hax.co/faq/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://hax.co/contact/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "How to Apply",
+          "href": "https://hax.co/faq/#application"
+        },
+        {
+          "text": "Apply to HAX",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Investing with SOSV",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Participate",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Jobs with HAX Startups",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "Join Talent Network",
+          "href": "https://jobs.hax.co/talent-network/login"
+        },
+        {
+          "text": "Become a Mentor",
+          "href": "https://hax.co/mentors/"
+        },
+        {
+          "text": "Industry Partnerships",
+          "href": "https://hax.co/partnerships/"
+        },
+        {
+          "text": "University Collaborations",
+          "href": "https://hax.co/universities/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Privacy Statement",
+          "href": "https://sosv.com/privacy-statement"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Cookie Policy",
+          "href": "https://sosv.com/cookie-policy/"
+        },
+        {
+          "text": "Disclaimer",
+          "href": "https://sosv.com/disclaimer"
+        },
+        {
+          "text": "Communication Policy",
+          "href": "https://sosv.com/communication-policy"
+        },
+        {
+          "text": "Code of Conduct",
+          "href": "https://sosv.com/code-of-conduct"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        }
+      ],
+      "sections": [
+        {
+          "index": 2,
+          "tag": "article",
+          "id": "post-10",
+          "className": "post-10 page type-page status-publish has-post-thumbnail hentry",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); } .gb-6a100ad092474{font-size: 60px;}@media only screen and (max-width: 600px) {.gb-6a100ad092474{font-size: 45px!important;}} for pre-seed startups solving hard problems with hard tech .gb-6a100ad094a5c{font-size: 21px;}@media only screen and (max-width: 600px) {.gb-6a100a",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 5363
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/tablet/hero-sections/01-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "cohere-hero-block_91917b1ea43a7544d338ed523aa398f1",
+          "className": "cohere-hero  alignfull is-style-default",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 1056
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/tablet/hero-sections/02-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "masthead",
+          "className": "site-header",
+          "label": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__s",
+          "text": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__search'); searchInput.on('focus', function() { search.addClass('open') }) searchInput.on('blur', function() { search.removeClass('open') }) });",
+          "rect": {
+            "x": 0,
+            "y": 60,
+            "width": 834,
+            "height": 80
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/tablet/navigation/03-program-hax-plasma-forge-case-studies-companies-team-news-invest-apply-apply-jquery-functi.png"
+        },
+        {
+          "index": 5,
+          "tag": "div",
+          "id": "",
+          "className": "cohere-hero__inner ",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news",
+          "rect": {
+            "x": 20,
+            "y": 230,
+            "width": 794,
+            "height": 766
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/hax/tablet/startup-showcase/04-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 6,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "site-footer",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations Copyright All Rights Reserved 2026 SOSV Investments LLC - HAX® is a trademark of SOSV. All other trademarks are of their respective owners. Privacy Statement Terms of Use Cookie Policy Disclaimer Communication Policy Code of Conduct",
+          "rect": {
+            "x": 0,
+            "y": 5363,
+            "width": 834,
+            "height": 841
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/tablet/navigation/05-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        },
+        {
+          "index": 7,
+          "tag": "nav",
+          "id": "",
+          "className": "main-navigation",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations",
+          "rect": {
+            "x": 20,
+            "y": 5413,
+            "width": 794,
+            "height": 357
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/tablet/navigation/06-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "HAX – Hands-on Venture Capital for Hard Tech",
+      "finalUrl": "https://hax.co/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Inconsolata, monospace",
+        "apercuregular, sans-serif",
+        "apercuregular"
+      ],
+      "colors": [
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(160, 162, 189)",
+        "rgba(255, 255, 255, 0.533)",
+        "rgb(16, 18, 59)",
+        "rgb(137, 136, 136)",
+        "rgb(0, 0, 0)"
+      ],
+      "backgroundColors": [
+        "rgb(16, 18, 59)",
+        "rgb(255, 255, 255)",
+        "rgb(2, 255, 154)",
+        "rgb(0, 172, 173)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "hands-on support for hard-tech founders",
+          "fontSize": "60px",
+          "fontWeight": "700",
+          "lineHeight": "51px"
+        },
+        {
+          "tag": "h2",
+          "text": "for pre-seed startups solving hard problems with hard tech",
+          "fontSize": "45px",
+          "fontWeight": "700",
+          "lineHeight": "47.25px"
+        },
+        {
+          "tag": "h3",
+          "text": "unspun",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "R-Zero",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Neptune Robotics",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h3",
+          "text": "Smartex",
+          "fontSize": "27px",
+          "fontWeight": "700",
+          "lineHeight": "21.87px"
+        },
+        {
+          "tag": "h2",
+          "text": "more than capital —a global engineering organization",
+          "fontSize": "45px",
+          "fontWeight": "700",
+          "lineHeight": "47.25px"
+        },
+        {
+          "tag": "h3",
+          "text": "440",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h3",
+          "text": "$550K",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h3",
+          "text": "$11B",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h3",
+          "text": "$225M+",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h3",
+          "text": "$1.5B",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h3",
+          "text": "$3.5B",
+          "fontSize": "42px",
+          "fontWeight": "700",
+          "lineHeight": "42.42px"
+        },
+        {
+          "tag": "h2",
+          "text": "a seasoned team of scientists & engineers",
+          "fontSize": "45px",
+          "fontWeight": "700",
+          "lineHeight": "47.25px"
+        },
+        {
+          "tag": "h1",
+          "text": "we are SOSV",
+          "fontSize": "51.24px",
+          "fontWeight": "700",
+          "lineHeight": "53.802px"
+        },
+        {
+          "tag": "h2",
+          "text": "Get Monthly Email Updates from SOSV",
+          "fontSize": "45px",
+          "fontWeight": "700",
+          "lineHeight": "47.25px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content",
+          "href": "https://hax.co/#primary"
+        },
+        {
+          "text": "Register for SOSV Deep Tech Live – Dr. Rick Gottscho on Plasma & Semiconductors",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "HAX Plasma Forge",
+          "href": "https://hax.co/hax-plasma-forge/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Companies",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "News",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        },
+        {
+          "text": "Apply",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/"
+        },
+        {
+          "text": "Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction",
+          "href": "https://hax.co/how-hax-helps-hard-tech-founders-rapidly-prototype-de-risk-technology-achieve-traction/"
+        },
+        {
+          "text": "Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge",
+          "href": "https://hax.co/were-hiring-site-lead-hax-plasma-forge/"
+        },
+        {
+          "text": "Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabricatio",
+          "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+        },
+        {
+          "text": "Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials",
+          "href": "https://hax.co/plasma-beyond-fusion-powering-next-gen-semiconductor-manufacturing-materials/"
+        },
+        {
+          "text": "All news",
+          "href": "https://hax.co/news/"
+        },
+        {
+          "text": "unspun",
+          "href": "https://hax.co/case_studies/unspun-custom-built-jeans-case-study/"
+        },
+        {
+          "text": "R-Zero",
+          "href": "https://hax.co/case_studies/making-uv-c-disinfection-technologies-accessible-to-all/"
+        },
+        {
+          "text": "Neptune Robotics",
+          "href": "https://hax.co/case_studies/an-underwater-cleaning-robot-for-the-marine-industry/"
+        },
+        {
+          "text": "Smartex",
+          "href": "https://hax.co/case_studies/transparent-supply-chain-for-the-next-generation-of-the-worlds-garments/"
+        },
+        {
+          "text": "More Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "35,000 sq. ft Newark HQ headquarters",
+          "href": "https://sosv.com/sosv-hax-program-officially-opens-doors-to-its-new-hq-in-newark/"
+        },
+        {
+          "text": "10,000 sq. ft. HAX Plasma Forge in Princeton",
+          "href": "https://hax.co/introducing-the-hax-plasma-forge-a-new-era-for-plasma-in-nj/"
+        },
+        {
+          "text": "Duncan Turner",
+          "href": "https://sosv.com/team/duncan-turner/"
+        },
+        {
+          "text": "Avra van der Zee",
+          "href": "https://sosv.com/team/avra-van-der-zee/"
+        },
+        {
+          "text": "SOSV",
+          "href": "https://sosv.com/about/"
+        },
+        {
+          "text": "resourced locations",
+          "href": "http://www.sosv.com/locations"
+        },
+        {
+          "text": "founder community",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "jobs in hard tech",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "become a mentor",
+          "href": "https://hax.co/mentors"
+        },
+        {
+          "text": "industry partnerships",
+          "href": "https://hax.co/partnerships"
+        },
+        {
+          "text": "invest with us",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "university partners",
+          "href": "https://hax.co/universities"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://sosv.com/privacy-statement/"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://policies.google.com/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://policies.google.com/terms"
+        },
+        {
+          "text": "Learn",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "About the Program",
+          "href": "https://hax.co/program/"
+        },
+        {
+          "text": "Case Studies",
+          "href": "https://hax.co/case-studies/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://hax.co/startups/"
+        },
+        {
+          "text": "Our Team",
+          "href": "https://hax.co/our-team/"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://hax.co/faq/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://hax.co/contact/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "How to Apply",
+          "href": "https://hax.co/faq/#application"
+        },
+        {
+          "text": "Apply to HAX",
+          "href": "https://sosv.com/apply/hax/"
+        },
+        {
+          "text": "Invest",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Investing with SOSV",
+          "href": "https://sosv.com/invest/"
+        },
+        {
+          "text": "Participate",
+          "href": "https://hax.co/#"
+        },
+        {
+          "text": "Jobs with HAX Startups",
+          "href": "https://jobs.hax.co/jobs"
+        },
+        {
+          "text": "Join Talent Network",
+          "href": "https://jobs.hax.co/talent-network/login"
+        },
+        {
+          "text": "Become a Mentor",
+          "href": "https://hax.co/mentors/"
+        },
+        {
+          "text": "Industry Partnerships",
+          "href": "https://hax.co/partnerships/"
+        },
+        {
+          "text": "University Collaborations",
+          "href": "https://hax.co/universities/"
+        },
+        {
+          "text": "",
+          "href": "https://hax.co/"
+        },
+        {
+          "text": "Privacy Statement",
+          "href": "https://sosv.com/privacy-statement"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://sosv.com/terms-of-use"
+        },
+        {
+          "text": "Cookie Policy",
+          "href": "https://sosv.com/cookie-policy/"
+        },
+        {
+          "text": "Disclaimer",
+          "href": "https://sosv.com/disclaimer"
+        },
+        {
+          "text": "Communication Policy",
+          "href": "https://sosv.com/communication-policy"
+        },
+        {
+          "text": "Code of Conduct",
+          "href": "https://sosv.com/code-of-conduct"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/SOSV"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/hax/"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/@SosvVC"
+        }
+      ],
+      "sections": [
+        {
+          "index": 2,
+          "tag": "article",
+          "id": "post-10",
+          "className": "post-10 page type-page status-publish has-post-thumbnail hentry",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); } .gb-6a100ad092474{font-size: 60px;}@media only screen and (max-width: 600px) {.gb-6a100ad092474{font-size: 45px!important;}} for pre-seed startups solving hard problems with hard tech .gb-6a100ad094a5c{font-size: 21px;}@media only screen and (max-width: 600px) {.gb-6a100a",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 8611
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/mobile/hero-sections/01-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "cohere-hero-block_91917b1ea43a7544d338ed523aa398f1",
+          "className": "cohere-hero  alignfull is-style-default",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news #cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 { --hero-padding-top: 180px }#cohere-hero-block_91917b1ea43a7544d338ed523aa398f1 .cohere-hero__background { background-image: url('https://hax.co/wp-content/uploads/2022/11/background-video@2x-scaled.jpg'); }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 1288
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/hax/mobile/hero-sections/02-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "masthead",
+          "className": "site-header",
+          "label": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__s",
+          "text": "Program HAX Plasma Forge Case Studies Companies Team News Invest Apply Apply jQuery(function($) { let searchInput = $('.site-header__search-input'); let search = $('.site-header__search'); searchInput.on('focus', function() { search.addClass('open') }) searchInput.on('blur', function() { search.removeClass('open') }) });",
+          "rect": {
+            "x": 0,
+            "y": 46,
+            "width": 390,
+            "height": 80
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/mobile/navigation/03-program-hax-plasma-forge-case-studies-companies-team-news-invest-apply-apply-jquery-functi.png"
+        },
+        {
+          "index": 5,
+          "tag": "div",
+          "id": "",
+          "className": "cohere-hero__inner ",
+          "label": "hands-on support for hard-tech founders",
+          "text": ".gb-6a100ad08aea7{font-size: 108px;}@media only screen and (max-width: 600px) {.gb-6a100ad08aea7{font-size: 60px!important;}} hands-on support for hard-tech founders HAX is a part of SOSV, the world’s most active pre-seed deep-tech venture capital firm. Post How HAX Helps Hard Tech Founders Rapidly Prototype, De-Risk Technology & Achieve Traction Post May 13, 2026 We’re Hiring: Site Lead, HAX Plasma Forge Post May 11, 2026 SOSV Deep Tech Live – The Atomic Architect: Rick Gottscho on Plasma’s Role in Semiconductor Fabrication & Physical AI Infrastructure Post May 01, 2026 Plasma Beyond Fusion: Powering Next Gen Semiconductor Manufacturing & Materials All news",
+          "rect": {
+            "x": 20,
+            "y": 186,
+            "width": 350,
+            "height": 1042
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/hax/mobile/startup-showcase/04-hands-on-support-for-hard-tech-founders.png"
+        },
+        {
+          "index": 6,
+          "tag": "footer",
+          "id": "colophon",
+          "className": "site-footer",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations Copyright All Rights Reserved 2026 SOSV Investments LLC - HAX® is a trademark of SOSV. All other trademarks are of their respective owners. Privacy Statement Terms of Use Cookie Policy Disclaimer Communication Policy Code of Conduct",
+          "rect": {
+            "x": 0,
+            "y": 8611,
+            "width": 390,
+            "height": 766
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/mobile/navigation/05-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        },
+        {
+          "index": 7,
+          "tag": "nav",
+          "id": "",
+          "className": "main-navigation",
+          "label": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network",
+          "text": "Learn About the Program Case Studies Startups Our Team FAQ Contact Apply How to Apply Apply to HAX Invest Investing with SOSV Participate Jobs with HAX Startups Join Talent Network Become a Mentor Industry Partnerships University Collaborations",
+          "rect": {
+            "x": 20,
+            "y": 8611,
+            "width": 350,
+            "height": 241
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/hax/mobile/navigation/06-learn-about-the-program-case-studies-startups-our-team-faq-contact-apply-how-to-apply-appl.png"
+        }
+      ]
+    }
+  }
+}

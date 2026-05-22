@@ -1,0 +1,1623 @@
+{
+  "site": {
+    "name": "Alchemist Accelerator",
+    "slug": "alchemist-accelerator",
+    "url": "https://www.alchemistaccelerator.com/",
+    "category": "global-accelerator",
+    "priority": 1,
+    "focus": [
+      "enterprise startup positioning",
+      "portfolio proof",
+      "B2B trust"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:25:02.345Z",
+  "viewports": {
+    "desktop": {
+      "title": "Alchemist Home",
+      "finalUrl": "https://www.alchemistaccelerator.com/",
+      "language": "EN",
+      "fontFamilies": [
+        "\"Open Sans\", sans-serif",
+        "Lato, sans-serif",
+        "\"Open Sans\""
+      ],
+      "colors": [
+        "rgb(7, 29, 38)",
+        "rgb(255, 255, 255)",
+        "rgb(21, 41, 90)",
+        "rgb(2, 112, 224)",
+        "rgba(7, 29, 38, 0.55)",
+        "rgba(7, 29, 38, 0.85)",
+        "rgb(0, 0, 0)",
+        "rgb(9, 40, 53)",
+        "rgba(7, 29, 38, 0.4)",
+        "rgb(66, 91, 118)",
+        "rgb(75, 85, 99)"
+      ],
+      "backgroundColors": [
+        "rgb(66, 91, 118)",
+        "rgb(255, 255, 255)",
+        "rgb(9, 40, 53)",
+        "rgb(9, 61, 82)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "Where Bold Ideas Become Reality",
+          "fontSize": "110px",
+          "fontWeight": "400",
+          "lineHeight": "99px"
+        },
+        {
+          "tag": "h2",
+          "text": "Your Journey Starts With Alchemist",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h2",
+          "text": "Impact at aglance",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Aquisitions",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Raised by alumni",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors & investors across the Alchemist network",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startups Accelerated",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Exclusive Community",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Outcome-Driven Workshops",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Expert Mentor Access",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "1:1 Coaching",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Fundraising Support",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Begin YourJourney",
+          "fontSize": "110px",
+          "fontWeight": "400",
+          "lineHeight": "99px"
+        },
+        {
+          "tag": "h2",
+          "text": "Following theVision",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Rigetti Quantum Computing",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "LaunchDarkly",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "OneBrief",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Zainar",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "MoEngage",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Insights & Stories",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Theorema Inc Closes a $3.3M pre-seed round",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mantis Analytics awarded €500,000 from European Innovation Council",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://www.alchemistaccelerator.com/legal"
+        },
+        {
+          "text": "",
+          "href": "https://www.alchemistaccelerator.com/?hsLang=en"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Alchemist Chicago",
+          "href": "https://www.alchemistaccelerator.com/alchemist-chicago?hsLang=en"
+        },
+        {
+          "text": "Alchemist Doha",
+          "href": "https://www.alchemistaccelerator.com/doha?hsLang=en"
+        },
+        {
+          "text": "Alchemist Japan",
+          "href": "https://www.alchemistaccelerator.com/japan?hsLang=en"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Community",
+          "href": "https://www.alchemistaccelerator.com/community?hsLang=en"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.alchemistaccelerator.com/mentors?hsLang=en"
+        },
+        {
+          "text": "Our team",
+          "href": "https://www.alchemistaccelerator.com/team?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcasts",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/cs/c/?cta_guid=09bb0443-2928-405b-ba25-3831dbfaebce&signature=AAH58kG99JL94OperB4V2qeV6W_1_qpY3A&portal_id=22145576&pageId=159817754755&placement_guid=158cbd02-6c3d-4216-bc77-8041cac65ee1&click=0644eefb-ebe2-4a01-917a-5ed82f3e1b39&redirect_url=APefjpFvIAaglTsokTJMwQv6e2lMcXaNOScKiH_8hcZ7f1_ssArE50IdTmRPHrV0kQi3i21Zq1I1N4nJMdoG16UQQGBW8a-iaGhvEMhSL7kmnE2qq7Cq5HwEYKEcmCWJFNvmwROd0-1q&hsutk=dc7fb805c9fa54d5561747b4a1bb0299&canon=https%3A%2F%2Fwww.alchemistaccelerator.com%2Fjapan&ts=1766092412327&__hstc=64976752.dc7fb805c9fa54d5561747b4a1bb0299.1766092412614.1766092412614.1766092412614.1&__hssc=64976752.1.1766092412614&__hsfp=3393147654&contentType=landing-page&hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsCtaTracking=158cbd02-6c3d-4216-bc77-8041cac65ee1%7C09bb0443-2928-405b-ba25-3831dbfaebce&hsLang=en"
+        },
+        {
+          "text": "View Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/fdousek_we-raised-a-33m-pre-seed-round-to-build-share-7443208659175763969-8NWa/"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/mantisanalytics_mantis-analytics-has-been-selected-for-a-activity-7447953137912496128-jYh0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEKP5QB68DA3AHZKGvCUSSF4dQt-4A3Lno"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/alchemist-accelerator_big-news-weve-closed-our-series-d-at-a-activity-7416882545319084032-2SZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYpzvUB81RvhVCKxSvscbwbLty2sM0tAno"
+        },
+        {
+          "text": "admissions@alchemistaccelerator.com",
+          "href": "mailto:admissions@alchemistaccelerator.com"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsLang=en"
+        },
+        {
+          "text": "All Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship Program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Innovation Services",
+          "href": "https://www.alchemistaccelerator.com/alchemistx?hsLang=en"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.alchemistaccelerator.com/alchemist-partners?hsLang=en"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.alchemistaccelerator.com/alchemist-investors?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcast",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Press",
+          "href": "https://www.alchemistaccelerator.com/press-highlights?hsLang=en"
+        },
+        {
+          "text": "Vault Login",
+          "href": "https://vault.alchemistaccelerator.com/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.alchemistaccelerator.com/jobs?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/alchemist-accelerator/?viewAsMember=true"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/alchemistaccelerator/?hl=en"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/AlchemistAcc"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy-policy?hsLang=en"
+        },
+        {
+          "text": "Legal",
+          "href": "https://www.alchemistaccelerator.com/legal?hsLang=en"
+        },
+        {
+          "text": "Cookie Preferences",
+          "href": "javascript:(function(){var%20_hsp%20=%20window._hsp%20=%20window._hsp%20||%20[];%20_hsp.push(['showBanner']);})();"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "site-header",
+          "className": "site-header",
+          "label": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "text": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 100
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/desktop/navigation/01-programs-flagship-program-alchemist-chicago-alchemist-doha-alchemist-japan-portfolio-commu.png"
+        },
+        {
+          "index": 1,
+          "tag": "div",
+          "id": "",
+          "className": "program-tabs-panels",
+          "label": "Theprogram",
+          "text": "Theprogram Theprogram Exclusive Community Outcome-Driven Workshops Expert Mentor Access 1:1 Coaching Fundraising Support Learn More Exclusive Community Exclusive Community 01 Join a curated cohort of technical founders who challenge, elevate, and inspire one another. Peer circles, office hours, and alumni connections create the momentum every founder needs to stay true to their mission. Learn More Outcome-Driven Workshops Outcome-Driven Workshops 02 Traction-focused workshops grounded in practical action: customer discovery, enterprise sales, go-to-market strategy, and fundraising readiness—each one designed to move you closer to the company you’re meant to build. Learn More Expert Mentor Access Expert Mentor Access 03 Work directly with seasoned operators, investors, and domain experts who offer candid, actionable guidance across product, growth, and strategy—helping you recognize the signals that point to your next move. Learn More 1:1 Coaching 1:1 Coaching 04 Every founder is paired with a coach who brings real founder experience and $100M+ exits—becoming a true partner in accountability, clarity, and decision-making. They help you navigate pivotal choices, sharpen your instinct",
+          "rect": {
+            "x": 58,
+            "y": 3045,
+            "width": 1324,
+            "height": 751
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/desktop/hero-sections/02-theprogram.png"
+        },
+        {
+          "index": 2,
+          "tag": "div",
+          "id": "",
+          "className": "portfolio-list",
+          "label": "Following theVision",
+          "text": "Discover the startups that began their journey with Alchemist and went on to redefine industries worldwide. Following theVision 01 Rigetti Quantum Computing Building full-stack superconducting quantum processors and systems. 02 LaunchDarkly A feature management platform used to control software releases through secure, real-time feature flagging. 03 OneBrief A defense technology firm which provides an AI-powered \"Command Operating System\" that modernizes military operational planning by replacing legacy office suites with a real-time, collaborative environment. 04 Zainar ZaiNar uses radio signals to provide precise 3D location tracking for phones and vehicles without using any GPS. 05 MoEngage MoEngage is an insights-led customer engagement platform that uses AI to help brands analyze behavior and automate personalized omnichannel communication. View Portfolio",
+          "rect": {
+            "x": 40,
+            "y": 4811,
+            "width": 1360,
+            "height": 1180
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/alchemist-accelerator/desktop/startup-showcase/03-following-thevision.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "testimonial-scroll-module",
+          "className": "testimonial-scroll-module",
+          "label": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a grea",
+          "text": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a great fundraising process. We owe a lot of our early success (and avoidance of mistakes) to the team at Alchemist.\" Jerry Wu Founder, Halluminate \"Participating in The Alchemist Accelerator has been one of the most transformative experiences for our company. One of the most valuable things we gained was finally understanding what it truly means to be a tech or deep-tech company in Silicon Valley—not just as a concept, but as a lived reality. This experience was particularly striking for us coming from Latin America, where very few companies of this kind have been built, and where the institutional and cultural knowledge around deep-tech entrepreneurship is still lacking. Alchemist will surprise you in the best possible ways. It will challenge you, grow you, and ultimately make you and your company stronger in ways that matter most—not just in business, but in mindset and ambition.\" Pablo Zegers Founder & CEO, Kaspix",
+          "rect": {
+            "x": 753,
+            "y": 7754,
+            "width": 629,
+            "height": 680
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/desktop/hero-sections/04-alchemist-was-our-earliest-supporter-and-has-been-with-us-every-step-of-the-way-their-team.png"
+        },
+        {
+          "index": 4,
+          "tag": "footer",
+          "id": "site-footer",
+          "className": "site-footer",
+          "label": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Po",
+          "text": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Podcast Press Vault Login Jobs © 2025 Alchemist Accelerator, LLC & Alchemist Accelerator Europe GmbH | Imprint | All Rights Reserved. Privacy Policy Legal Cookie Preferences",
+          "rect": {
+            "x": 0,
+            "y": 10000,
+            "width": 1440,
+            "height": 789
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/desktop/navigation/05-join-the-community-turn-your-idea-intoimpact-with-our-support-apply-now-all-services-all-p.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Alchemist Home",
+      "finalUrl": "https://www.alchemistaccelerator.com/",
+      "language": "EN",
+      "fontFamilies": [
+        "\"Open Sans\", sans-serif",
+        "Lato, sans-serif",
+        "\"Open Sans\""
+      ],
+      "colors": [
+        "rgb(7, 29, 38)",
+        "rgb(255, 255, 255)",
+        "rgb(21, 41, 90)",
+        "rgb(2, 112, 224)",
+        "rgba(255, 255, 255, 0.8)",
+        "rgba(7, 29, 38, 0.55)",
+        "rgba(7, 29, 38, 0.85)",
+        "rgb(0, 0, 0)",
+        "rgb(9, 40, 53)",
+        "rgba(7, 29, 38, 0.4)",
+        "rgb(66, 91, 118)",
+        "rgb(75, 85, 99)"
+      ],
+      "backgroundColors": [
+        "rgb(66, 91, 118)",
+        "rgb(255, 255, 255)",
+        "rgb(9, 40, 53)",
+        "rgb(9, 61, 82)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "Where Bold Ideas Become Reality",
+          "fontSize": "110px",
+          "fontWeight": "400",
+          "lineHeight": "99px"
+        },
+        {
+          "tag": "h2",
+          "text": "Your Journey Starts With Alchemist",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h2",
+          "text": "Impact at aglance",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Aquisitions",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Raised by alumni",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors & investors across the Alchemist network",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startups Accelerated",
+          "fontSize": "18px",
+          "fontWeight": "600",
+          "lineHeight": "19.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Exclusive Community",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Outcome-Driven Workshops",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Expert Mentor Access",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "1:1 Coaching",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Fundraising Support",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Begin YourJourney",
+          "fontSize": "110px",
+          "fontWeight": "400",
+          "lineHeight": "99px"
+        },
+        {
+          "tag": "h2",
+          "text": "Following theVision",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Rigetti Quantum Computing",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "LaunchDarkly",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "OneBrief",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Zainar",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "MoEngage",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Insights & Stories",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Theorema Inc Closes a $3.3M pre-seed round",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mantis Analytics awarded €500,000 from European Innovation Council",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://www.alchemistaccelerator.com/legal"
+        },
+        {
+          "text": "",
+          "href": "https://www.alchemistaccelerator.com/?hsLang=en"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Alchemist Chicago",
+          "href": "https://www.alchemistaccelerator.com/alchemist-chicago?hsLang=en"
+        },
+        {
+          "text": "Alchemist Doha",
+          "href": "https://www.alchemistaccelerator.com/doha?hsLang=en"
+        },
+        {
+          "text": "Alchemist Japan",
+          "href": "https://www.alchemistaccelerator.com/japan?hsLang=en"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Community",
+          "href": "https://www.alchemistaccelerator.com/community?hsLang=en"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.alchemistaccelerator.com/mentors?hsLang=en"
+        },
+        {
+          "text": "Our team",
+          "href": "https://www.alchemistaccelerator.com/team?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcasts",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/cs/c/?cta_guid=09bb0443-2928-405b-ba25-3831dbfaebce&signature=AAH58kG99JL94OperB4V2qeV6W_1_qpY3A&portal_id=22145576&pageId=159817754755&placement_guid=158cbd02-6c3d-4216-bc77-8041cac65ee1&click=0644eefb-ebe2-4a01-917a-5ed82f3e1b39&redirect_url=APefjpFvIAaglTsokTJMwQv6e2lMcXaNOScKiH_8hcZ7f1_ssArE50IdTmRPHrV0kQi3i21Zq1I1N4nJMdoG16UQQGBW8a-iaGhvEMhSL7kmnE2qq7Cq5HwEYKEcmCWJFNvmwROd0-1q&hsutk=dc7fb805c9fa54d5561747b4a1bb0299&canon=https%3A%2F%2Fwww.alchemistaccelerator.com%2Fjapan&ts=1766092412327&__hstc=64976752.dc7fb805c9fa54d5561747b4a1bb0299.1766092412614.1766092412614.1766092412614.1&__hssc=64976752.1.1766092412614&__hsfp=3393147654&contentType=landing-page&hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsCtaTracking=158cbd02-6c3d-4216-bc77-8041cac65ee1%7C09bb0443-2928-405b-ba25-3831dbfaebce&hsLang=en"
+        },
+        {
+          "text": "View Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/fdousek_we-raised-a-33m-pre-seed-round-to-build-share-7443208659175763969-8NWa/"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/mantisanalytics_mantis-analytics-has-been-selected-for-a-activity-7447953137912496128-jYh0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEKP5QB68DA3AHZKGvCUSSF4dQt-4A3Lno"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/alchemist-accelerator_big-news-weve-closed-our-series-d-at-a-activity-7416882545319084032-2SZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYpzvUB81RvhVCKxSvscbwbLty2sM0tAno"
+        },
+        {
+          "text": "admissions@alchemistaccelerator.com",
+          "href": "mailto:admissions@alchemistaccelerator.com"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsLang=en"
+        },
+        {
+          "text": "All Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship Program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Innovation Services",
+          "href": "https://www.alchemistaccelerator.com/alchemistx?hsLang=en"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.alchemistaccelerator.com/alchemist-partners?hsLang=en"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.alchemistaccelerator.com/alchemist-investors?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcast",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Press",
+          "href": "https://www.alchemistaccelerator.com/press-highlights?hsLang=en"
+        },
+        {
+          "text": "Vault Login",
+          "href": "https://vault.alchemistaccelerator.com/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.alchemistaccelerator.com/jobs?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/alchemist-accelerator/?viewAsMember=true"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/alchemistaccelerator/?hl=en"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/AlchemistAcc"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy-policy?hsLang=en"
+        },
+        {
+          "text": "Legal",
+          "href": "https://www.alchemistaccelerator.com/legal?hsLang=en"
+        },
+        {
+          "text": "Cookie Preferences",
+          "href": "javascript:(function(){var%20_hsp%20=%20window._hsp%20=%20window._hsp%20||%20[];%20_hsp.push(['showBanner']);})();"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "site-header",
+          "className": "site-header",
+          "label": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "text": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 88
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/tablet/navigation/01-programs-flagship-program-alchemist-chicago-alchemist-doha-alchemist-japan-portfolio-commu.png"
+        },
+        {
+          "index": 1,
+          "tag": "div",
+          "id": "",
+          "className": "program-tabs-panels",
+          "label": "Theprogram",
+          "text": "Theprogram Theprogram Exclusive Community Outcome-Driven Workshops Expert Mentor Access 1:1 Coaching Fundraising Support Learn More Exclusive Community Exclusive Community 01 Join a curated cohort of technical founders who challenge, elevate, and inspire one another. Peer circles, office hours, and alumni connections create the momentum every founder needs to stay true to their mission. Learn More Outcome-Driven Workshops Outcome-Driven Workshops 02 Traction-focused workshops grounded in practical action: customer discovery, enterprise sales, go-to-market strategy, and fundraising readiness—each one designed to move you closer to the company you’re meant to build. Learn More Expert Mentor Access Expert Mentor Access 03 Work directly with seasoned operators, investors, and domain experts who offer candid, actionable guidance across product, growth, and strategy—helping you recognize the signals that point to your next move. Learn More 1:1 Coaching 1:1 Coaching 04 Every founder is paired with a coach who brings real founder experience and $100M+ exits—becoming a true partner in accountability, clarity, and decision-making. They help you navigate pivotal choices, sharpen your instinct",
+          "rect": {
+            "x": 42,
+            "y": 3273,
+            "width": 750,
+            "height": 1272
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/tablet/hero-sections/02-theprogram.png"
+        },
+        {
+          "index": 2,
+          "tag": "div",
+          "id": "",
+          "className": "portfolio-list",
+          "label": "Following theVision",
+          "text": "Discover the startups that began their journey with Alchemist and went on to redefine industries worldwide. Following theVision 01 Rigetti Quantum Computing Building full-stack superconducting quantum processors and systems. 02 LaunchDarkly A feature management platform used to control software releases through secure, real-time feature flagging. 03 OneBrief A defense technology firm which provides an AI-powered \"Command Operating System\" that modernizes military operational planning by replacing legacy office suites with a real-time, collaborative environment. 04 Zainar ZaiNar uses radio signals to provide precise 3D location tracking for phones and vehicles without using any GPS. 05 MoEngage MoEngage is an insights-led customer engagement platform that uses AI to help brands analyze behavior and automate personalized omnichannel communication. View Portfolio",
+          "rect": {
+            "x": 24,
+            "y": 5690,
+            "width": 786,
+            "height": 1423
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/alchemist-accelerator/tablet/startup-showcase/03-following-thevision.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "testimonial-scroll-module",
+          "className": "testimonial-scroll-module",
+          "label": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a grea",
+          "text": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a great fundraising process. We owe a lot of our early success (and avoidance of mistakes) to the team at Alchemist.\" Jerry Wu Founder, Halluminate \"Participating in The Alchemist Accelerator has been one of the most transformative experiences for our company. One of the most valuable things we gained was finally understanding what it truly means to be a tech or deep-tech company in Silicon Valley—not just as a concept, but as a lived reality. This experience was particularly striking for us coming from Latin America, where very few companies of this kind have been built, and where the institutional and cultural knowledge around deep-tech entrepreneurship is still lacking. Alchemist will surprise you in the best possible ways. It will challenge you, grow you, and ultimately make you and your company stronger in ways that matter most—not just in business, but in mindset and ambition.\" Pablo Zegers Founder & CEO, Kaspix",
+          "rect": {
+            "x": 443,
+            "y": 9103,
+            "width": 349,
+            "height": 630
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/tablet/hero-sections/04-alchemist-was-our-earliest-supporter-and-has-been-with-us-every-step-of-the-way-their-team.png"
+        },
+        {
+          "index": 4,
+          "tag": "footer",
+          "id": "site-footer",
+          "className": "site-footer",
+          "label": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Po",
+          "text": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Podcast Press Vault Login Jobs © 2025 Alchemist Accelerator, LLC & Alchemist Accelerator Europe GmbH | Imprint | All Rights Reserved. Privacy Policy Legal Cookie Preferences",
+          "rect": {
+            "x": 0,
+            "y": 11263,
+            "width": 834,
+            "height": 845
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/tablet/navigation/05-join-the-community-turn-your-idea-intoimpact-with-our-support-apply-now-all-services-all-p.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Alchemist Home",
+      "finalUrl": "https://www.alchemistaccelerator.com/",
+      "language": "EN",
+      "fontFamilies": [
+        "\"Open Sans\", sans-serif",
+        "Lato, sans-serif",
+        "\"Open Sans\""
+      ],
+      "colors": [
+        "rgb(7, 29, 38)",
+        "rgb(255, 255, 255)",
+        "rgb(21, 41, 90)",
+        "rgb(2, 112, 224)",
+        "rgba(255, 255, 255, 0.8)",
+        "rgba(7, 29, 38, 0.55)",
+        "rgba(7, 29, 38, 0.85)",
+        "rgb(0, 0, 0)",
+        "rgb(9, 40, 53)",
+        "rgba(7, 29, 38, 0.4)",
+        "rgb(75, 85, 99)"
+      ],
+      "backgroundColors": [
+        "rgb(66, 91, 118)",
+        "rgb(255, 255, 255)",
+        "rgb(9, 40, 53)",
+        "rgb(9, 61, 82)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "Where Bold Ideas Become Reality",
+          "fontSize": "55px",
+          "fontWeight": "400",
+          "lineHeight": "55px"
+        },
+        {
+          "tag": "h2",
+          "text": "Your Journey Starts With Alchemist",
+          "fontSize": "40px",
+          "fontWeight": "400",
+          "lineHeight": "40px"
+        },
+        {
+          "tag": "h2",
+          "text": "Impact at aglance",
+          "fontSize": "40px",
+          "fontWeight": "400",
+          "lineHeight": "40px"
+        },
+        {
+          "tag": "h3",
+          "text": "Aquisitions",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "lineHeight": "14px"
+        },
+        {
+          "tag": "h3",
+          "text": "Raised by alumni",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "lineHeight": "14px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors & investors across the Alchemist network",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "lineHeight": "14px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startups Accelerated",
+          "fontSize": "14px",
+          "fontWeight": "600",
+          "lineHeight": "14px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "40px",
+          "fontWeight": "400",
+          "lineHeight": "40px"
+        },
+        {
+          "tag": "h2",
+          "text": "Theprogram",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "70px"
+        },
+        {
+          "tag": "h3",
+          "text": "Exclusive Community",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "30.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Outcome-Driven Workshops",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "30.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Expert Mentor Access",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "30.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "1:1 Coaching",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "30.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Fundraising Support",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "30.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Begin YourJourney",
+          "fontSize": "55px",
+          "fontWeight": "400",
+          "lineHeight": "49.5px"
+        },
+        {
+          "tag": "h2",
+          "text": "Following theVision",
+          "fontSize": "40px",
+          "fontWeight": "400",
+          "lineHeight": "40px"
+        },
+        {
+          "tag": "h3",
+          "text": "Rigetti Quantum Computing",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "LaunchDarkly",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "OneBrief",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Zainar",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "MoEngage",
+          "fontSize": "38px",
+          "fontWeight": "400",
+          "lineHeight": "41.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Insights & Stories",
+          "fontSize": "40px",
+          "fontWeight": "400",
+          "lineHeight": "40px"
+        },
+        {
+          "tag": "h3",
+          "text": "Theorema Inc Closes a $3.3M pre-seed round",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mantis Analytics awarded €500,000 from European Innovation Council",
+          "fontSize": "28px",
+          "fontWeight": "400",
+          "lineHeight": "39.2px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "https://www.alchemistaccelerator.com/legal"
+        },
+        {
+          "text": "",
+          "href": "https://www.alchemistaccelerator.com/?hsLang=en"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Alchemist Chicago",
+          "href": "https://www.alchemistaccelerator.com/alchemist-chicago?hsLang=en"
+        },
+        {
+          "text": "Alchemist Doha",
+          "href": "https://www.alchemistaccelerator.com/doha?hsLang=en"
+        },
+        {
+          "text": "Alchemist Japan",
+          "href": "https://www.alchemistaccelerator.com/japan?hsLang=en"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Community",
+          "href": "https://www.alchemistaccelerator.com/community?hsLang=en"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.alchemistaccelerator.com/mentors?hsLang=en"
+        },
+        {
+          "text": "Our team",
+          "href": "https://www.alchemistaccelerator.com/team?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcasts",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/cs/c/?cta_guid=09bb0443-2928-405b-ba25-3831dbfaebce&signature=AAH58kG99JL94OperB4V2qeV6W_1_qpY3A&portal_id=22145576&pageId=159817754755&placement_guid=158cbd02-6c3d-4216-bc77-8041cac65ee1&click=0644eefb-ebe2-4a01-917a-5ed82f3e1b39&redirect_url=APefjpFvIAaglTsokTJMwQv6e2lMcXaNOScKiH_8hcZ7f1_ssArE50IdTmRPHrV0kQi3i21Zq1I1N4nJMdoG16UQQGBW8a-iaGhvEMhSL7kmnE2qq7Cq5HwEYKEcmCWJFNvmwROd0-1q&hsutk=dc7fb805c9fa54d5561747b4a1bb0299&canon=https%3A%2F%2Fwww.alchemistaccelerator.com%2Fjapan&ts=1766092412327&__hstc=64976752.dc7fb805c9fa54d5561747b4a1bb0299.1766092412614.1766092412614.1766092412614.1&__hssc=64976752.1.1766092412614&__hsfp=3393147654&contentType=landing-page&hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7391841809745727488"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7393289173354512384"
+        },
+        {
+          "text": "More",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7386781424143740928"
+        },
+        {
+          "text": "",
+          "href": "https://lnkd.in/eRszBYv3"
+        },
+        {
+          "text": "Read more →",
+          "href": "https://www.linkedin.com/feed/update/urn:li:activity:7416882545319084032"
+        },
+        {
+          "text": "Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsCtaTracking=158cbd02-6c3d-4216-bc77-8041cac65ee1%7C09bb0443-2928-405b-ba25-3831dbfaebce&hsLang=en"
+        },
+        {
+          "text": "View Portfolio",
+          "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/fdousek_we-raised-a-33m-pre-seed-round-to-build-share-7443208659175763969-8NWa/"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/mantisanalytics_mantis-analytics-has-been-selected-for-a-activity-7447953137912496128-jYh0/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAEKP5QB68DA3AHZKGvCUSSF4dQt-4A3Lno"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.linkedin.com/posts/alchemist-accelerator_big-news-weve-closed-our-series-d-at-a-activity-7416882545319084032-2SZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACYpzvUB81RvhVCKxSvscbwbLty2sM0tAno"
+        },
+        {
+          "text": "admissions@alchemistaccelerator.com",
+          "href": "mailto:admissions@alchemistaccelerator.com"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://www.alchemistaccelerator.com/apply?hsLang=en"
+        },
+        {
+          "text": "All Programs",
+          "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+        },
+        {
+          "text": "Flagship Program",
+          "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+        },
+        {
+          "text": "Innovation Services",
+          "href": "https://www.alchemistaccelerator.com/alchemistx?hsLang=en"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.alchemistaccelerator.com/alchemist-partners?hsLang=en"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.alchemistaccelerator.com/alchemist-investors?hsLang=en"
+        },
+        {
+          "text": "Blog",
+          "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+        },
+        {
+          "text": "Podcast",
+          "href": "https://www.alchemistaccelerator.com/podcasts?hsLang=en"
+        },
+        {
+          "text": "Press",
+          "href": "https://www.alchemistaccelerator.com/press-highlights?hsLang=en"
+        },
+        {
+          "text": "Vault Login",
+          "href": "https://vault.alchemistaccelerator.com/"
+        },
+        {
+          "text": "Jobs",
+          "href": "https://www.alchemistaccelerator.com/jobs?hsLang=en"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/alchemist-accelerator/?viewAsMember=true"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/alchemistaccelerator/?hl=en"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/AlchemistAcc"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://www.alchemistaccelerator.com/privacy-policy?hsLang=en"
+        },
+        {
+          "text": "Legal",
+          "href": "https://www.alchemistaccelerator.com/legal?hsLang=en"
+        },
+        {
+          "text": "Cookie Preferences",
+          "href": "javascript:(function(){var%20_hsp%20=%20window._hsp%20=%20window._hsp%20||%20[];%20_hsp.push(['showBanner']);})();"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "site-header",
+          "className": "site-header",
+          "label": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "text": "Programs Flagship program Alchemist Chicago Alchemist Doha Alchemist Japan Portfolio Community Mentors Our team Blog Podcasts",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 88
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/mobile/navigation/01-programs-flagship-program-alchemist-chicago-alchemist-doha-alchemist-japan-portfolio-commu.png"
+        },
+        {
+          "index": 1,
+          "tag": "div",
+          "id": "",
+          "className": "program-tabs-panels",
+          "label": "Theprogram",
+          "text": "Theprogram Theprogram Exclusive Community Outcome-Driven Workshops Expert Mentor Access 1:1 Coaching Fundraising Support Learn More Exclusive Community Exclusive Community 01 Join a curated cohort of technical founders who challenge, elevate, and inspire one another. Peer circles, office hours, and alumni connections create the momentum every founder needs to stay true to their mission. Learn More Outcome-Driven Workshops Outcome-Driven Workshops 02 Traction-focused workshops grounded in practical action: customer discovery, enterprise sales, go-to-market strategy, and fundraising readiness—each one designed to move you closer to the company you’re meant to build. Learn More Expert Mentor Access Expert Mentor Access 03 Work directly with seasoned operators, investors, and domain experts who offer candid, actionable guidance across product, growth, and strategy—helping you recognize the signals that point to your next move. Learn More 1:1 Coaching 1:1 Coaching 04 Every founder is paired with a coach who brings real founder experience and $100M+ exits—becoming a true partner in accountability, clarity, and decision-making. They help you navigate pivotal choices, sharpen your instinct",
+          "rect": {
+            "x": 16,
+            "y": 3157,
+            "width": 358,
+            "height": 1173
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/mobile/hero-sections/02-theprogram.png"
+        },
+        {
+          "index": 2,
+          "tag": "div",
+          "id": "",
+          "className": "portfolio-list",
+          "label": "Following theVision",
+          "text": "Discover the startups that began their journey with Alchemist and went on to redefine industries worldwide. Following theVision 01 Rigetti Quantum Computing Building full-stack superconducting quantum processors and systems. 02 LaunchDarkly A feature management platform used to control software releases through secure, real-time feature flagging. 03 OneBrief A defense technology firm which provides an AI-powered \"Command Operating System\" that modernizes military operational planning by replacing legacy office suites with a real-time, collaborative environment. 04 Zainar ZaiNar uses radio signals to provide precise 3D location tracking for phones and vehicles without using any GPS. 05 MoEngage MoEngage is an insights-led customer engagement platform that uses AI to help brands analyze behavior and automate personalized omnichannel communication. View Portfolio",
+          "rect": {
+            "x": 16,
+            "y": 5272,
+            "width": 358,
+            "height": 1872
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/alchemist-accelerator/mobile/startup-showcase/03-following-thevision.png"
+        },
+        {
+          "index": 3,
+          "tag": "div",
+          "id": "testimonial-scroll-module",
+          "className": "testimonial-scroll-module",
+          "label": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a grea",
+          "text": "\"Alchemist was our earliest supporter and has been with us every step of the way. Their team was extremely helpful in teaching us how to build a sales engine, as well as run a great fundraising process. We owe a lot of our early success (and avoidance of mistakes) to the team at Alchemist.\" Jerry Wu Founder, Halluminate \"Participating in The Alchemist Accelerator has been one of the most transformative experiences for our company. One of the most valuable things we gained was finally understanding what it truly means to be a tech or deep-tech company in Silicon Valley—not just as a concept, but as a lived reality. This experience was particularly striking for us coming from Latin America, where very few companies of this kind have been built, and where the institutional and cultural knowledge around deep-tech entrepreneurship is still lacking. Alchemist will surprise you in the best possible ways. It will challenge you, grow you, and ultimately make you and your company stronger in ways that matter most—not just in business, but in mindset and ambition.\" Pablo Zegers Founder & CEO, Kaspix",
+          "rect": {
+            "x": 4,
+            "y": 9277,
+            "width": 382,
+            "height": 490
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/alchemist-accelerator/mobile/hero-sections/04-alchemist-was-our-earliest-supporter-and-has-been-with-us-every-step-of-the-way-their-team.png"
+        },
+        {
+          "index": 4,
+          "tag": "footer",
+          "id": "site-footer",
+          "className": "site-footer",
+          "label": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Po",
+          "text": "Join the Community Turn your idea intoimpact with our support. Apply Now All Services All Programs Flagship Program Innovation Services Portfolio Partners Investors Connect Blog Podcast Press Vault Login Jobs © 2025 Alchemist Accelerator, LLC & Alchemist Accelerator Europe GmbH | Imprint | All Rights Reserved. Privacy Policy Legal Cookie Preferences",
+          "rect": {
+            "x": 0,
+            "y": 11170,
+            "width": 390,
+            "height": 1221
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/alchemist-accelerator/mobile/navigation/05-join-the-community-turn-your-idea-intoimpact-with-our-support-apply-now-all-services-all-p.png"
+        }
+      ]
+    }
+  }
+}

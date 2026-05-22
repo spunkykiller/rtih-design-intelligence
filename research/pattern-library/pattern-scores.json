@@ -1,0 +1,1452 @@
+{
+  "generatedAt": "2026-05-22T07:55:16.661Z",
+  "scorecards": [
+    {
+      "site": "mars-discovery-district",
+      "name": "MaRS Discovery District",
+      "url": "https://www.marsdd.com/",
+      "category": "innovation-ecosystem",
+      "focus": [
+        "public innovation ecosystem",
+        "institutional programs",
+        "sector navigation"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 3,
+        "ecosystemStorytelling": 5,
+        "scalability": 5,
+        "mobileQuality": 5,
+        "accessibility": 5,
+        "visualRestraint": 5,
+        "originality": 4
+      },
+      "average": 4.7,
+      "strengths": [
+        "clear hierarchy",
+        "strong ecosystem language",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 114,
+        "desktopSections": 32,
+        "mobileScreenshots": 36,
+        "ctaLinks": [
+          {
+            "text": "MaRS Capital Program",
+            "href": "https://www.marsdd.com/startups/capital-program/"
+          },
+          {
+            "text": "MaRS Capital Program",
+            "href": "https://www.marsdd.com/startups/capital-program/"
+          },
+          {
+            "text": "Contact",
+            "href": "https://www.marsdd.com/contact/"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "Skip to content.",
+            "href": "https://www.marsdd.com/#afterNav"
+          },
+          {
+            "text": "Jump to Page Footer.",
+            "href": "https://www.marsdd.com/#footer"
+          },
+          {
+            "text": "Startups",
+            "href": "https://www.marsdd.com/startups/"
+          },
+          {
+            "text": "Membership",
+            "href": "https://www.marsdd.com/startups/"
+          },
+          {
+            "text": "Core",
+            "href": "https://www.marsdd.com/startups/"
+          },
+          {
+            "text": "Accelerators",
+            "href": "https://www.marsdd.com/accelerators/"
+          },
+          {
+            "text": "MaRS Capital Program",
+            "href": "https://www.marsdd.com/startups/capital-program/"
+          },
+          {
+            "text": "Momentum at MaRS",
+            "href": "https://www.marsdd.com/service/momentum/"
+          },
+          {
+            "text": "MaRS Connect",
+            "href": "https://www.marsdd.com/connect/"
+          },
+          {
+            "text": "Directory",
+            "href": "https://app.marsdd.com/directory/"
+          },
+          {
+            "text": "Partners",
+            "href": "https://www.marsdd.com/partners/"
+          },
+          {
+            "text": "Our fund",
+            "href": "https://marsiaf.com/"
+          }
+        ],
+        "axeViolations": 1,
+        "metadata": "research/benchmark-analysis/mars-discovery-district.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "creative-destruction-lab",
+      "name": "Creative Destruction Lab",
+      "url": "https://creativedestructionlab.com/",
+      "category": "deep-tech-innovation",
+      "focus": [
+        "deep-tech positioning",
+        "program geography",
+        "venture science credibility"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 5,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 5,
+        "accessibility": 3,
+        "visualRestraint": 5,
+        "originality": 4
+      },
+      "average": 4.6,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 53,
+        "desktopSections": 14,
+        "mobileScreenshots": 16,
+        "ctaLinks": [
+          {
+            "text": "Unlocking Enterprise Productivity Through AI: CDL’s Putting AI to Work Program",
+            "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+          },
+          {
+            "text": "Program",
+            "href": "https://creativedestructionlab.com/program/"
+          },
+          {
+            "text": "Putting AI to Work",
+            "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+          },
+          {
+            "text": "Partners",
+            "href": "https://creativedestructionlab.com/partners-program/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://creativedestructionlab.com/application-triage/"
+          },
+          {
+            "text": "Program",
+            "href": "https://creativedestructionlab.com/program/"
+          },
+          {
+            "text": "Putting AI to Work",
+            "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "×",
+            "href": "https://creativedestructionlab.com/#"
+          },
+          {
+            "text": ".cls-1{fill:#ed037c}",
+            "href": "https://creativedestructionlab.com/"
+          },
+          {
+            "text": "About",
+            "href": "https://creativedestructionlab.com/about/"
+          },
+          {
+            "text": "Program",
+            "href": "https://creativedestructionlab.com/program/"
+          },
+          {
+            "text": "Streams",
+            "href": "https://creativedestructionlab.com/streams/"
+          },
+          {
+            "text": "Locations",
+            "href": "https://creativedestructionlab.com/locations/"
+          },
+          {
+            "text": "Staff",
+            "href": "https://creativedestructionlab.com/cdl-staff/"
+          },
+          {
+            "text": "Putting AI to Work",
+            "href": "https://creativedestructionlab.com/program/putting-ai-to-work/"
+          },
+          {
+            "text": "CDL Research",
+            "href": "https://creativedestructionlab.com/data-research/"
+          },
+          {
+            "text": "Streams",
+            "href": "https://creativedestructionlab.com/streams/"
+          },
+          {
+            "text": "Prime (General)",
+            "href": "https://creativedestructionlab.com/streams/prime/"
+          },
+          {
+            "text": "Advanced Therapies",
+            "href": "https://creativedestructionlab.com/streams/health/advanced-therapies/"
+          }
+        ],
+        "axeViolations": 7,
+        "metadata": "research/benchmark-analysis/creative-destruction-lab.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "alchemist-accelerator",
+      "name": "Alchemist Accelerator",
+      "url": "https://www.alchemistaccelerator.com/",
+      "category": "global-accelerator",
+      "focus": [
+        "enterprise startup positioning",
+        "portfolio proof",
+        "B2B trust"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 4,
+        "ecosystemStorytelling": 5,
+        "scalability": 5,
+        "mobileQuality": 4,
+        "accessibility": 4,
+        "visualRestraint": 5,
+        "originality": 3
+      },
+      "average": 4.5,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 46,
+        "desktopSections": 5,
+        "mobileScreenshots": 10,
+        "ctaLinks": [
+          {
+            "text": "Flagship program",
+            "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+          },
+          {
+            "text": "Apply Now",
+            "href": "https://www.alchemistaccelerator.com/cs/c/?cta_guid=09bb0443-2928-405b-ba25-3831dbfaebce&signature=AAH58kG99JL94OperB4V2qeV6W_1_qpY3A&portal_id=22145576&pageId=159817754755&placement_guid=158cbd02-6c3d-4216-bc77-8041cac65ee1&click=0644eefb-ebe2-4a01-917a-5ed82f3e1b39&redirect_url=APefjpFvIAaglTsokTJMwQv6e2lMcXaNOScKiH_8hcZ7f1_ssArE50IdTmRPHrV0kQi3i21Zq1I1N4nJMdoG16UQQGBW8a-iaGhvEMhSL7kmnE2qq7Cq5HwEYKEcmCWJFNvmwROd0-1q&hsutk=dc7fb805c9fa54d5561747b4a1bb0299&canon=https%3A%2F%2Fwww.alchemistaccelerator.com%2Fjapan&ts=1766092412327&__hstc=64976752.dc7fb805c9fa54d5561747b4a1bb0299.1766092412614.1766092412614.1766092412614.1&__hssc=64976752.1.1766092412614&__hsfp=3393147654&contentType=landing-page&hsLang=en"
+          },
+          {
+            "text": "Apply Now",
+            "href": "https://www.alchemistaccelerator.com/apply?hsCtaTracking=158cbd02-6c3d-4216-bc77-8041cac65ee1%7C09bb0443-2928-405b-ba25-3831dbfaebce&hsLang=en"
+          },
+          {
+            "text": "Apply Now",
+            "href": "https://www.alchemistaccelerator.com/apply?hsLang=en"
+          },
+          {
+            "text": "Flagship Program",
+            "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "Privacy Policy",
+            "href": "https://www.alchemistaccelerator.com/privacy"
+          },
+          {
+            "text": "Terms of Use",
+            "href": "https://www.alchemistaccelerator.com/legal"
+          },
+          {
+            "text": "Programs",
+            "href": "https://www.alchemistaccelerator.com/programs?hsLang=en"
+          },
+          {
+            "text": "Flagship program",
+            "href": "https://www.alchemistaccelerator.com/flagship-program?hsLang=en"
+          },
+          {
+            "text": "Alchemist Chicago",
+            "href": "https://www.alchemistaccelerator.com/alchemist-chicago?hsLang=en"
+          },
+          {
+            "text": "Alchemist Doha",
+            "href": "https://www.alchemistaccelerator.com/doha?hsLang=en"
+          },
+          {
+            "text": "Alchemist Japan",
+            "href": "https://www.alchemistaccelerator.com/japan?hsLang=en"
+          },
+          {
+            "text": "Portfolio",
+            "href": "https://www.alchemistaccelerator.com/portfolio?hsLang=en"
+          },
+          {
+            "text": "Community",
+            "href": "https://www.alchemistaccelerator.com/community?hsLang=en"
+          },
+          {
+            "text": "Mentors",
+            "href": "https://www.alchemistaccelerator.com/mentors?hsLang=en"
+          },
+          {
+            "text": "Our team",
+            "href": "https://www.alchemistaccelerator.com/team?hsLang=en"
+          },
+          {
+            "text": "Blog",
+            "href": "https://www.alchemistaccelerator.com/blog?hsLang=en"
+          }
+        ],
+        "axeViolations": 4,
+        "metadata": "research/benchmark-analysis/alchemist-accelerator.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "berkeley-skydeck",
+      "name": "Berkeley SkyDeck",
+      "url": "https://skydeck.berkeley.edu/",
+      "category": "university-incubator",
+      "focus": [
+        "university accelerator",
+        "program funnel",
+        "mentor and advisor trust"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 5,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 4,
+        "accessibility": 3,
+        "visualRestraint": 5,
+        "originality": 4
+      },
+      "average": 4.5,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 52,
+        "desktopSections": 11,
+        "mobileScreenshots": 14,
+        "ctaLinks": [
+          {
+            "text": "APPLY",
+            "href": "https://skydeck.berkeley.edu/apply/"
+          },
+          {
+            "text": "ACE Program",
+            "href": "https://skydeck.berkeley.edu/ace"
+          },
+          {
+            "text": "PROGRAMS",
+            "href": "https://skydeck.berkeley.edu/program/"
+          },
+          {
+            "text": "Berkeley SkyDeck",
+            "href": "https://skydeck.berkeley.edu/program"
+          },
+          {
+            "text": "ACE Program",
+            "href": "https://skydeck.berkeley.edu/ace"
+          },
+          {
+            "text": "PROGRAMS",
+            "href": "https://skydeck.berkeley.edu/program/"
+          },
+          {
+            "text": "Berkeley SkyDeck",
+            "href": "https://skydeck.berkeley.edu/program"
+          },
+          {
+            "text": "LEARN MORE",
+            "href": "https://skydeck.berkeley.edu/apply/"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "APPLY",
+            "href": "https://skydeck.berkeley.edu/apply/"
+          },
+          {
+            "text": "NEWSLETTER",
+            "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+          },
+          {
+            "text": "INVESTORS",
+            "href": "https://skydeck.berkeley.edu/invest"
+          },
+          {
+            "text": "COMPANIES",
+            "href": "https://skydeck.berkeley.edu/portfolio/"
+          },
+          {
+            "text": "Portfolio",
+            "href": "https://skydeck.berkeley.edu/portfolio"
+          },
+          {
+            "text": "PARTNERS",
+            "href": "https://skydeck.berkeley.edu/partners/"
+          },
+          {
+            "text": "ABOUT",
+            "href": "https://skydeck.berkeley.edu/our_team/"
+          },
+          {
+            "text": "Media",
+            "href": "https://skydeck.berkeley.edu/media"
+          },
+          {
+            "text": "SkyDeck News",
+            "href": "https://skydeck.berkeley.edu/media/"
+          },
+          {
+            "text": "Media Kit",
+            "href": "https://skydeck.berkeley.edu/media-kit/"
+          },
+          {
+            "text": "Students",
+            "href": "http://skydeck.berkeley.edu/ace"
+          },
+          {
+            "text": "Intern Scholarship",
+            "href": "https://skydeck.berkeley.edu/intern-scholarship"
+          }
+        ],
+        "axeViolations": 7,
+        "metadata": "research/benchmark-analysis/berkeley-skydeck.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "hax",
+      "name": "HAX",
+      "url": "https://hax.co/",
+      "category": "venture-studio",
+      "focus": [
+        "hard-tech venture studio",
+        "prototype storytelling",
+        "founder resources"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 5,
+        "ecosystemStorytelling": 4,
+        "scalability": 4,
+        "mobileQuality": 4,
+        "accessibility": 3,
+        "visualRestraint": 5,
+        "originality": 4
+      },
+      "average": 4.4,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 28,
+        "desktopSections": 6,
+        "mobileScreenshots": 8,
+        "ctaLinks": [
+          {
+            "text": "Register for SOSV Deep Tech Live – Dr. Rick Gottscho on Plasma & Semiconductors",
+            "href": "https://hax.co/sosv-deep-tech-live-the-atomic-architect-rick-gottscho-on-plasmas-role-in-semiconductor-fabrication-physical-ai-infrastructure/"
+          },
+          {
+            "text": "Program",
+            "href": "https://hax.co/program/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://sosv.com/apply/hax/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://sosv.com/apply/hax/"
+          },
+          {
+            "text": "35,000 sq. ft Newark HQ headquarters",
+            "href": "https://sosv.com/sosv-hax-program-officially-opens-doors-to-its-new-hq-in-newark/"
+          },
+          {
+            "text": "founder community",
+            "href": "https://hax.co/program/"
+          },
+          {
+            "text": "About the Program",
+            "href": "https://hax.co/program/"
+          },
+          {
+            "text": "Contact",
+            "href": "https://hax.co/contact/"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "Skip to content",
+            "href": "https://hax.co/#primary"
+          },
+          {
+            "text": "Program",
+            "href": "https://hax.co/program/"
+          },
+          {
+            "text": "HAX Plasma Forge",
+            "href": "https://hax.co/hax-plasma-forge/"
+          },
+          {
+            "text": "Case Studies",
+            "href": "https://hax.co/case-studies/"
+          },
+          {
+            "text": "Companies",
+            "href": "https://hax.co/startups/"
+          },
+          {
+            "text": "Team",
+            "href": "https://hax.co/our-team/"
+          },
+          {
+            "text": "News",
+            "href": "https://hax.co/news/"
+          },
+          {
+            "text": "Invest",
+            "href": "https://sosv.com/invest/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://sosv.com/apply/hax/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://sosv.com/apply/hax/"
+          },
+          {
+            "text": "SOSV",
+            "href": "https://sosv.com/"
+          },
+          {
+            "text": "All news",
+            "href": "https://hax.co/news/"
+          }
+        ],
+        "axeViolations": 7,
+        "metadata": "research/benchmark-analysis/hax.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "masschallenge",
+      "name": "MassChallenge",
+      "url": "https://masschallenge.org/",
+      "category": "global-accelerator",
+      "focus": [
+        "nonprofit accelerator",
+        "ecosystem programs",
+        "startup showcase"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 5,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 4,
+        "accessibility": 4,
+        "visualRestraint": 5,
+        "originality": 2
+      },
+      "average": 4.4,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 34,
+        "desktopSections": 7,
+        "mobileScreenshots": 8,
+        "ctaLinks": [
+          {
+            "text": "Traction",
+            "href": "https://masschallenge.org/traction-program/"
+          },
+          {
+            "text": "Challenge",
+            "href": "https://masschallenge.org/challenge-program/"
+          },
+          {
+            "text": "Traction",
+            "href": "https://masschallenge.org/traction-program/"
+          },
+          {
+            "text": "Challenge",
+            "href": "https://masschallenge.org/challenge-program/"
+          },
+          {
+            "text": "Apply",
+            "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+          },
+          {
+            "text": "Apply",
+            "href": "https://accelerate.masschallenge.org/accounts/login/?next=/accounts/register?utm_source=mainnav&utm_medium=button&utm_campaign=mainnav&utm_id=mainnav&utm_term=mainnav&_gl=1*100wh1d*_ga*MTM2NDEwNjc0NS4xNzU3NjQzMzg4*_ga_THNYBZVCTM*czE3NTc2NDMzODckbzEkZzEkdDE3NTc2NDM5MjUkajU2JGwwJGgw"
+          },
+          {
+            "text": "Traction",
+            "href": "https://masschallenge.org/traction-program/"
+          },
+          {
+            "text": "Challenge",
+            "href": "https://masschallenge.org/challenge-program/"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "MassChallenge",
+            "href": "https://masschallenge.org/"
+          },
+          {
+            "text": "OUR NETWORK",
+            "href": "https://masschallenge.org/our-network/"
+          },
+          {
+            "text": "Founders",
+            "href": "https://masschallenge.org/founders/"
+          },
+          {
+            "text": "Experts",
+            "href": "https://masschallenge.org/experts/"
+          },
+          {
+            "text": "Collaborators",
+            "href": "https://masschallenge.org/collaborators/"
+          },
+          {
+            "text": "OUR NETWORK",
+            "href": "https://masschallenge.org/our-network/"
+          },
+          {
+            "text": "Founders",
+            "href": "https://masschallenge.org/founders/"
+          },
+          {
+            "text": "Experts",
+            "href": "https://masschallenge.org/experts/"
+          },
+          {
+            "text": "Collaborators",
+            "href": "https://masschallenge.org/collaborators/"
+          },
+          {
+            "text": "OUR CHALLENGE AREAS",
+            "href": "https://masschallenge.org/our-challenge-areas/"
+          },
+          {
+            "text": "Healthcare and Life Sciences",
+            "href": "https://masschallenge.org/healthcare-and-life-sciences/"
+          },
+          {
+            "text": "Security and Resiliency",
+            "href": "https://masschallenge.org/security-and-resiliency/"
+          }
+        ],
+        "axeViolations": 5,
+        "metadata": "research/benchmark-analysis/masschallenge.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "rtih-current",
+      "name": "Ratan Tata Incubation Hub / RTIH current site",
+      "url": "https://rtih.co.in/",
+      "category": "current-rth",
+      "focus": [],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 4,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 5,
+        "accessibility": 4,
+        "visualRestraint": 4,
+        "originality": 3
+      },
+      "average": 4.4,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 107,
+        "desktopSections": 22,
+        "mobileScreenshots": 34,
+        "ctaLinks": [
+          {
+            "text": "Join as a Start-up",
+            "href": "https://forms.gle/xbZGotkiuzjaHaFs9"
+          },
+          {
+            "text": "InnoTribe - Inviting Colleges to set up Innovation and Entrepreneurship Cell in their campuses - Apply Now",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSfnX3mdVSXVcElJO3YgKEklW5NLQy3vKcxlkefDGEp_Hwoc7w/viewform"
+          },
+          {
+            "text": "Join Now",
+            "href": "https://docs.google.com/forms/d/e/1FAIpQLSfIHCyne5Gbfo7Wbhx-zsq6Rz4iCqDlCM72pfHx47oypYbhOQ/viewform?usp=sharing&ouid=110257595124980297744"
+          },
+          {
+            "text": "AP Start-Up Portal",
+            "href": "https://apis.ap.gov.in/#/home/login/"
+          },
+          {
+            "text": "Contact Support",
+            "href": "https://rtih.co.in/contact"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "Home",
+            "href": "https://rtih.co.in/"
+          },
+          {
+            "text": "About RTIH",
+            "href": "https://rtih.co.in/about"
+          },
+          {
+            "text": "Programs",
+            "href": "https://rtih.co.in/programs"
+          },
+          {
+            "text": "Events",
+            "href": "https://rtih.co.in/events"
+          },
+          {
+            "text": "Hackthons and Challenges",
+            "href": "https://rtih.co.in/hackthons-challenges"
+          },
+          {
+            "text": "Sunrise Connects",
+            "href": "https://rtih.co.in/sunrise-connects"
+          },
+          {
+            "text": "Amaravati Hub",
+            "href": "https://rtih.co.in/location/amaravati"
+          },
+          {
+            "text": "Ananthapuramu",
+            "href": "https://rtih.co.in/location/anantapur"
+          },
+          {
+            "text": "Rajamahendravaram",
+            "href": "https://rtih.co.in/location/rajahmundry"
+          },
+          {
+            "text": "Tirupati",
+            "href": "https://rtih.co.in/location/tirupati"
+          },
+          {
+            "text": "Vijayawada",
+            "href": "https://rtih.co.in/location/vijayawada"
+          },
+          {
+            "text": "Visakhapatnam",
+            "href": "https://rtih.co.in/location/visakhapatnam"
+          }
+        ],
+        "axeViolations": 5,
+        "metadata": "research/benchmark-analysis/rtih-current.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "y-combinator",
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/",
+      "category": "global-accelerator",
+      "focus": [
+        "founder conversion",
+        "startup showcase",
+        "application funnel",
+        "editorial density"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 4,
+        "usability": 5,
+        "conversion": 3,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 5,
+        "accessibility": 4,
+        "visualRestraint": 5,
+        "originality": 4
+      },
+      "average": 4.4,
+      "strengths": [
+        "clear hierarchy",
+        "strong ecosystem language",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 104,
+        "desktopSections": 23,
+        "mobileScreenshots": 21,
+        "ctaLinks": [
+          {
+            "text": "Apply",
+            "href": "https://www.ycombinator.com/apply"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.ycombinator.com/apply"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.ycombinator.com/apply"
+          },
+          {
+            "text": "YC Program",
+            "href": "https://www.ycombinator.com/about"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "About",
+            "href": "https://www.ycombinator.com/about"
+          },
+          {
+            "text": "What Happens at YC?",
+            "href": "https://www.ycombinator.com/about"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.ycombinator.com/apply"
+          },
+          {
+            "text": "YC Interview Guide",
+            "href": "https://www.ycombinator.com/interviews"
+          },
+          {
+            "text": "FAQ",
+            "href": "https://www.ycombinator.com/faq"
+          },
+          {
+            "text": "People",
+            "href": "https://www.ycombinator.com/people"
+          },
+          {
+            "text": "YC Blog",
+            "href": "https://www.ycombinator.com/blog"
+          },
+          {
+            "text": "Companies",
+            "href": "https://www.ycombinator.com/companies"
+          },
+          {
+            "text": "Startup Directory",
+            "href": "https://www.ycombinator.com/companies"
+          },
+          {
+            "text": "Founder Directory",
+            "href": "https://www.ycombinator.com/founders"
+          },
+          {
+            "text": "Launch YC",
+            "href": "https://www.ycombinator.com/launches"
+          },
+          {
+            "text": "Library",
+            "href": "https://www.ycombinator.com/library"
+          }
+        ],
+        "axeViolations": 5,
+        "metadata": "research/benchmark-analysis/y-combinator.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "antler",
+      "name": "Antler",
+      "url": "https://www.antler.co/",
+      "category": "global-accelerator",
+      "focus": [
+        "founder pathing",
+        "geographic ecosystem",
+        "application CTA"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 4,
+        "ecosystemStorytelling": 4,
+        "scalability": 5,
+        "mobileQuality": 4,
+        "accessibility": 3,
+        "visualRestraint": 5,
+        "originality": 3
+      },
+      "average": 4.3,
+      "strengths": [
+        "clear hierarchy",
+        "visible conversion paths",
+        "strong ecosystem language",
+        "restrained visual system"
+      ],
+      "risks": [
+        "watch for credibility inflation or startup cliché language"
+      ],
+      "evidence": {
+        "screenshots": 99,
+        "desktopSections": 22,
+        "mobileScreenshots": 27,
+        "ctaLinks": [
+          {
+            "text": "View cohort start dates",
+            "href": "https://www.antler.co/cohort-start-dates"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.antler.co/apply"
+          },
+          {
+            "text": "View cohort start dates",
+            "href": "https://www.antler.co/cohort-start-dates"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.antler.co/apply"
+          },
+          {
+            "text": "Apply",
+            "href": "https://www.antler.co/apply"
+          },
+          {
+            "text": "Cohort start dates",
+            "href": "https://www.antler.co/cohort-start-dates"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "Skip to main content",
+            "href": "https://www.antler.co/#main"
+          },
+          {
+            "text": "AustraliaOpen in a new tab",
+            "href": "https://www.antler.co/location/australia"
+          },
+          {
+            "text": "IndiaOpen in a new tab",
+            "href": "https://www.antler.co/location/india"
+          },
+          {
+            "text": "IndonesiaOpen in a new tab",
+            "href": "https://www.antler.co/location/indonesia"
+          },
+          {
+            "text": "JapanOpen in a new tab",
+            "href": "https://www.antler.co/location/japan"
+          },
+          {
+            "text": "KoreaOpen in a new tab",
+            "href": "https://www.antler.co/location/korea"
+          },
+          {
+            "text": "MalaysiaOpen in a new tab",
+            "href": "https://www.antler.co/location/malaysia"
+          },
+          {
+            "text": "SingaporeOpen in a new tab",
+            "href": "https://www.antler.co/location/singapore"
+          },
+          {
+            "text": "VietnamOpen in a new tab",
+            "href": "https://www.antler.co/location/vietnam"
+          },
+          {
+            "text": "DenmarkOpen in a new tab",
+            "href": "https://www.antler.co/location/denmark"
+          },
+          {
+            "text": "FinlandOpen in a new tab",
+            "href": "https://www.antler.co/location/finland"
+          },
+          {
+            "text": "NorwayOpen in a new tab",
+            "href": "https://www.antler.co/location/norway"
+          }
+        ],
+        "axeViolations": 7,
+        "metadata": "research/benchmark-analysis/antler.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "500-global",
+      "name": "500 Global",
+      "url": "https://500.co/",
+      "category": "global-accelerator",
+      "focus": [
+        "portfolio density",
+        "investment credibility",
+        "global ecosystem"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 2,
+        "ecosystemStorytelling": 2,
+        "scalability": 5,
+        "mobileQuality": 4,
+        "accessibility": 5,
+        "visualRestraint": 5,
+        "originality": 3
+      },
+      "average": 4.1,
+      "strengths": [
+        "clear hierarchy",
+        "restrained visual system",
+        "low automated accessibility issue count"
+      ],
+      "risks": [
+        "weak or diffuse CTA routing"
+      ],
+      "evidence": {
+        "screenshots": 85,
+        "desktopSections": 15,
+        "mobileScreenshots": 30,
+        "ctaLinks": [
+          {
+            "text": "Contact",
+            "href": "https://500.co/get-in-touch"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "PORTFOLIO",
+            "href": "https://500.co/portfolio"
+          },
+          {
+            "text": "See our full portfolio→",
+            "href": "https://500.co/portfolio"
+          },
+          {
+            "text": "Contact",
+            "href": "https://500.co/get-in-touch"
+          },
+          {
+            "text": "Careers",
+            "href": "https://500.co/careers"
+          },
+          {
+            "text": "Content Hub",
+            "href": "https://500.co/content"
+          },
+          {
+            "text": "Portfolio",
+            "href": "https://500.co/portfolio"
+          },
+          {
+            "text": "Newsletter",
+            "href": "https://500.co/newsletter-sign-up"
+          },
+          {
+            "text": "Partnerships",
+            "href": "https://500.co/partnerships"
+          },
+          {
+            "text": "LP Portal",
+            "href": "https://adfs4.sts.altareturn.com/adfs/ls/?wa=wsignin1.0&wtrealm=urn%3aportal%3a500&wctx=https%3a%2f%2f500.altareturn.com%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252F&wreply=https%3a%2f%2f500.altareturn.com%2f_trust%2fdefault.aspx"
+          },
+          {
+            "text": "Strategy",
+            "href": "https://500.co/funds"
+          },
+          {
+            "text": "Directory",
+            "href": "https://500.co/directory"
+          },
+          {
+            "text": "Legal",
+            "href": "https://500.co/legal#terms-of-use"
+          }
+        ],
+        "axeViolations": 1,
+        "metadata": "research/benchmark-analysis/500-global.metadata.json"
+      },
+      "fitForRtih": "Strong candidate for deeper RTIH comparison."
+    },
+    {
+      "site": "techstars",
+      "name": "Techstars",
+      "url": "https://www.techstars.com/",
+      "category": "global-accelerator",
+      "focus": [
+        "program architecture",
+        "mentor trust",
+        "global network"
+      ],
+      "scores": {
+        "clarity": 5,
+        "trust": 5,
+        "usability": 5,
+        "conversion": 3,
+        "ecosystemStorytelling": 4,
+        "scalability": 3,
+        "mobileQuality": 3,
+        "accessibility": 3,
+        "visualRestraint": 5,
+        "originality": 2
+      },
+      "average": 3.8,
+      "strengths": [
+        "clear hierarchy",
+        "strong ecosystem language",
+        "restrained visual system"
+      ],
+      "risks": [],
+      "evidence": {
+        "screenshots": 20,
+        "desktopSections": 1,
+        "mobileScreenshots": 3,
+        "ctaLinks": [
+          {
+            "text": "Apply Now",
+            "href": "https://apply.techstars.com/?source=nav"
+          },
+          {
+            "text": "Find a Program",
+            "href": "https://www.techstars.com/accelerators"
+          },
+          {
+            "text": "contact",
+            "href": "https://www.techstars.com/contact"
+          },
+          {
+            "text": "information for",
+            "href": "https://www.techstars.com/contact"
+          }
+        ],
+        "navLinks": [
+          {
+            "text": "startups",
+            "href": "https://www.techstars.com/startups"
+          },
+          {
+            "text": "investors",
+            "href": "https://www.techstars.com/investors"
+          },
+          {
+            "text": "partners",
+            "href": "https://www.techstars.com/partner"
+          },
+          {
+            "text": "locations",
+            "href": "https://www.techstars.com/locations"
+          },
+          {
+            "text": "verticals",
+            "href": "https://www.techstars.com/vertical-networks"
+          },
+          {
+            "text": "about",
+            "href": "https://www.techstars.com/about"
+          },
+          {
+            "text": "Apply Now",
+            "href": "https://apply.techstars.com/?source=nav"
+          },
+          {
+            "text": "Find a Program",
+            "href": "https://www.techstars.com/accelerators"
+          },
+          {
+            "text": "Investment Terms",
+            "href": "https://www.techstars.com/newsroom/investment-terms"
+          },
+          {
+            "text": "Mentors",
+            "href": "https://www.techstars.com/mentors"
+          },
+          {
+            "text": "Portfolio Market Cap",
+            "href": "https://www.techstars.com/portfolio"
+          },
+          {
+            "text": "$1B+ Companies",
+            "href": "https://www.techstars.com/portfolio"
+          }
+        ],
+        "axeViolations": 10,
+        "metadata": "research/benchmark-analysis/techstars.metadata.json"
+      },
+      "fitForRtih": "Useful with selective adaptation and anti-slop review."
+    }
+  ],
+  "patterns": [
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "MaRS Discovery District",
+      "category": "ecosystem-storytelling",
+      "score": 5,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "MaRS Discovery District",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "Creative Destruction Lab",
+      "category": "cta-systems",
+      "score": 5,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Creative Destruction Lab",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "Creative Destruction Lab",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "Alchemist Accelerator",
+      "category": "cta-systems",
+      "score": 4,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Alchemist Accelerator",
+      "category": "ecosystem-storytelling",
+      "score": 5,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "Alchemist Accelerator",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "Berkeley SkyDeck",
+      "category": "cta-systems",
+      "score": 5,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Berkeley SkyDeck",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "Berkeley SkyDeck",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "HAX",
+      "category": "cta-systems",
+      "score": 5,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "HAX",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "HAX",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "MassChallenge",
+      "category": "cta-systems",
+      "score": 5,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "MassChallenge",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "MassChallenge",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "Ratan Tata Incubation Hub / RTIH current site",
+      "category": "cta-systems",
+      "score": 4,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Ratan Tata Incubation Hub / RTIH current site",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "Ratan Tata Incubation Hub / RTIH current site",
+      "category": "typography",
+      "score": 4,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Y Combinator",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    },
+    {
+      "pattern": "Restrained editorial hierarchy",
+      "source": "Y Combinator",
+      "category": "typography",
+      "score": 5,
+      "applicability": "Strong fit for RTIH institutional content, long program explanations, and founder stories.",
+      "risk": "If too austere, the site can feel inactive unless paired with real event and founder imagery."
+    },
+    {
+      "pattern": "Visible application or contact path",
+      "source": "Antler",
+      "category": "cta-systems",
+      "score": 4,
+      "applicability": "Useful for RTIH only when routed by user type: founder, student, researcher, partner, mentor, investor, event attendee.",
+      "risk": "A generic Apply button can collapse different journeys into one confusing path."
+    },
+    {
+      "pattern": "Ecosystem-first narrative density",
+      "source": "Antler",
+      "category": "ecosystem-storytelling",
+      "score": 4,
+      "applicability": "High relevance to RTIH because hub-and-spoke, universities, government, startups, mentors, and regional sectors need a shared map.",
+      "risk": "Can become jargon if not grounded in real programs, locations, events, and people."
+    }
+  ],
+  "antiPatterns": [
+    {
+      "antiPattern": "watch for credibility inflation or startup cliché language",
+      "source": "Antler",
+      "category": "global-accelerator",
+      "rejectionStandard": "Reject for RTIH unless it measurably improves clarity, trust, usability, conversion, accessibility, and authenticity."
+    },
+    {
+      "antiPattern": "weak or diffuse CTA routing",
+      "source": "500 Global",
+      "category": "global-accelerator",
+      "rejectionStandard": "Reject for RTIH unless it measurably improves clarity, trust, usability, conversion, accessibility, and authenticity."
+    }
+  ]
+}

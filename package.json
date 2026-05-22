@@ -1,0 +1,22 @@
+{
+  "name": "rtih-design-research",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Research operations, benchmark capture, and design intelligence for the Ratan Tata Incubation Hub redesign.",
+  "scripts": {
+    "research:capture": "node scripts/capture-benchmarks.mjs",
+    "research:crawl-current": "node scripts/crawl-current-site.mjs",
+    "research:intelligence": "node scripts/design-intelligence-cycle.mjs",
+    "research:intelligence-capture": "node scripts/design-intelligence-cycle.mjs --capture",
+    "research:hourly": "node scripts/research-runner.mjs hourly",
+    "research:report": "node scripts/research-runner.mjs six-hour",
+    "research:daily": "node scripts/research-runner.mjs daily",
+    "research:audit": "node scripts/research-runner.mjs audit",
+    "research:status": "node scripts/research-runner.mjs status"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "playwright": "^1.53.0"
+  }
+}

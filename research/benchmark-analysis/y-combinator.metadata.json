@@ -1,0 +1,2315 @@
+{
+  "site": {
+    "name": "Y Combinator",
+    "slug": "y-combinator",
+    "url": "https://www.ycombinator.com/",
+    "category": "global-accelerator",
+    "priority": 1,
+    "focus": [
+      "founder conversion",
+      "startup showcase",
+      "application funnel",
+      "editorial density"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:25:49.874Z",
+  "viewports": {
+    "desktop": {
+      "title": "Y Combinator",
+      "finalUrl": "https://www.ycombinator.com/",
+      "language": "en",
+      "fontFamilies": [
+        "Outfit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "\"Source Serif 4\", serif",
+        "Outfit, sans-serif",
+        "Outfit"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(22, 20, 15)",
+        "rgb(255, 255, 255)",
+        "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+        "rgb(245, 245, 238)"
+      ],
+      "backgroundColors": [
+        "rgb(245, 245, 238)",
+        "rgb(0, 0, 0)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "In Founders’ Words",
+          "fontSize": "11.2px",
+          "fontWeight": "400",
+          "lineHeight": "16.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Be in the room with …",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "All partners were YC founders first",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "Knowledge & News",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "lineHeight": "28.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "Footer",
+          "fontSize": "16px",
+          "fontWeight": "200",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Make something people want.",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Programs",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Resources",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Company",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "What Happens at YC?",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "YC Interview Guide",
+          "href": "https://www.ycombinator.com/interviews"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://www.ycombinator.com/faq"
+        },
+        {
+          "text": "People",
+          "href": "https://www.ycombinator.com/people"
+        },
+        {
+          "text": "YC Blog",
+          "href": "https://www.ycombinator.com/blog"
+        },
+        {
+          "text": "Companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Founder Directory",
+          "href": "https://www.ycombinator.com/founders"
+        },
+        {
+          "text": "Launch YC",
+          "href": "https://www.ycombinator.com/launches"
+        },
+        {
+          "text": "Library",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.ycombinator.com/partners"
+        },
+        {
+          "text": "Resources",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/?utm_source=yc&utm_campaign=ycdc_header"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://www.ycombinator.com/subscribe"
+        },
+        {
+          "text": "Requests for Startups",
+          "href": "https://www.ycombinator.com/rfs"
+        },
+        {
+          "text": "For Investors",
+          "href": "https://www.ycombinator.com/investors"
+        },
+        {
+          "text": "Verify Founders",
+          "href": "https://www.ycombinator.com/verify"
+        },
+        {
+          "text": "Hacker News",
+          "href": "https://news.ycombinator.com/"
+        },
+        {
+          "text": "Bookface",
+          "href": "https://bookface.ycombinator.com/"
+        },
+        {
+          "text": "Safe",
+          "href": "https://www.ycombinator.com/documents"
+        },
+        {
+          "text": "Find a Co-Founder",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Jobs",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Log in",
+          "href": "https://account.ycombinator.com/?continue=https://www.ycombinator.com/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "All companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Garry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir",
+          "href": "https://www.ycombinator.com/people/garry-tan"
+        },
+        {
+          "text": "Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current ",
+          "href": "https://www.ycombinator.com/people/harj-taggar"
+        },
+        {
+          "text": "Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.",
+          "href": "https://www.ycombinator.com/people/jared-friedman"
+        },
+        {
+          "text": "Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators ",
+          "href": "https://www.ycombinator.com/people/aaron-epstein"
+        },
+        {
+          "text": "Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to",
+          "href": "https://www.ycombinator.com/people/diana-hu"
+        },
+        {
+          "text": "Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.",
+          "href": "https://www.ycombinator.com/people/gustaf-alstromer"
+        },
+        {
+          "text": "Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science",
+          "href": "https://www.ycombinator.com/people/nicolas-dessaigne"
+        },
+        {
+          "text": "Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 20",
+          "href": "https://www.ycombinator.com/people/tom-blomfield"
+        },
+        {
+          "text": "Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "href": "https://www.ycombinator.com/people/brad-flora"
+        },
+        {
+          "text": "Pete KoomenOptimizely, W10Co-founder of Optimizely, grew to $100M+ ARR before acquisition. Master’s in CS from UIUC.",
+          "href": "https://www.ycombinator.com/people/pete-koomen"
+        },
+        {
+          "text": "Ankit GuptaReverie Labs, W18Co-founder and CTO of Reverie Labs (acquired by Ginkgo Bioworks). Deep learning researcher i",
+          "href": "https://www.ycombinator.com/people/ankit-gupta"
+        },
+        {
+          "text": "Tyler BosmenyClever, S12Co-founder and CEO of Clever (acquired for $500M). Used by 60% of US students.",
+          "href": "https://www.ycombinator.com/people/tyler-bosmeny"
+        },
+        {
+          "text": "David LiebBump, S09Co-founder and CEO of Bump (150M+ users, acquired by Google). Co-founder of Google Photos (1B+ users)",
+          "href": "https://www.ycombinator.com/people/david-lieb"
+        },
+        {
+          "text": "Andrew MiklasPagerDuty, S10Co-founder & CTO of PagerDuty (NYSE:PD), the first incident management platform and used by h",
+          "href": "https://www.ycombinator.com/people/andrew-miklas"
+        },
+        {
+          "text": "Harshita AroraAtoB, S20Co-founder of AtoB, a fintech startup worth $800M. Moved from India to SF on an O-1 visa at 16 y/",
+          "href": "https://www.ycombinator.com/people/harshita-arora"
+        },
+        {
+          "text": "Jon XuFutureAdvisor, S10Co-founder and CTO of FutureAdvisor (acquired by BlackRock). Built robo-advisor platform for fin",
+          "href": "https://www.ycombinator.com/people/jon-xu"
+        },
+        {
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "LIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana ",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "Y Combinator",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "YC Program",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/"
+        },
+        {
+          "text": "Work at a Startup",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Co-Founder Matching",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "section",
+          "id": "",
+          "className": "relative -ml-[calc(50vw-50%)] flex h-[90vh] w-screen items-center justify-center overflow-hidden",
+          "label": "YC turns builders into formidable founders[1][1] “A formidable person is one who seems like they’ll get what they want, regardless of whatever obstacles are in the way.”— Paul Grah",
+          "text": "YC turns builders into formidable founders[1][1] “A formidable person is one who seems like they’ll get what they want, regardless of whatever obstacles are in the way.”— Paul Graham",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 1440,
+            "height": 900
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/y-combinator/desktop/startup-showcase/01-yc-turns-builders-into-formidable-founders-1-1-a-formidable-person-is-one-who-seems-like-t.png"
+        },
+        {
+          "index": 8,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute left-1/2 top-1/2 flex w-full -translate-x-1/2 -translate-y-1/2 flex-col items-center transition-opacity duration-300 ease-in-out opacity-0",
+          "label": "During YCSam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.",
+          "text": "During YCSam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.",
+          "rect": {
+            "x": 72,
+            "y": 252,
+            "width": 461,
+            "height": 497
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/02-during-ycsam-was-part-of-yc-s-inaugural-batch-in-s05-and-founded-openai-as-yc-research-in-.png"
+        },
+        {
+          "index": 21,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute left-1/2 top-1/2 w-full -translate-x-1/2 -translate-y-1/2 ",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 72,
+            "y": 340,
+            "width": 461,
+            "height": 320
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/03-div.png"
+        },
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border hidden w-full max-w-[100vw] justify-center overflow-hidden px-20 py-[60px] pb-[120px] lg:flex lg:max-xl:px-[60px]",
+          "label": "During YCSam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.During YCBrian, Joe, and Nate did YC in W09.During YCThe Collison brothers did YC twi",
+          "text": "During YCSam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.During YCBrian, Joe, and Nate did YC in W09.During YCThe Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.During YCFred and Brian met on Reddit and did YC in S12.During YCAndy, Stanley, Tony, and Evan did YC in S13.During YCAlexandr and Lucy did YC S16 and pivoted during the batch.During YCArash and Drew started Dropbox at MIT and did YC in S07.During YCAlexis and Steve were in the inaugural YC batch in S05.During YCApoorva, Max, and Brandon did YC in S12.During YCSid and Dmytro did YC in S14.During YCTarek and Luana did YC in W19.During YCHaya and Amjad interviewing for the YC W18 batch.During YCMichael, Justin, Kyle, and Emmett in YC W07.OpenAIAirbnbStripeCoinbaseDoorDashScale AIDropboxRedditInstacartGitLabKalshiReplitTwitch$1.3 Trillionin combined valuationAll companiesNowSam built OpenAI into a $500B company.NowAirbnb went public in 2020 at an over $100B valuation.NowStripe is now the internet’s $107B payments backbone.NowCoinbase went public in 2021 at a $86B valuation.NowDoorDash went public in 2020 at a valuation of $39B.NowIn 2025, Meta acquire",
+          "rect": {
+            "x": 0,
+            "y": 964,
+            "width": 1440,
+            "height": 1892
+          },
+          "category": "institutional-trust",
+          "screenshot": "research/screenshots/y-combinator/desktop/institutional-trust/04-during-ycsam-was-part-of-yc-s-inaugural-batch-in-s05-and-founded-openai-as-yc-research-in-.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "",
+          "className": "py-20 max-md:pb-[40px] max-md:pt-0",
+          "label": "In Founders’ Words",
+          "text": "In 2005, Y Combinator developed a new model of startup funding. Four times a year we invest $500k in a select group of startups. They move to San Francisco for three months, where we work intensively with them to get the company into the best possible shape, before they present to a large audience of investors on Demo Day.But YC doesn’t end on Demo Day. We and the YC alumni network continue to help founders for the life of their company, and beyond.In Founders’ WordsYC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 170,
+            "y": 2856,
+            "width": 1100,
+            "height": 1355
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/desktop/hero-sections/05-in-founders-words.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "relative",
+          "label": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of",
+          "text": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 465,
+            "y": 3738,
+            "width": 510,
+            "height": 393
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/y-combinator/desktop/startup-showcase/06-yc-compresses-months-of-growth-into-weeks-the-sense-of-urgency-is-so-infectious-among-foun.png"
+        },
+        {
+          "index": 39,
+          "tag": "section",
+          "id": "in-the-room-photos",
+          "className": "m-0 w-full max-w-full overflow-visible py-[120px] max-md:py-[40px]",
+          "label": "Be in the room with …",
+          "text": "Be in the room with …Brian CheskyAirbnbSam AltmanOpenAIGreg BrockmanOpenAIMichael TruellCursorPaul GrahamY CombinatorGuillermo RauchVercelDylan FieldFigmaEmmett ShearTwitchTony XuDoorDash",
+          "rect": {
+            "x": 0,
+            "y": 4211,
+            "width": 1440,
+            "height": 1232
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/grid-systems/07-be-in-the-room-with.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 80,
+            "y": 4599,
+            "width": 405,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/08-div.png"
+        },
+        {
+          "index": 47,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 80,
+            "y": 4901,
+            "width": 405,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/09-div.png"
+        },
+        {
+          "index": 53,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 80,
+            "y": 5203,
+            "width": 405,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/10-div.png"
+        },
+        {
+          "index": 58,
+          "tag": "section",
+          "id": "",
+          "className": "m-0 box-border w-full max-w-[100vw] overflow-hidden py-[120px] max-md:py-[40px]",
+          "label": "All partners were YC founders first",
+          "text": "All partners were YC founders firstGarry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir, designed company logo.Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current Media). Graduated from Oxford.Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators worldwide.Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to 100M+ users and grew up in Chile.Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science.Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 2019.Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "rect": {
+            "x": 0,
+            "y": 5443,
+            "width": 1440,
+            "height": 3355
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/desktop/hero-sections/11-all-partners-were-yc-founders-first.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border flex w-full max-w-[100vw] flex-col overflow-x-hidden px-5 py-[120px] max-md:py-[40px] max-sm:px-0 [&_.section-header-centered]:text-[#16140f]",
+          "label": "Knowledge & News",
+          "text": "Knowledge & NewsBillion-Dollar Unpopular Startup IdeasAndrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsStartup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›Deepgram Raises $130M Series C›Paul Graham EssaysDefault Alive or Default Dead›Do Things that Don’t Scale›Be Relentlessly Resourceful›How to Get Startup Ideas›Startup = Growth›Andrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsLIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana Hu, Harj Taggar, and Jared Friedman talk about the newest tech and how it could change the world. In this episode, they discuss contrarian bets — the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Ra",
+          "rect": {
+            "x": 0,
+            "y": 8798,
+            "width": 1440,
+            "height": 963
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/y-combinator/desktop/navigation/12-knowledge-news.png"
+        },
+        {
+          "index": 68,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-3",
+          "label": "Andrej Karpathy: Software Is Changing (Again)",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "rect": {
+            "x": 100,
+            "y": 9036,
+            "width": 280,
+            "height": 206
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/cta-systems/13-andrej-karpathy-software-is-changing-again.png"
+        },
+        {
+          "index": 69,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 100,
+            "y": 9036,
+            "width": 280,
+            "height": 158
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/14-div.png"
+        },
+        {
+          "index": 74,
+          "tag": "article",
+          "id": "",
+          "className": "m-0 max-md:mb-6",
+          "label": "Billion-Dollar Unpopular Startup Ideas",
+          "text": "LIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana Hu, Harj Taggar, and Jared Friedman talk about the newest tech and how it could change the world. In this episode, they discuss contrarian bets — the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.",
+          "rect": {
+            "x": 428,
+            "y": 9036,
+            "width": 584,
+            "height": 512
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/y-combinator/desktop/navigation/15-billion-dollar-unpopular-startup-ideas.png"
+        },
+        {
+          "index": 75,
+          "tag": "div",
+          "id": "",
+          "className": "article-image relative mb-5 aspect-video w-full overflow-hidden rounded-xl bg-black/[0.02] before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-5xl after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] max-md:mb-0",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 428,
+            "y": 9036,
+            "width": 584,
+            "height": 329
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/16-div.png"
+        },
+        {
+          "index": 76,
+          "tag": "aside",
+          "id": "",
+          "className": "flex flex-col gap-3 max-lg:col-span-full max-lg:grid max-lg:grid-cols-2 max-lg:gap-12 max-md:order-3 max-md:grid-cols-1 max-md:gap-6",
+          "label": "Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "text": "Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›Deepgram Raises $130M Series C›Paul Graham EssaysDefault Alive or Default Dead›Do Things that Don’t Scale›Be Relentlessly Resourceful›How to Get Startup Ideas›Startup = Growth›",
+          "rect": {
+            "x": 1060,
+            "y": 9036,
+            "width": 280,
+            "height": 483
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/desktop/hero-sections/17-startup-newsannouncing-the-yc-ai-stack-emergent-raises-70m-series-b-at-300m-valuation-govd.png"
+        },
+        {
+          "index": 70,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-3",
+          "label": "How To Build The Future: Sam Altman",
+          "text": "How To Build The Future: Sam Altman",
+          "rect": {
+            "x": 100,
+            "y": 9253,
+            "width": 280,
+            "height": 188
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/desktop/hero-sections/18-how-to-build-the-future-sam-altman.png"
+        },
+        {
+          "index": 71,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 100,
+            "y": 9253,
+            "width": 280,
+            "height": 158
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/19-div.png"
+        },
+        {
+          "index": 72,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-0",
+          "label": "YC Partners Answer Your Questions",
+          "text": "YC Partners Answer Your Questions",
+          "rect": {
+            "x": 100,
+            "y": 9453,
+            "width": 280,
+            "height": 188
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/cta-systems/20-yc-partners-answer-your-questions.png"
+        },
+        {
+          "index": 73,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 100,
+            "y": 9453,
+            "width": 280,
+            "height": 158
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/event-systems/21-div.png"
+        },
+        {
+          "index": 77,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border w-full max-w-[100vw] overflow-x-hidden px-5 pb-8 pt-0 max-md:pb-8 max-md:pt-10",
+          "label": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "text": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "rect": {
+            "x": 0,
+            "y": 9761,
+            "width": 1440,
+            "height": 586
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/desktop/cta-systems/22-it-s-never-too-early-to-apply-we-fund-companies-with-no-revenue-product-or-fully-baked-ide.png"
+        },
+        {
+          "index": 78,
+          "tag": "footer",
+          "id": "",
+          "className": "bg-black text-beige-light",
+          "label": "Footer",
+          "text": "FooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator",
+          "rect": {
+            "x": 0,
+            "y": 10346,
+            "width": 1466,
+            "height": 493
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/desktop/hero-sections/23-footer.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Y Combinator",
+      "finalUrl": "https://www.ycombinator.com/",
+      "language": "en",
+      "fontFamilies": [
+        "Outfit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "\"Source Serif 4\", serif",
+        "Outfit, sans-serif",
+        "Outfit"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(22, 20, 15)",
+        "rgb(255, 255, 255)",
+        "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+        "rgb(245, 245, 238)"
+      ],
+      "backgroundColors": [
+        "rgb(245, 245, 238)",
+        "rgb(0, 0, 0)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "In Founders’ Words",
+          "fontSize": "11.2px",
+          "fontWeight": "400",
+          "lineHeight": "16.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Be in the room with …",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "All partners were YC founders first",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "Knowledge & News",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "57.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "14px",
+          "fontWeight": "300",
+          "lineHeight": "18.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "22px",
+          "fontWeight": "400",
+          "lineHeight": "28.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "Footer",
+          "fontSize": "16px",
+          "fontWeight": "200",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Make something people want.",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Programs",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Resources",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Company",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "What Happens at YC?",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "YC Interview Guide",
+          "href": "https://www.ycombinator.com/interviews"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://www.ycombinator.com/faq"
+        },
+        {
+          "text": "People",
+          "href": "https://www.ycombinator.com/people"
+        },
+        {
+          "text": "YC Blog",
+          "href": "https://www.ycombinator.com/blog"
+        },
+        {
+          "text": "Companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Founder Directory",
+          "href": "https://www.ycombinator.com/founders"
+        },
+        {
+          "text": "Launch YC",
+          "href": "https://www.ycombinator.com/launches"
+        },
+        {
+          "text": "Library",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.ycombinator.com/partners"
+        },
+        {
+          "text": "Resources",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/?utm_source=yc&utm_campaign=ycdc_header"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://www.ycombinator.com/subscribe"
+        },
+        {
+          "text": "Requests for Startups",
+          "href": "https://www.ycombinator.com/rfs"
+        },
+        {
+          "text": "For Investors",
+          "href": "https://www.ycombinator.com/investors"
+        },
+        {
+          "text": "Verify Founders",
+          "href": "https://www.ycombinator.com/verify"
+        },
+        {
+          "text": "Hacker News",
+          "href": "https://news.ycombinator.com/"
+        },
+        {
+          "text": "Bookface",
+          "href": "https://bookface.ycombinator.com/"
+        },
+        {
+          "text": "Safe",
+          "href": "https://www.ycombinator.com/documents"
+        },
+        {
+          "text": "Find a Co-Founder",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Jobs",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Log in",
+          "href": "https://account.ycombinator.com/?continue=https://www.ycombinator.com/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "All companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Garry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir",
+          "href": "https://www.ycombinator.com/people/garry-tan"
+        },
+        {
+          "text": "Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current ",
+          "href": "https://www.ycombinator.com/people/harj-taggar"
+        },
+        {
+          "text": "Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.",
+          "href": "https://www.ycombinator.com/people/jared-friedman"
+        },
+        {
+          "text": "Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators ",
+          "href": "https://www.ycombinator.com/people/aaron-epstein"
+        },
+        {
+          "text": "Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to",
+          "href": "https://www.ycombinator.com/people/diana-hu"
+        },
+        {
+          "text": "Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.",
+          "href": "https://www.ycombinator.com/people/gustaf-alstromer"
+        },
+        {
+          "text": "Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science",
+          "href": "https://www.ycombinator.com/people/nicolas-dessaigne"
+        },
+        {
+          "text": "Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 20",
+          "href": "https://www.ycombinator.com/people/tom-blomfield"
+        },
+        {
+          "text": "Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "href": "https://www.ycombinator.com/people/brad-flora"
+        },
+        {
+          "text": "Pete KoomenOptimizely, W10Co-founder of Optimizely, grew to $100M+ ARR before acquisition. Master’s in CS from UIUC.",
+          "href": "https://www.ycombinator.com/people/pete-koomen"
+        },
+        {
+          "text": "Ankit GuptaReverie Labs, W18Co-founder and CTO of Reverie Labs (acquired by Ginkgo Bioworks). Deep learning researcher i",
+          "href": "https://www.ycombinator.com/people/ankit-gupta"
+        },
+        {
+          "text": "Tyler BosmenyClever, S12Co-founder and CEO of Clever (acquired for $500M). Used by 60% of US students.",
+          "href": "https://www.ycombinator.com/people/tyler-bosmeny"
+        },
+        {
+          "text": "David LiebBump, S09Co-founder and CEO of Bump (150M+ users, acquired by Google). Co-founder of Google Photos (1B+ users)",
+          "href": "https://www.ycombinator.com/people/david-lieb"
+        },
+        {
+          "text": "Andrew MiklasPagerDuty, S10Co-founder & CTO of PagerDuty (NYSE:PD), the first incident management platform and used by h",
+          "href": "https://www.ycombinator.com/people/andrew-miklas"
+        },
+        {
+          "text": "Harshita AroraAtoB, S20Co-founder of AtoB, a fintech startup worth $800M. Moved from India to SF on an O-1 visa at 16 y/",
+          "href": "https://www.ycombinator.com/people/harshita-arora"
+        },
+        {
+          "text": "Jon XuFutureAdvisor, S10Co-founder and CTO of FutureAdvisor (acquired by BlackRock). Built robo-advisor platform for fin",
+          "href": "https://www.ycombinator.com/people/jon-xu"
+        },
+        {
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "LIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana ",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "Y Combinator",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "YC Program",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/"
+        },
+        {
+          "text": "Work at a Startup",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Co-Founder Matching",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        }
+      ],
+      "sections": [
+        {
+          "index": 3,
+          "tag": "section",
+          "id": "",
+          "className": "relative -ml-[calc(50vw-50%)] flex w-screen flex-col items-start overflow-hidden pb-12 pt-9",
+          "label": "YC turns builders into formidable founders[1]AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugura",
+          "text": "YC turns builders into formidable founders[1]AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.Sam built OpenAI into a $500B company.YCNowStripeThe Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.Stripe is now the internet’s $107B payments backbone.YCNowCoinbaseFred and Brian met on Reddit and did YC in S12.Coinbase went public in 2021 at a $86B valuation.YCNowDoorDashAndy, Stanley, Tony, and Evan did YC in S13.DoorDash went public in 2020 at a valuation of $39B.YCNowScale AIAlexandr and Lucy did YC S16 and pivoted during the batch.In 2025, Meta acquired 49% of Scale for over $14B.YCNowDropboxArash and Drew started Dropbox at MIT and did YC in S07.Dropbox had the biggest tech IPO of 2018 at a $9B valuation.YCNowRedditAlexis and Steve were in the inaugural YC batch in S05.Reddit went public in 2024 at a $6.4B valuation.YCNowInstacartApoorva, Max, and Brandon did YC in S12.Instacart went public in 2023 at a $10B valuation.YCNowGitLabSid and Dmytro did YC in S14.GitLab went public in 2021 at an $11B valuatio",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 834,
+            "height": 736
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/cta-systems/01-yc-turns-builders-into-formidable-founders-1-airbnbbrian-joe-and-nate-did-yc-in-w09-airbnb.png"
+        },
+        {
+          "index": 4,
+          "tag": "section",
+          "id": "",
+          "className": "block w-full overflow-x-hidden lg:hidden",
+          "label": "AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Resea",
+          "text": "AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.Sam built OpenAI into a $500B company.YCNowStripeThe Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.Stripe is now the internet’s $107B payments backbone.YCNowCoinbaseFred and Brian met on Reddit and did YC in S12.Coinbase went public in 2021 at a $86B valuation.YCNowDoorDashAndy, Stanley, Tony, and Evan did YC in S13.DoorDash went public in 2020 at a valuation of $39B.YCNowScale AIAlexandr and Lucy did YC S16 and pivoted during the batch.In 2025, Meta acquired 49% of Scale for over $14B.YCNowDropboxArash and Drew started Dropbox at MIT and did YC in S07.Dropbox had the biggest tech IPO of 2018 at a $9B valuation.YCNowRedditAlexis and Steve were in the inaugural YC batch in S05.Reddit went public in 2024 at a $6.4B valuation.YCNowInstacartApoorva, Max, and Brandon did YC in S12.Instacart went public in 2023 at a $10B valuation.YCNowGitLabSid and Dmytro did YC in S14.GitLab went public in 2021 at an $11B valuation.YCNowKalshiTarek and Luana did YC in W19.Ka",
+          "rect": {
+            "x": 0,
+            "y": 201,
+            "width": 834,
+            "height": 450
+          },
+          "category": "institutional-trust",
+          "screenshot": "research/screenshots/y-combinator/tablet/institutional-trust/02-airbnbbrian-joe-and-nate-did-yc-in-w09-airbnb-went-public-in-2020-at-an-over-100b-valuatio.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "",
+          "className": "py-20 max-md:pb-[40px] max-md:pt-0",
+          "label": "In Founders’ Words",
+          "text": "In 2005, Y Combinator developed a new model of startup funding. Four times a year we invest $500k in a select group of startups. They move to San Francisco for three months, where we work intensively with them to get the company into the best possible shape, before they present to a large audience of investors on Demo Day.But YC doesn’t end on Demo Day. We and the YC alumni network continue to help founders for the life of their company, and beyond.In Founders’ WordsYC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 0,
+            "y": 800,
+            "width": 834,
+            "height": 1234
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/tablet/hero-sections/03-in-founders-words.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "relative",
+          "label": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of",
+          "text": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 162,
+            "y": 1560,
+            "width": 510,
+            "height": 393
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/y-combinator/tablet/startup-showcase/04-yc-compresses-months-of-growth-into-weeks-the-sense-of-urgency-is-so-infectious-among-foun.png"
+        },
+        {
+          "index": 39,
+          "tag": "section",
+          "id": "in-the-room-photos",
+          "className": "m-0 w-full max-w-full overflow-visible py-[120px] max-md:py-[40px]",
+          "label": "Be in the room with …",
+          "text": "Be in the room with …Brian CheskyAirbnbSam AltmanOpenAIGreg BrockmanOpenAIMichael TruellCursorPaul GrahamY CombinatorGuillermo RauchVercelDylan FieldFigmaEmmett ShearTwitchTony XuDoorDash",
+          "rect": {
+            "x": 0,
+            "y": 2033,
+            "width": 834,
+            "height": 1737
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/grid-systems/05-be-in-the-room-with.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 20,
+            "y": 2407,
+            "width": 385,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/06-div.png"
+        },
+        {
+          "index": 45,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 20,
+            "y": 2688,
+            "width": 385,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/07-div.png"
+        },
+        {
+          "index": 49,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 20,
+            "y": 2969,
+            "width": 385,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/08-div.png"
+        },
+        {
+          "index": 53,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 20,
+            "y": 3249,
+            "width": 385,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/09-div.png"
+        },
+        {
+          "index": 57,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 20,
+            "y": 3530,
+            "width": 385,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/10-div.png"
+        },
+        {
+          "index": 58,
+          "tag": "section",
+          "id": "",
+          "className": "m-0 box-border w-full max-w-[100vw] overflow-hidden py-[120px] max-md:py-[40px]",
+          "label": "All partners were YC founders first",
+          "text": "All partners were YC founders firstGarry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir, designed company logo.Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current Media). Graduated from Oxford.Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators worldwide.Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to 100M+ users and grew up in Chile.Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science.Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 2019.Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "rect": {
+            "x": 0,
+            "y": 3770,
+            "width": 834,
+            "height": 4119
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/tablet/hero-sections/11-all-partners-were-yc-founders-first.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border flex w-full max-w-[100vw] flex-col overflow-x-hidden px-5 py-[120px] max-md:py-[40px] max-sm:px-0 [&_.section-header-centered]:text-[#16140f]",
+          "label": "Knowledge & News",
+          "text": "Knowledge & NewsBillion-Dollar Unpopular Startup IdeasAndrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsStartup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›Deepgram Raises $130M Series C›Paul Graham EssaysDefault Alive or Default Dead›Do Things that Don’t Scale›Be Relentlessly Resourceful›How to Get Startup Ideas›Startup = Growth›Andrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsLIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana Hu, Harj Taggar, and Jared Friedman talk about the newest tech and how it could change the world. In this episode, they discuss contrarian bets — the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Ra",
+          "rect": {
+            "x": 0,
+            "y": 7889,
+            "width": 834,
+            "height": 1465
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/y-combinator/tablet/navigation/12-knowledge-news.png"
+        },
+        {
+          "index": 76,
+          "tag": "aside",
+          "id": "",
+          "className": "flex flex-col gap-3 max-lg:col-span-full max-lg:grid max-lg:grid-cols-2 max-lg:gap-12 max-md:order-3 max-md:grid-cols-1 max-md:gap-6",
+          "label": "Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "text": "Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›Deepgram Raises $130M Series C›Paul Graham EssaysDefault Alive or Default Dead›Do Things that Don’t Scale›Be Relentlessly Resourceful›How to Get Startup Ideas›Startup = Growth›",
+          "rect": {
+            "x": 80,
+            "y": 8126,
+            "width": 674,
+            "height": 249
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/tablet/hero-sections/13-startup-newsannouncing-the-yc-ai-stack-emergent-raises-70m-series-b-at-300m-valuation-govd.png"
+        },
+        {
+          "index": 68,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-3",
+          "label": "Andrej Karpathy: Software Is Changing (Again)",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "rect": {
+            "x": 332,
+            "y": 8408,
+            "width": 422,
+            "height": 268
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/cta-systems/14-andrej-karpathy-software-is-changing-again.png"
+        },
+        {
+          "index": 69,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 332,
+            "y": 8408,
+            "width": 422,
+            "height": 237
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/15-div.png"
+        },
+        {
+          "index": 70,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-3",
+          "label": "How To Build The Future: Sam Altman",
+          "text": "How To Build The Future: Sam Altman",
+          "rect": {
+            "x": 332,
+            "y": 8687,
+            "width": 422,
+            "height": 268
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/tablet/hero-sections/16-how-to-build-the-future-sam-altman.png"
+        },
+        {
+          "index": 71,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 332,
+            "y": 8687,
+            "width": 422,
+            "height": 237
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/17-div.png"
+        },
+        {
+          "index": 72,
+          "tag": "article",
+          "id": "",
+          "className": "flex flex-1 flex-col gap-1 max-md:mb-6 max-sm:mb-0 max-sm:w-[75vw] max-sm:max-w-[320px] max-sm:flex-shrink-0 max-sm:snap-start mb-0",
+          "label": "YC Partners Answer Your Questions",
+          "text": "YC Partners Answer Your Questions",
+          "rect": {
+            "x": 332,
+            "y": 8967,
+            "width": 422,
+            "height": 268
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/cta-systems/18-yc-partners-answer-your-questions.png"
+        },
+        {
+          "index": 73,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] group-hover:before:opacity-100 group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 332,
+            "y": 8967,
+            "width": 422,
+            "height": 237
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/event-systems/19-div.png"
+        },
+        {
+          "index": 77,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border w-full max-w-[100vw] overflow-x-hidden px-5 pb-8 pt-0 max-md:pb-8 max-md:pt-10",
+          "label": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "text": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "rect": {
+            "x": 0,
+            "y": 9354,
+            "width": 834,
+            "height": 464
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/tablet/cta-systems/20-it-s-never-too-early-to-apply-we-fund-companies-with-no-revenue-product-or-fully-baked-ide.png"
+        },
+        {
+          "index": 78,
+          "tag": "footer",
+          "id": "",
+          "className": "bg-black text-beige-light",
+          "label": "Footer",
+          "text": "FooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator",
+          "rect": {
+            "x": 0,
+            "y": 9819,
+            "width": 860,
+            "height": 485
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/tablet/hero-sections/21-footer.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Y Combinator",
+      "finalUrl": "https://www.ycombinator.com/",
+      "language": "en",
+      "fontFamilies": [
+        "Outfit, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "\"Source Serif 4\", serif",
+        "Outfit, sans-serif",
+        "Outfit"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(22, 20, 15)",
+        "rgb(255, 255, 255)",
+        "oklab(0.999994 0.0000455678 0.0000200868 / 0.95)",
+        "rgb(245, 245, 238)"
+      ],
+      "backgroundColors": [
+        "rgb(245, 245, 238)",
+        "rgb(0, 0, 0)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "In Founders’ Words",
+          "fontSize": "11.2px",
+          "fontWeight": "400",
+          "lineHeight": "16.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Be in the room with …",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "All partners were YC founders first",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Knowledge & News",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h3",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "How To Build The Future: Sam Altman",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "YC Partners Answer Your Questions",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "Footer",
+          "fontSize": "16px",
+          "fontWeight": "200",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Make something people want.",
+          "fontSize": "16px",
+          "fontWeight": "300",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Programs",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Resources",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        },
+        {
+          "tag": "h3",
+          "text": "Company",
+          "fontSize": "14px",
+          "fontWeight": "500",
+          "lineHeight": "20px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "About",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "What Happens at YC?",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "YC Interview Guide",
+          "href": "https://www.ycombinator.com/interviews"
+        },
+        {
+          "text": "FAQ",
+          "href": "https://www.ycombinator.com/faq"
+        },
+        {
+          "text": "People",
+          "href": "https://www.ycombinator.com/people"
+        },
+        {
+          "text": "YC Blog",
+          "href": "https://www.ycombinator.com/blog"
+        },
+        {
+          "text": "Companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Founder Directory",
+          "href": "https://www.ycombinator.com/founders"
+        },
+        {
+          "text": "Launch YC",
+          "href": "https://www.ycombinator.com/launches"
+        },
+        {
+          "text": "Library",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.ycombinator.com/partners"
+        },
+        {
+          "text": "Resources",
+          "href": "https://www.ycombinator.com/library"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/?utm_source=yc&utm_campaign=ycdc_header"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://www.ycombinator.com/subscribe"
+        },
+        {
+          "text": "Requests for Startups",
+          "href": "https://www.ycombinator.com/rfs"
+        },
+        {
+          "text": "For Investors",
+          "href": "https://www.ycombinator.com/investors"
+        },
+        {
+          "text": "Verify Founders",
+          "href": "https://www.ycombinator.com/verify"
+        },
+        {
+          "text": "Hacker News",
+          "href": "https://news.ycombinator.com/"
+        },
+        {
+          "text": "Bookface",
+          "href": "https://bookface.ycombinator.com/"
+        },
+        {
+          "text": "Safe",
+          "href": "https://www.ycombinator.com/documents"
+        },
+        {
+          "text": "Find a Co-Founder",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Jobs",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Log in",
+          "href": "https://account.ycombinator.com/?continue=https://www.ycombinator.com/"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "All companies",
+          "href": "https://www.ycombinator.com/companies"
+        },
+        {
+          "text": "Garry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir",
+          "href": "https://www.ycombinator.com/people/garry-tan"
+        },
+        {
+          "text": "Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current ",
+          "href": "https://www.ycombinator.com/people/harj-taggar"
+        },
+        {
+          "text": "Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.",
+          "href": "https://www.ycombinator.com/people/jared-friedman"
+        },
+        {
+          "text": "Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators ",
+          "href": "https://www.ycombinator.com/people/aaron-epstein"
+        },
+        {
+          "text": "Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to",
+          "href": "https://www.ycombinator.com/people/diana-hu"
+        },
+        {
+          "text": "Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.",
+          "href": "https://www.ycombinator.com/people/gustaf-alstromer"
+        },
+        {
+          "text": "Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science",
+          "href": "https://www.ycombinator.com/people/nicolas-dessaigne"
+        },
+        {
+          "text": "Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 20",
+          "href": "https://www.ycombinator.com/people/tom-blomfield"
+        },
+        {
+          "text": "Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "href": "https://www.ycombinator.com/people/brad-flora"
+        },
+        {
+          "text": "Pete KoomenOptimizely, W10Co-founder of Optimizely, grew to $100M+ ARR before acquisition. Master’s in CS from UIUC.",
+          "href": "https://www.ycombinator.com/people/pete-koomen"
+        },
+        {
+          "text": "Ankit GuptaReverie Labs, W18Co-founder and CTO of Reverie Labs (acquired by Ginkgo Bioworks). Deep learning researcher i",
+          "href": "https://www.ycombinator.com/people/ankit-gupta"
+        },
+        {
+          "text": "Tyler BosmenyClever, S12Co-founder and CEO of Clever (acquired for $500M). Used by 60% of US students.",
+          "href": "https://www.ycombinator.com/people/tyler-bosmeny"
+        },
+        {
+          "text": "David LiebBump, S09Co-founder and CEO of Bump (150M+ users, acquired by Google). Co-founder of Google Photos (1B+ users)",
+          "href": "https://www.ycombinator.com/people/david-lieb"
+        },
+        {
+          "text": "Andrew MiklasPagerDuty, S10Co-founder & CTO of PagerDuty (NYSE:PD), the first incident management platform and used by h",
+          "href": "https://www.ycombinator.com/people/andrew-miklas"
+        },
+        {
+          "text": "Harshita AroraAtoB, S20Co-founder of AtoB, a fintech startup worth $800M. Moved from India to SF on an O-1 visa at 16 y/",
+          "href": "https://www.ycombinator.com/people/harshita-arora"
+        },
+        {
+          "text": "Jon XuFutureAdvisor, S10Co-founder and CTO of FutureAdvisor (acquired by BlackRock). Built robo-advisor platform for fin",
+          "href": "https://www.ycombinator.com/people/jon-xu"
+        },
+        {
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Andrej Karpathy: Software Is Changing (Again)",
+          "href": "https://www.ycombinator.com/library/MW-andrej-karpathy-software-is-changing-again"
+        },
+        {
+          "text": "How To Build The Future: Sam Altman",
+          "href": "https://www.ycombinator.com/library/Lp-how-to-build-the-future-sam-altman"
+        },
+        {
+          "text": "YC Partners Answer Your Questions",
+          "href": "https://www.ycombinator.com/library/N2-yc-partners-answer-your-questions-office-hours"
+        },
+        {
+          "text": "LIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana ",
+          "href": "https://www.ycombinator.com/library/N0-unpopular-ideas-that-became-billion-dollar-businesses"
+        },
+        {
+          "text": "Announcing the YC AI Stack›",
+          "href": "https://www.ycombinator.com/blog/the-yc-ai-student-starter-pack"
+        },
+        {
+          "text": "Emergent Raises $70M Series B at $300M Valuation›",
+          "href": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/"
+        },
+        {
+          "text": "Govdash Raises $30M Series B›",
+          "href": "https://www.govdash.com/blog/govdash-raises-30m-in-new-funding"
+        },
+        {
+          "text": "Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›",
+          "href": "https://www.wsj.com/business/energy-oil/talk-about-range-anxietycould-giant-cargo-ships-run-on-batteries-7d258427"
+        },
+        {
+          "text": "Deepgram Raises $130M Series C›",
+          "href": "https://deepgram.com/learn/scott-announcement-deepgram-raises-series-c"
+        },
+        {
+          "text": "Default Alive or Default Dead›",
+          "href": "https://www.paulgraham.com/aord.html"
+        },
+        {
+          "text": "Do Things that Don’t Scale›",
+          "href": "https://www.paulgraham.com/ds.html"
+        },
+        {
+          "text": "Be Relentlessly Resourceful›",
+          "href": "https://www.paulgraham.com/relres.html"
+        },
+        {
+          "text": "How to Get Startup Ideas›",
+          "href": "http://www.paulgraham.com/startupideas.html"
+        },
+        {
+          "text": "Startup = Growth›",
+          "href": "http://www.paulgraham.com/growth.html"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.ycombinator.com/apply"
+        },
+        {
+          "text": "Y Combinator",
+          "href": "https://www.ycombinator.com/"
+        },
+        {
+          "text": "YC Program",
+          "href": "https://www.ycombinator.com/about"
+        },
+        {
+          "text": "Startup School",
+          "href": "https://startupschool.org/"
+        },
+        {
+          "text": "Work at a Startup",
+          "href": "https://www.ycombinator.com/jobs"
+        },
+        {
+          "text": "Co-Founder Matching",
+          "href": "https://www.ycombinator.com/cofounder-matching"
+        },
+        {
+          "text": "Startup Directory",
+          "href": "https://www.ycombinator.com/companies"
+        }
+      ],
+      "sections": [
+        {
+          "index": 3,
+          "tag": "section",
+          "id": "",
+          "className": "relative -ml-[calc(50vw-50%)] flex w-screen flex-col items-start overflow-hidden pb-12 pt-9",
+          "label": "YC turns builders into formidable founders[1]AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugura",
+          "text": "YC turns builders into formidable founders[1]AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.Sam built OpenAI into a $500B company.YCNowStripeThe Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.Stripe is now the internet’s $107B payments backbone.YCNowCoinbaseFred and Brian met on Reddit and did YC in S12.Coinbase went public in 2021 at a $86B valuation.YCNowDoorDashAndy, Stanley, Tony, and Evan did YC in S13.DoorDash went public in 2020 at a valuation of $39B.YCNowScale AIAlexandr and Lucy did YC S16 and pivoted during the batch.In 2025, Meta acquired 49% of Scale for over $14B.YCNowDropboxArash and Drew started Dropbox at MIT and did YC in S07.Dropbox had the biggest tech IPO of 2018 at a $9B valuation.YCNowRedditAlexis and Steve were in the inaugural YC batch in S05.Reddit went public in 2024 at a $6.4B valuation.YCNowInstacartApoorva, Max, and Brandon did YC in S12.Instacart went public in 2023 at a $10B valuation.YCNowGitLabSid and Dmytro did YC in S14.GitLab went public in 2021 at an $11B valuatio",
+          "rect": {
+            "x": 0,
+            "y": 64,
+            "width": 390,
+            "height": 719
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/mobile/cta-systems/01-yc-turns-builders-into-formidable-founders-1-airbnbbrian-joe-and-nate-did-yc-in-w09-airbnb.png"
+        },
+        {
+          "index": 4,
+          "tag": "section",
+          "id": "",
+          "className": "block w-full overflow-x-hidden lg:hidden",
+          "label": "AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Resea",
+          "text": "AirbnbBrian, Joe, and Nate did YC in W09.Airbnb went public in 2020 at an over $100B valuation.YCNowOpenAISam was part of YC's inaugural batch in S05 and founded OpenAI as YC Research in 2015.Sam built OpenAI into a $500B company.YCNowStripeThe Collison brothers did YC twice—first in W07 and then in S09, when they started Stripe.Stripe is now the internet’s $107B payments backbone.YCNowCoinbaseFred and Brian met on Reddit and did YC in S12.Coinbase went public in 2021 at a $86B valuation.YCNowDoorDashAndy, Stanley, Tony, and Evan did YC in S13.DoorDash went public in 2020 at a valuation of $39B.YCNowScale AIAlexandr and Lucy did YC S16 and pivoted during the batch.In 2025, Meta acquired 49% of Scale for over $14B.YCNowDropboxArash and Drew started Dropbox at MIT and did YC in S07.Dropbox had the biggest tech IPO of 2018 at a $9B valuation.YCNowRedditAlexis and Steve were in the inaugural YC batch in S05.Reddit went public in 2024 at a $6.4B valuation.YCNowInstacartApoorva, Max, and Brandon did YC in S12.Instacart went public in 2023 at a $10B valuation.YCNowGitLabSid and Dmytro did YC in S14.GitLab went public in 2021 at an $11B valuation.YCNowKalshiTarek and Luana did YC in W19.Ka",
+          "rect": {
+            "x": 0,
+            "y": 195,
+            "width": 390,
+            "height": 414
+          },
+          "category": "institutional-trust",
+          "screenshot": "research/screenshots/y-combinator/mobile/institutional-trust/02-airbnbbrian-joe-and-nate-did-yc-in-w09-airbnb-went-public-in-2020-at-an-over-100b-valuatio.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "",
+          "className": "py-20 max-md:pb-[40px] max-md:pt-0",
+          "label": "In Founders’ Words",
+          "text": "In 2005, Y Combinator developed a new model of startup funding. Four times a year we invest $500k in a select group of startups. They move to San Francisco for three months, where we work intensively with them to get the company into the best possible shape, before they present to a large audience of investors on Demo Day.But YC doesn’t end on Demo Day. We and the YC alumni network continue to help founders for the life of their company, and beyond.In Founders’ WordsYC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 0,
+            "y": 783,
+            "width": 390,
+            "height": 1398
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/mobile/hero-sections/03-in-founders-words.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "relative",
+          "label": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of",
+          "text": "YC compresses months of growth into weeks.The sense of urgency is so infectious among founders that it becomes the most productive period in most people’s lives.It’s a community of founders that you can’t find anywhere else.It feels like having the entire world at your back—from Partners to batchmates.Being surrounded by the top 1% of founders in the world just completely resets the bar.You leave with a completely new sense of how fast ‘fast’ can be.",
+          "rect": {
+            "x": 20,
+            "y": 1585,
+            "width": 350,
+            "height": 556
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/y-combinator/mobile/startup-showcase/04-yc-compresses-months-of-growth-into-weeks-the-sense-of-urgency-is-so-infectious-among-foun.png"
+        },
+        {
+          "index": 39,
+          "tag": "section",
+          "id": "in-the-room-photos",
+          "className": "m-0 w-full max-w-full overflow-visible py-[120px] max-md:py-[40px]",
+          "label": "Be in the room with …",
+          "text": "Be in the room with …Brian CheskyAirbnbSam AltmanOpenAIGreg BrockmanOpenAIMichael TruellCursorPaul GrahamY CombinatorGuillermo RauchVercelDylan FieldFigmaEmmett ShearTwitchTony XuDoorDash",
+          "rect": {
+            "x": 0,
+            "y": 2181,
+            "width": 390,
+            "height": 398
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/y-combinator/mobile/grid-systems/05-be-in-the-room-with.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "pointer-events-none absolute inset-0 bottom-0 left-0 right-0 top-auto h-[120px] rounded-b-xl bg-gradient-to-t from-black/80 via-black/40 via-50% to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100 max-sm:opacity-100 [@media(hover:none)]:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 29,
+            "y": 2399,
+            "width": 332,
+            "height": 120
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/mobile/event-systems/06-div.png"
+        },
+        {
+          "index": 58,
+          "tag": "section",
+          "id": "",
+          "className": "m-0 box-border w-full max-w-[100vw] overflow-hidden py-[120px] max-md:py-[40px]",
+          "label": "All partners were YC founders first",
+          "text": "All partners were YC founders firstGarry TanPosterous, S08Co-founder of Posterous (acquired by Twitter) and Initialized Capital. Early engineer at Palantir, designed company logo.Harj TaggarAuctomatic, W07Co-founder and CEO of Triplebyte (acquired by Karat) and Auctomatic (acquired by Live Current Media). Graduated from Oxford.Jared FriedmanScribd, S06Co-founder of Scribd, one of the top 100 sites on the web. Harvard CS dropout.Aaron EpsteinCreative Market, W10Co-founder of Creative Market, generating over $100M in sales for independent creators worldwide.Diana HuEscher Reality, S17Co-founder and CTO of Escher Reality (acquired by Niantic). Shipped AR tech for Pokémon GO to 100M+ users and grew up in Chile.Gustaf AlströmerHeysan, W07Led Growth at Airbnb for 4.5 years. Co-founder of Heysan. Previously Head of Growth at Voxer.Nicolas DessaigneAlgolia, W14Co-founder of Algolia, a Search API used by millions of developers. PhD in Computer Science.Tom BlomfieldGoCardless, S11Co-founder of Monzo (£500M raised, 10% UK population). Founded GoCardless. Awarded OBE in 2019.Brad FloraPerfect Audience, S11Co-founder and CEO of Perfect Audience (acquired by Marin Software). Active angel investo",
+          "rect": {
+            "x": 0,
+            "y": 2579,
+            "width": 390,
+            "height": 604
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/mobile/hero-sections/07-all-partners-were-yc-founders-first.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border flex w-full max-w-[100vw] flex-col overflow-x-hidden px-5 py-[120px] max-md:py-[40px] max-sm:px-0 [&_.section-header-centered]:text-[#16140f]",
+          "label": "Knowledge & News",
+          "text": "Knowledge & NewsBillion-Dollar Unpopular Startup IdeasAndrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsStartup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Raises $43M Series A for Battery-Powered Cargo Ships›Deepgram Raises $130M Series C›Paul Graham EssaysDefault Alive or Default Dead›Do Things that Don’t Scale›Be Relentlessly Resourceful›How to Get Startup Ideas›Startup = Growth›Andrej Karpathy: Software Is Changing (Again)How To Build The Future: Sam AltmanYC Partners Answer Your QuestionsLIGHTCONE PODCASTBillion-Dollar Unpopular Startup IdeasLightcone is a twice-monthly podcast where YC's Garry Tan, Diana Hu, Harj Taggar, and Jared Friedman talk about the newest tech and how it could change the world. In this episode, they discuss contrarian bets — the ideas that look impossible until they work. From Uber and Coinbase to DoorDash and Flock Safety, they share how founders find opportunity where others see dead ends.Startup NewsAnnouncing the YC AI Stack›Emergent Raises $70M Series B at $300M Valuation›Govdash Raises $30M Series B›Fleetzero Ra",
+          "rect": {
+            "x": 0,
+            "y": 3183,
+            "width": 390,
+            "height": 969
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/y-combinator/mobile/navigation/08-knowledge-news.png"
+        },
+        {
+          "index": 60,
+          "tag": "article",
+          "id": "",
+          "className": "w-[85vw] max-w-[360px] flex-none snap-center",
+          "label": "Billion-Dollar Unpopular Startup Ideas",
+          "text": "Billion-Dollar Unpopular Startup Ideas",
+          "rect": {
+            "x": 29,
+            "y": 3301,
+            "width": 332,
+            "height": 225
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/mobile/hero-sections/09-billion-dollar-unpopular-startup-ideas.png"
+        },
+        {
+          "index": 61,
+          "tag": "div",
+          "id": "",
+          "className": "relative w-full overflow-hidden rounded-xl before:pointer-events-none before:absolute before:inset-0 before:z-[1] before:bg-black/40 before:opacity-0 before:transition-opacity before:duration-300 before:content-[''] after:pointer-events-none after:absolute after:left-1/2 after:top-1/2 after:z-[2] after:-translate-x-1/2 after:-translate-y-1/2 after:text-[32px] after:text-white after:opacity-0 after:transition-opacity after:duration-300 after:content-['▶'] min-[1024px]:group-hover:before:opacity-100 min-[1024px]:group-hover:after:opacity-100",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 29,
+            "y": 3301,
+            "width": 332,
+            "height": 186
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/y-combinator/mobile/event-systems/10-div.png"
+        },
+        {
+          "index": 77,
+          "tag": "section",
+          "id": "",
+          "className": "relative box-border w-full max-w-[100vw] overflow-x-hidden px-5 pb-8 pt-0 max-md:pb-8 max-md:pt-10",
+          "label": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "text": "It's never too early to apply.We fund companies with no revenue, product, or fully baked idea.Apply",
+          "rect": {
+            "x": 0,
+            "y": 4152,
+            "width": 390,
+            "height": 440
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/y-combinator/mobile/cta-systems/11-it-s-never-too-early-to-apply-we-fund-companies-with-no-revenue-product-or-fully-baked-ide.png"
+        },
+        {
+          "index": 78,
+          "tag": "footer",
+          "id": "",
+          "className": "bg-black text-beige-light",
+          "label": "Footer",
+          "text": "FooterY CombinatorMake something people want.ProgramsYC ProgramStartup SchoolWork at a StartupCo-Founder MatchingResourcesStartup DirectoryStartup LibraryInvestorsDemo DaySafeHacker NewsLaunch YCYC DealsCompanyYC BlogContactPressPeopleCareersPrivacy PolicyNotice at CollectionSecurityTerms of UseTwitterTwitterFacebookFacebookInstagramInstagramLinkedInLinkedInYoutubeYouTube© 2026 Y Combinator",
+          "rect": {
+            "x": 0,
+            "y": 4592,
+            "width": 416,
+            "height": 865
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/y-combinator/mobile/hero-sections/12-footer.png"
+        }
+      ]
+    }
+  }
+}

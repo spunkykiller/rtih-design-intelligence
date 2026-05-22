@@ -1,0 +1,2519 @@
+{
+  "site": {
+    "name": "Antler",
+    "slug": "antler",
+    "url": "https://www.antler.co/",
+    "category": "global-accelerator",
+    "priority": 1,
+    "focus": [
+      "founder pathing",
+      "geographic ecosystem",
+      "application CTA"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:23:13.036Z",
+  "viewports": {
+    "desktop": {
+      "title": "Antler | Where Founders Go Further, Faster",
+      "finalUrl": "https://www.antler.co/",
+      "language": "en",
+      "fontFamilies": [
+        "Satoshi, Arial, sans-serif",
+        "\"Nib Pro\", Georgia, sans-serif"
+      ],
+      "colors": [
+        "rgb(30, 30, 30)",
+        "rgb(255, 255, 255)",
+        "rgb(237, 71, 70)",
+        "rgb(249, 247, 245)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 247, 245)",
+        "rgb(255, 255, 255)",
+        "rgb(12, 31, 33)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h1",
+          "text": "Further —Faster",
+          "fontSize": "88px",
+          "fontWeight": "400",
+          "lineHeight": "101.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "Further—faster",
+          "fontSize": "72px",
+          "fontWeight": "400",
+          "lineHeight": "82.8px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "https://www.antler.co/#main"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/the-anatomy-of-greatness-what-makes-a-unicorn-founder"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/building-the-future-ai-innovation-and-quantum-computing-in-europe-the-further-faster-podcast"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/how-we-built-antler-2"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/europes-execution-era-an-antler-study"
+        },
+        {
+          "text": "Founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/airalo"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/spiraldot-health"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/salmon"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/harper"
+        }
+      ],
+      "sections": [
+        {
+          "index": 8,
+          "tag": "header",
+          "id": "",
+          "className": "section_home-hero_v2 u-section",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 1168
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/desktop/navigation/01-further-faster.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_contain u-container",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 40,
+            "y": 256,
+            "width": 1360,
+            "height": 848
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/desktop/navigation/02-further-faster.png"
+        },
+        {
+          "index": 11,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_content_v2",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start dates",
+          "rect": {
+            "x": 40,
+            "y": 256,
+            "width": 1360,
+            "height": 280
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/desktop/hero-sections/03-further-faster.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_text_contain",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.",
+          "rect": {
+            "x": 40,
+            "y": 256,
+            "width": 494,
+            "height": 280
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/desktop/hero-sections/04-further-faster.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate the",
+          "text": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate themselves to the most meaningful work of their lives.",
+          "rect": {
+            "x": 0,
+            "y": 1168,
+            "width": 1440,
+            "height": 1092
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/desktop/startup-showcase/05-we-believe-antler-is-the-best-place-on-the-planet-for-people-to-launch-category-defining-c.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "section_globe u-section",
+          "label": "Antler is the best place on the planet to grow your company",
+          "text": "Antler is the best place on the planet to grow your companyWith a presence in major technology ecosystems across the world we back the most driven entrepreneurs and give them the platform, capital, and community needed to create lasting impact.1,800portfolio companies12,000+founders supported24locations worldwide @container (max-width: 55.2rem) { .large_globe_wrap { display: none; } .globe_section_left { height: auto !important; } }",
+          "rect": {
+            "x": 0,
+            "y": 2260,
+            "width": 1440,
+            "height": 1000
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/desktop/startup-showcase/06-antler-is-the-best-place-on-the-planet-to-grow-your-company.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "FEATURED ANTLER —INSIGHTS",
+          "text": "FEATURED ANTLER —INSIGHTSInsightsThe Anatomy of Greatness: What Makes a Unicorn Founder?Antler’s report provides new insights on speed, geography, experience, and the changing profile of founders behind the world’s most valuable startups.‍Peter Sarlin on Building the Future: AI, Innovation, and Quantum Computing in Europe | The Further, Faster PodcastPeter Sarlin, co-founder and CEO of Silo AI, is a passionate advocate for European startups. He joins Antler founder and CEO Marcus Grimeland to discuss what the future might look like for the continent’s tech ecosystem ‍PodcastHow we built AntlerAntler Founder and CEO Magnus Grimeland on the origins of Antler, the rise of global entrepreneurship, and the mission to back outliers everywhere from inception. PodcastEurope's Execution Era: An Antler StudyAntler's latest report is one of the largest studies of tech founders in Europe. We’ve analysed more than 3,000 unicorn founders and 60,000 founders at the inception of their journey, uncovering Europe's rapid growth in an AI era of execution.‍Insights .hover_thumbnail { width: 100%; height: 100%; object-fit: cover; display: block; } @container (width < 70rem) { .featured-insights_layout ",
+          "rect": {
+            "x": 0,
+            "y": 3260,
+            "width": 1440,
+            "height": 951
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/desktop/hero-sections/07-featured-antler-insights.png"
+        },
+        {
+          "index": 17,
+          "tag": "div",
+          "id": "location-testimonials",
+          "className": "section_location_testimonials u-section",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 0,
+            "y": 4211,
+            "width": 1440,
+            "height": 609
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/desktop/grid-systems/08-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 18,
+          "tag": "div",
+          "id": "",
+          "className": "location_testimonials_contain u-container",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 40,
+            "y": 4311,
+            "width": 1360,
+            "height": 409
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/desktop/grid-systems/09-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_wrap w-dyn-list",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 0,
+            "y": 4311,
+            "width": 1440,
+            "height": 292
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/desktop/navigation/10-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_list w-dyn-items",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 40,
+            "y": 4311,
+            "width": 1360,
+            "height": 292
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/desktop/navigation/11-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 20,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_button_list u-order-last",
+          "label": "Bahadir ÖzdemirCo-founderAiraloAnton OsikaCo-founderLovableDanyal ÖzdüzencilerCEOCapsa AI",
+          "text": "Bahadir ÖzdemirCo-founderAiraloAnton OsikaCo-founderLovableDanyal ÖzdüzencilerCEOCapsa AI",
+          "rect": {
+            "x": 0,
+            "y": 4636,
+            "width": 1440,
+            "height": 85
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/desktop/grid-systems/12-bahadir-zdemirco-founderairaloanton-osikaco-founderlovabledanyal-zd-zencilerceocapsa-ai.png"
+        },
+        {
+          "index": 21,
+          "tag": "div",
+          "id": "tab-button-1-1",
+          "className": "testimonial_tab_btn_wrap is-active",
+          "label": "Bahadir ÖzdemirCo-founderAiralo",
+          "text": "Bahadir ÖzdemirCo-founderAiralo",
+          "rect": {
+            "x": 40,
+            "y": 4636,
+            "width": 453,
+            "height": 85
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/desktop/grid-systems/13-bahadir-zdemirco-founderairalo.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "section_founder-stories u-section",
+          "label": "FOUNDER —STORIES",
+          "text": "FOUNDER —STORIESFounder storiesFounder storiesFounder storiesAiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began wit",
+          "rect": {
+            "x": 0,
+            "y": 4820,
+            "width": 1440,
+            "height": 825
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/desktop/hero-sections/14-founder-stories.png"
+        },
+        {
+          "index": 39,
+          "tag": "div",
+          "id": "",
+          "className": "featured-posts_cms_wrap swiper w-dyn-list swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "Airalo",
+          "text": "AiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began with two founders meeting at Antler has grown into a fintech pla",
+          "rect": {
+            "x": 24,
+            "y": 5008,
+            "width": 1392,
+            "height": 485
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/desktop/hero-sections/15-airalo.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES A",
+          "text": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES AOur emerging growth fund, Antler Elevate, provides scale-up capital from Series A onwards to propel the next generation of remarkable founders on their paths to greatness.Learn moreLearn moreLearn more",
+          "rect": {
+            "x": 0,
+            "y": 5646,
+            "width": 1440,
+            "height": 646
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/desktop/startup-showcase/16-antler-elevate-scale-up-capital-from-series-a.png"
+        },
+        {
+          "index": 41,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 0,
+            "y": 6291,
+            "width": 1440,
+            "height": 405
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/desktop/ecosystem-maps/17-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "cta1_wrap u-margin-top-8",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 120,
+            "y": 6291,
+            "width": 1200,
+            "height": 341
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/desktop/ecosystem-maps/18-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 44,
+          "tag": "div",
+          "id": "",
+          "className": "cta1_content u-align-self-center",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up",
+          "rect": {
+            "x": 120,
+            "y": 6291,
+            "width": 600,
+            "height": 341
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/desktop/ecosystem-maps/19-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 48,
+          "tag": "footer",
+          "id": "",
+          "className": "footer_wrap u-section",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / TwitterSubscribe to our newsletterGet the latest news and views from Antler’s global community. hbspt.forms.create({ region: \"eu1\", portalId: \"143614254\", formId: \"c3da438f-cab2-41e1-ac88-5ee9f3b531fa\" }); document.addEventListener(\"DOMContentLoaded\", function () { document.querySelectorAll(\"[data-dynamic-year]\").forEach(function (el) { el.textContent = new Date().getFullYear(); }); }); @media (hover: hover) { .footer_group_list:has(> :hover) > :not(:hover) { opacity: 0.4; } .footer_locations_list:has(> :hover) > :not(:hover) { opacity: 0.4; } } @container(max-width: 73.5rem) { .footer_top_inner { display: flex; flex-direction: column } .footer_nav { max-width: 100%; } .footer_img_wrap { display: none; } } @container (max-width: 45rem) { .footer_group_wrap.is-locations { width: 100%; } .footer_content { min-width: 1",
+          "rect": {
+            "x": 0,
+            "y": 6696,
+            "width": 1440,
+            "height": 821
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/desktop/ecosystem-maps/20-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 49,
+          "tag": "nav",
+          "id": "",
+          "className": "footer_layout",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / Twitter",
+          "rect": {
+            "x": 40,
+            "y": 6796,
+            "width": 1360,
+            "height": 413
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/desktop/grid-systems/21-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 50,
+          "tag": "section",
+          "id": "w-node-_29394d2f-cd0c-8059-7e15-66f9381499ce-3814999f",
+          "className": "footer_group_wrap is-locations",
+          "label": "locations",
+          "text": "LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnam",
+          "rect": {
+            "x": 424,
+            "y": 6796,
+            "width": 333,
+            "height": 313
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/desktop/ecosystem-maps/22-locations.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Antler | Where Founders Go Further, Faster",
+      "finalUrl": "https://www.antler.co/",
+      "language": "en",
+      "fontFamilies": [
+        "Satoshi, Arial, sans-serif",
+        "\"Nib Pro\", Georgia, sans-serif"
+      ],
+      "colors": [
+        "rgb(30, 30, 30)",
+        "rgb(255, 255, 255)",
+        "rgb(237, 71, 70)",
+        "rgb(249, 247, 245)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 247, 245)",
+        "rgb(255, 255, 255)",
+        "rgb(12, 31, 33)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h1",
+          "text": "Further —Faster",
+          "fontSize": "66.3571px",
+          "fontWeight": "400",
+          "lineHeight": "76.3107px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "Further—faster",
+          "fontSize": "50.3571px",
+          "fontWeight": "400",
+          "lineHeight": "57.9107px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "18.9179px",
+          "fontWeight": "500",
+          "lineHeight": "26.485px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "https://www.antler.co/#main"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/the-anatomy-of-greatness-what-makes-a-unicorn-founder"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/building-the-future-ai-innovation-and-quantum-computing-in-europe-the-further-faster-podcast"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/how-we-built-antler-2"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/europes-execution-era-an-antler-study"
+        },
+        {
+          "text": "Founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/airalo"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/spiraldot-health"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/salmon"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/harper"
+        }
+      ],
+      "sections": [
+        {
+          "index": 8,
+          "tag": "header",
+          "id": "",
+          "className": "section_home-hero_v2 u-section",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 1100
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/tablet/navigation/01-further-faster.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_contain u-container",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 27,
+            "y": 204,
+            "width": 780,
+            "height": 841
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/tablet/navigation/02-further-faster.png"
+        },
+        {
+          "index": 11,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_content_v2",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start dates",
+          "rect": {
+            "x": 27,
+            "y": 204,
+            "width": 780,
+            "height": 304
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/tablet/hero-sections/03-further-faster.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_text_contain",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.",
+          "rect": {
+            "x": 27,
+            "y": 204,
+            "width": 494,
+            "height": 228
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/tablet/hero-sections/04-further-faster.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate the",
+          "text": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate themselves to the most meaningful work of their lives.",
+          "rect": {
+            "x": 0,
+            "y": 1100,
+            "width": 834,
+            "height": 709
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/tablet/startup-showcase/05-we-believe-antler-is-the-best-place-on-the-planet-for-people-to-launch-category-defining-c.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "section_globe u-section",
+          "label": "Antler is the best place on the planet to grow your company",
+          "text": "Antler is the best place on the planet to grow your companyWith a presence in major technology ecosystems across the world we back the most driven entrepreneurs and give them the platform, capital, and community needed to create lasting impact.1,800portfolio companies12,000+founders supported24locations worldwide @container (max-width: 55.2rem) { .large_globe_wrap { display: none; } .globe_section_left { height: auto !important; } }",
+          "rect": {
+            "x": 0,
+            "y": 1809,
+            "width": 834,
+            "height": 437
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/tablet/startup-showcase/06-antler-is-the-best-place-on-the-planet-to-grow-your-company.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "FEATURED ANTLER —INSIGHTS",
+          "text": "FEATURED ANTLER —INSIGHTSInsightsThe Anatomy of Greatness: What Makes a Unicorn Founder?Antler’s report provides new insights on speed, geography, experience, and the changing profile of founders behind the world’s most valuable startups.‍Peter Sarlin on Building the Future: AI, Innovation, and Quantum Computing in Europe | The Further, Faster PodcastPeter Sarlin, co-founder and CEO of Silo AI, is a passionate advocate for European startups. He joins Antler founder and CEO Marcus Grimeland to discuss what the future might look like for the continent’s tech ecosystem ‍PodcastHow we built AntlerAntler Founder and CEO Magnus Grimeland on the origins of Antler, the rise of global entrepreneurship, and the mission to back outliers everywhere from inception. PodcastEurope's Execution Era: An Antler StudyAntler's latest report is one of the largest studies of tech founders in Europe. We’ve analysed more than 3,000 unicorn founders and 60,000 founders at the inception of their journey, uncovering Europe's rapid growth in an AI era of execution.‍Insights .hover_thumbnail { width: 100%; height: 100%; object-fit: cover; display: block; } @container (width < 70rem) { .featured-insights_layout ",
+          "rect": {
+            "x": 0,
+            "y": 2247,
+            "width": 834,
+            "height": 1741
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/tablet/hero-sections/07-featured-antler-insights.png"
+        },
+        {
+          "index": 17,
+          "tag": "div",
+          "id": "location-testimonials",
+          "className": "section_location_testimonials u-section",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 0,
+            "y": 3988,
+            "width": 834,
+            "height": 537
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/tablet/grid-systems/08-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 18,
+          "tag": "div",
+          "id": "",
+          "className": "location_testimonials_contain u-container",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 27,
+            "y": 4069,
+            "width": 780,
+            "height": 376
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/tablet/grid-systems/09-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_wrap w-dyn-list",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 0,
+            "y": 4069,
+            "width": 834,
+            "height": 268
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/tablet/navigation/10-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_list w-dyn-items",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 27,
+            "y": 4069,
+            "width": 780,
+            "height": 268
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/tablet/navigation/11-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "section_founder-stories u-section",
+          "label": "FOUNDER —STORIES",
+          "text": "FOUNDER —STORIESFounder storiesFounder storiesFounder storiesAiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began wit",
+          "rect": {
+            "x": 0,
+            "y": 4525,
+            "width": 834,
+            "height": 662
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/tablet/hero-sections/12-founder-stories.png"
+        },
+        {
+          "index": 39,
+          "tag": "div",
+          "id": "",
+          "className": "featured-posts_cms_wrap swiper w-dyn-list swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "Airalo",
+          "text": "AiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began with two founders meeting at Antler has grown into a fintech pla",
+          "rect": {
+            "x": 12,
+            "y": 4678,
+            "width": 810,
+            "height": 373
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/tablet/hero-sections/13-airalo.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES A",
+          "text": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES AOur emerging growth fund, Antler Elevate, provides scale-up capital from Series A onwards to propel the next generation of remarkable founders on their paths to greatness.Learn moreLearn moreLearn more",
+          "rect": {
+            "x": 0,
+            "y": 5187,
+            "width": 834,
+            "height": 939
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/tablet/startup-showcase/14-antler-elevate-scale-up-capital-from-series-a.png"
+        },
+        {
+          "index": 41,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 0,
+            "y": 6126,
+            "width": 834,
+            "height": 302
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/tablet/ecosystem-maps/15-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "cta1_wrap u-margin-top-8",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 27,
+            "y": 6126,
+            "width": 780,
+            "height": 246
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/tablet/ecosystem-maps/16-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 48,
+          "tag": "footer",
+          "id": "",
+          "className": "footer_wrap u-section",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / TwitterSubscribe to our newsletterGet the latest news and views from Antler’s global community. hbspt.forms.create({ region: \"eu1\", portalId: \"143614254\", formId: \"c3da438f-cab2-41e1-ac88-5ee9f3b531fa\" }); document.addEventListener(\"DOMContentLoaded\", function () { document.querySelectorAll(\"[data-dynamic-year]\").forEach(function (el) { el.textContent = new Date().getFullYear(); }); }); @media (hover: hover) { .footer_group_list:has(> :hover) > :not(:hover) { opacity: 0.4; } .footer_locations_list:has(> :hover) > :not(:hover) { opacity: 0.4; } } @container(max-width: 73.5rem) { .footer_top_inner { display: flex; flex-direction: column } .footer_nav { max-width: 100%; } .footer_img_wrap { display: none; } } @container (max-width: 45rem) { .footer_group_wrap.is-locations { width: 100%; } .footer_content { min-width: 1",
+          "rect": {
+            "x": 0,
+            "y": 6428,
+            "width": 834,
+            "height": 950
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/tablet/ecosystem-maps/17-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 49,
+          "tag": "nav",
+          "id": "",
+          "className": "footer_layout",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / Twitter",
+          "rect": {
+            "x": 27,
+            "y": 6508,
+            "width": 780,
+            "height": 500
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/tablet/grid-systems/18-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 50,
+          "tag": "section",
+          "id": "w-node-_29394d2f-cd0c-8059-7e15-66f9381499ce-3814999f",
+          "className": "footer_group_wrap is-locations",
+          "label": "locations",
+          "text": "LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnam",
+          "rect": {
+            "x": 27,
+            "y": 6636,
+            "width": 333,
+            "height": 292
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/tablet/ecosystem-maps/19-locations.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Antler | Where Founders Go Further, Faster",
+      "finalUrl": "https://www.antler.co/",
+      "language": "en",
+      "fontFamilies": [
+        "Satoshi, Arial, sans-serif",
+        "\"Nib Pro\", Georgia, sans-serif"
+      ],
+      "colors": [
+        "rgb(30, 30, 30)",
+        "rgb(255, 255, 255)",
+        "rgb(237, 71, 70)",
+        "rgb(249, 247, 245)"
+      ],
+      "backgroundColors": [
+        "rgb(249, 247, 245)",
+        "rgb(255, 255, 255)",
+        "rgb(12, 31, 33)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "Asia Pacific",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Europe",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Americas",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "Middle East and Africa",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "22.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "ANTLER INSIGHTS",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "FOUNDER STORIES",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cohort Start dates",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h1",
+          "text": "Further —Faster",
+          "fontSize": "50.5px",
+          "fontWeight": "400",
+          "lineHeight": "58.075px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "Further—faster",
+          "fontSize": "34.5px",
+          "fontWeight": "400",
+          "lineHeight": "39.675px"
+        },
+        {
+          "tag": "h2",
+          "text": "AI founders",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "For investors",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "PORTFOLIO",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find your location",
+          "fontSize": "18.125px",
+          "fontWeight": "500",
+          "lineHeight": "25.375px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "https://www.antler.co/#main"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/"
+        },
+        {
+          "text": "AustraliaOpen in a new tab",
+          "href": "https://www.antler.co/location/australia"
+        },
+        {
+          "text": "IndiaOpen in a new tab",
+          "href": "https://www.antler.co/location/india"
+        },
+        {
+          "text": "IndonesiaOpen in a new tab",
+          "href": "https://www.antler.co/location/indonesia"
+        },
+        {
+          "text": "JapanOpen in a new tab",
+          "href": "https://www.antler.co/location/japan"
+        },
+        {
+          "text": "KoreaOpen in a new tab",
+          "href": "https://www.antler.co/location/korea"
+        },
+        {
+          "text": "MalaysiaOpen in a new tab",
+          "href": "https://www.antler.co/location/malaysia"
+        },
+        {
+          "text": "SingaporeOpen in a new tab",
+          "href": "https://www.antler.co/location/singapore"
+        },
+        {
+          "text": "VietnamOpen in a new tab",
+          "href": "https://www.antler.co/location/vietnam"
+        },
+        {
+          "text": "DenmarkOpen in a new tab",
+          "href": "https://www.antler.co/location/denmark"
+        },
+        {
+          "text": "FinlandOpen in a new tab",
+          "href": "https://www.antler.co/location/finland"
+        },
+        {
+          "text": "NorwayOpen in a new tab",
+          "href": "https://www.antler.co/location/norway"
+        },
+        {
+          "text": "SwedenOpen in a new tab",
+          "href": "https://www.antler.co/location/sweden"
+        },
+        {
+          "text": "UKOpen in a new tab",
+          "href": "https://www.antler.co/location/uk"
+        },
+        {
+          "text": "Continental EuropeOpen in a new tab",
+          "href": "https://www.antler.co/continental-europe"
+        },
+        {
+          "text": "BrazilOpen in a new tab",
+          "href": "https://www.antler.co/location/brazil"
+        },
+        {
+          "text": "CanadaOpen in a new tab",
+          "href": "https://www.antler.co/location/canada"
+        },
+        {
+          "text": "USOpen in a new tab",
+          "href": "https://www.antler.co/location/us"
+        },
+        {
+          "text": "KenyaOpen in a new tab",
+          "href": "https://www.antler.co/location/kenya"
+        },
+        {
+          "text": "NigeriaOpen in a new tab",
+          "href": "https://www.antler.co/location/nigeria"
+        },
+        {
+          "text": "Saudi ArabiaOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "United Arab EmiratesOpen in a new tab",
+          "href": "https://www.antler.co/location/menap"
+        },
+        {
+          "text": "Visit Antler insights",
+          "href": "https://www.antler.co/insights"
+        },
+        {
+          "text": "View Antler founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "View cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "About",
+          "href": "https://www.antler.co/about"
+        },
+        {
+          "text": "Founder Login",
+          "href": "https://hub.antler.co/login"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Apply",
+          "href": "https://www.antler.co/apply"
+        },
+        {
+          "text": "Cohort start dates",
+          "href": "https://www.antler.co/cohort-start-dates"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/ai"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/locations"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/the-anatomy-of-greatness-what-makes-a-unicorn-founder"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/building-the-future-ai-innovation-and-quantum-computing-in-europe-the-further-faster-podcast"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/how-we-built-antler-2"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/blog/europes-execution-era-an-antler-study"
+        },
+        {
+          "text": "Founder stories",
+          "href": "https://www.antler.co/founder-stories"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/airalo"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/spiraldot-health"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/salmon"
+        },
+        {
+          "text": "",
+          "href": "https://www.antler.co/portfolio/founder-stories/harper"
+        }
+      ],
+      "sections": [
+        {
+          "index": 8,
+          "tag": "header",
+          "id": "",
+          "className": "section_home-hero_v2 u-section",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 1470
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/mobile/navigation/01-further-faster.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_contain u-container",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start datesAI foundersIf you’re looking to build the next category-defining company, there’s no better place to pursue your ambition.For investorsJoin our global network of investors backing ambitious founders from inception.PORTFOLIOLearn more about Antler's early-stage investments from around the world. @keyframes marquee_1_timeline { from { transform: translateX(0%); } to { transform: translateX(-50%); } } Find your locationExplore Antler locations around the world and find the best place to start and scale your company. @container (width < 65rem) { .bento_main-img_wrap_2 { display: none; } } @container (width < 45rem) { .bento_grid_wrap_v2 { flex-direction: column; } .bento_column_v2 { display: contents; } .bento_item.is-logos { order: -1; } }",
+          "rect": {
+            "x": 18,
+            "y": 166,
+            "width": 355,
+            "height": 1255
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/mobile/navigation/02-further-faster.png"
+        },
+        {
+          "index": 11,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_content_v2",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.ApplyApplyApplyCohort start datesCohort start datesCohort start dates",
+          "rect": {
+            "x": 18,
+            "y": 166,
+            "width": 355,
+            "height": 286
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/mobile/hero-sections/03-further-faster.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "home_hero_text_contain",
+          "label": "Further —Faster",
+          "text": "Further —Faster Antler is a multi-stage venture investor that invests from inception to exit. Join the fastest growing venture firm on the globe to build fast and access capital.",
+          "rect": {
+            "x": 18,
+            "y": 166,
+            "width": 355,
+            "height": 215
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/mobile/hero-sections/04-further-faster.png"
+        },
+        {
+          "index": 14,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate the",
+          "text": "We believe Antler is the best place on the planet for people to launch category-defining companies.‍‍We’re not here to chase trends — we’re here to support founders to dedicate themselves to the most meaningful work of their lives.",
+          "rect": {
+            "x": 0,
+            "y": 1470,
+            "width": 390,
+            "height": 556
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/mobile/startup-showcase/05-we-believe-antler-is-the-best-place-on-the-planet-for-people-to-launch-category-defining-c.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "section_globe u-section",
+          "label": "Antler is the best place on the planet to grow your company",
+          "text": "Antler is the best place on the planet to grow your companyWith a presence in major technology ecosystems across the world we back the most driven entrepreneurs and give them the platform, capital, and community needed to create lasting impact.1,800portfolio companies12,000+founders supported24locations worldwide @container (max-width: 55.2rem) { .large_globe_wrap { display: none; } .globe_section_left { height: auto !important; } }",
+          "rect": {
+            "x": 0,
+            "y": 2026,
+            "width": 390,
+            "height": 482
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/mobile/startup-showcase/06-antler-is-the-best-place-on-the-planet-to-grow-your-company.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "FEATURED ANTLER —INSIGHTS",
+          "text": "FEATURED ANTLER —INSIGHTSInsightsThe Anatomy of Greatness: What Makes a Unicorn Founder?Antler’s report provides new insights on speed, geography, experience, and the changing profile of founders behind the world’s most valuable startups.‍Peter Sarlin on Building the Future: AI, Innovation, and Quantum Computing in Europe | The Further, Faster PodcastPeter Sarlin, co-founder and CEO of Silo AI, is a passionate advocate for European startups. He joins Antler founder and CEO Marcus Grimeland to discuss what the future might look like for the continent’s tech ecosystem ‍PodcastHow we built AntlerAntler Founder and CEO Magnus Grimeland on the origins of Antler, the rise of global entrepreneurship, and the mission to back outliers everywhere from inception. PodcastEurope's Execution Era: An Antler StudyAntler's latest report is one of the largest studies of tech founders in Europe. We’ve analysed more than 3,000 unicorn founders and 60,000 founders at the inception of their journey, uncovering Europe's rapid growth in an AI era of execution.‍Insights .hover_thumbnail { width: 100%; height: 100%; object-fit: cover; display: block; } @container (width < 70rem) { .featured-insights_layout ",
+          "rect": {
+            "x": 0,
+            "y": 2509,
+            "width": 390,
+            "height": 2001
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/mobile/hero-sections/07-featured-antler-insights.png"
+        },
+        {
+          "index": 17,
+          "tag": "div",
+          "id": "location-testimonials",
+          "className": "section_location_testimonials u-section",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 0,
+            "y": 4510,
+            "width": 390,
+            "height": 594
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/mobile/grid-systems/08-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 18,
+          "tag": "div",
+          "id": "",
+          "className": "location_testimonials_contain u-container",
+          "label": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list ",
+          "text": "@container (max-width: 65.5rem) { .testimonial_tab_btn_wrap { min-width: 20rem; } } .testimonial_tab_content_list > *:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: none; } .testimonial_tab_content_list > :first-child:not(.w-dyn-list), .testimonial_tab_content_list > .w-dyn-list > * > :first-child > *, .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > *:not(.w-dyn-list), .wf-design-mode .testimonial_tab_wrap[data-preview-content=\"true\"] .testimonial_tab_content_list > .w-dyn-list > * > * > * { display: block; } /* Convert all tab_content_list references → testimonial_tab_content_list */ :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > *, :is(.testimonial_tab_content_list, .testimonial_tab_button_list) > .w-dyn-list > * > * { display: contents; } .wf-design-mode .testimonial_tab_button_list > .testimonial_tab_btn_wrap:first-child, .wf-design-mode .testimonial_tab_button_list > .w-dyn-list > * > :first-child > .testimonial_tab_btn_wrap, .testimonial_tab_btn_wrap.is-active { opacity: 1; } ",
+          "rect": {
+            "x": 18,
+            "y": 4576,
+            "width": 355,
+            "height": 461
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/mobile/grid-systems/09-container-max-width-65-5rem-testimonial-tab-btn-wrap-min-width-20rem-testimonial-tab-conte.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_wrap w-dyn-list",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 0,
+            "y": 4576,
+            "width": 390,
+            "height": 360
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/mobile/navigation/10-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "testimonial_tab_content_list w-dyn-items",
+          "label": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and",
+          "text": "Antler was our first investor—an incubator of optimists. Joining Antler wasn’t just about funding; it was about surrounding ourselves with people who see potential, take risks, and build. For anyone wondering if they should take the leap with Antler, my answer is an optimistic YES. There’s a big chance it could change your life, and I would do it all over again if I could.Antler has been a great partner and Lovable is excited to support their mission to enable more people to build businesses that progress the world.Antler was instrumental in turning Capsa AI from an idea into reality. Their backing gave us the confidence, network, and capital to move fast—helping us refine our GTM, secure funding, and scale with private equity firms. For any founder looking to take the leap, Antler provides the right mix of support and challenge to make it happen.",
+          "rect": {
+            "x": 18,
+            "y": 4576,
+            "width": 355,
+            "height": 360
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/antler/mobile/navigation/11-antler-was-our-first-investor-an-incubator-of-optimists-joining-antler-wasn-t-just-about-f.png"
+        },
+        {
+          "index": 38,
+          "tag": "section",
+          "id": "",
+          "className": "section_founder-stories u-section",
+          "label": "FOUNDER —STORIES",
+          "text": "FOUNDER —STORIESFounder storiesFounder storiesFounder storiesAiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began wit",
+          "rect": {
+            "x": 0,
+            "y": 5103,
+            "width": 390,
+            "height": 564
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/mobile/hero-sections/12-founder-stories.png"
+        },
+        {
+          "index": 39,
+          "tag": "div",
+          "id": "",
+          "className": "featured-posts_cms_wrap swiper w-dyn-list swiper-initialized swiper-horizontal swiper-pointer-events",
+          "label": "Airalo",
+          "text": "AiraloAhmet Bahadir Ozdemir, CEO of the eSIM industry’s first unicorn, credits a down-to-earth approach for his company’s stunning rise. .founder-story_description { padding-top: 0.1em; } Spiraldot HealthTalha Basit is building the AI infrastructure for modern cancer care — helping clinicians make faster, more informed treatment decisions.. .founder-story_description { padding-top: 0.1em; } SalmonFounded by former Tinkoff executives, Salmon has raised $100m to build a digital bank for the Philippines’ mobile-first generation.‍‍ .founder-story_description { padding-top: 0.1em; } HarperHarper has raised $46.8m to rebuild commercial insurance from the ground up, replacing manual workflows with an AI-native operating model.‍ .founder-story_description { padding-top: 0.1em; } ReboltIn just 18 months, Rebolt has grown from an idea into a multi-million ARR company serving thousands of home service businesses. .founder-story_description { padding-top: 0.1em; } AminoChainAminoChain's decentralized network of biobanks could transform the medical research market. .founder-story_description { padding-top: 0.1em; } MarcoWhat began with two founders meeting at Antler has grown into a fintech pla",
+          "rect": {
+            "x": 3,
+            "y": 5230,
+            "width": 383,
+            "height": 311
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/antler/mobile/hero-sections/13-airalo.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES A",
+          "text": "ANTLER ELEVATE SCALE-UP CAPITAL FROM SERIES AOur emerging growth fund, Antler Elevate, provides scale-up capital from Series A onwards to propel the next generation of remarkable founders on their paths to greatness.Learn moreLearn moreLearn more",
+          "rect": {
+            "x": 0,
+            "y": 5667,
+            "width": 390,
+            "height": 624
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/antler/mobile/startup-showcase/14-antler-elevate-scale-up-capital-from-series-a.png"
+        },
+        {
+          "index": 41,
+          "tag": "section",
+          "id": "",
+          "className": "u-section",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 0,
+            "y": 6291,
+            "width": 390,
+            "height": 321
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/mobile/ecosystem-maps/15-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "cta1_wrap u-margin-top-8",
+          "label": "SIGN UP TO OUR NEWSLETTER",
+          "text": "SIGN UP TO OUR NEWSLETTERStay updated with stories, trends, and perspectives from Antler’s global community.Sign upSign upSign up @container(max-width: 58rem) { .cta1_visual_wrap { display: none; } }",
+          "rect": {
+            "x": 18,
+            "y": 6291,
+            "width": 355,
+            "height": 272
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/mobile/ecosystem-maps/16-sign-up-to-our-newsletter.png"
+        },
+        {
+          "index": 48,
+          "tag": "footer",
+          "id": "",
+          "className": "footer_wrap u-section",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / TwitterSubscribe to our newsletterGet the latest news and views from Antler’s global community. hbspt.forms.create({ region: \"eu1\", portalId: \"143614254\", formId: \"c3da438f-cab2-41e1-ac88-5ee9f3b531fa\" }); document.addEventListener(\"DOMContentLoaded\", function () { document.querySelectorAll(\"[data-dynamic-year]\").forEach(function (el) { el.textContent = new Date().getFullYear(); }); }); @media (hover: hover) { .footer_group_list:has(> :hover) > :not(:hover) { opacity: 0.4; } .footer_locations_list:has(> :hover) > :not(:hover) { opacity: 0.4; } } @container(max-width: 73.5rem) { .footer_top_inner { display: flex; flex-direction: column } .footer_nav { max-width: 100%; } .footer_img_wrap { display: none; } } @container (max-width: 45rem) { .footer_group_wrap.is-locations { width: 100%; } .footer_content { min-width: 1",
+          "rect": {
+            "x": 0,
+            "y": 6612,
+            "width": 390,
+            "height": 1183
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/mobile/ecosystem-maps/17-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 49,
+          "tag": "nav",
+          "id": "",
+          "className": "footer_layout",
+          "label": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUS",
+          "text": "© 2026 Copyright. All Rights Reserved.LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnamINVESTORSInvestorsInvestors portalSustainabilityAntler ElevateABOUTInsightsPortfolioCareersPortfolio JobsNewsroomPrivacy PolicyReport a ConcernSOCIALSInstagramFacebookLinkedInYouTubeX / Twitter",
+          "rect": {
+            "x": 18,
+            "y": 6678,
+            "width": 355,
+            "height": 736
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/antler/mobile/grid-systems/18-2026-copyright-all-rights-reserved-locationsaustraliabrazilcanadadenmarkfinlandfrancegerma.png"
+        },
+        {
+          "index": 50,
+          "tag": "section",
+          "id": "w-node-_29394d2f-cd0c-8059-7e15-66f9381499ce-3814999f",
+          "className": "footer_group_wrap is-locations",
+          "label": "locations",
+          "text": "LOCATIONSAustraliaBrazilCanadaDenmarkFinlandFranceGermanyIndiaIndonesiaJapanKenyaKoreaMENAPMalaysiaNetherlandsNigeriaNorwaySingaporeSwedenUKUSVietnam",
+          "rect": {
+            "x": 18,
+            "y": 6795,
+            "width": 355,
+            "height": 276
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/antler/mobile/ecosystem-maps/19-locations.png"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2507 @@
+{
+  "site": {
+    "name": "Ratan Tata Incubation Hub / RTIH current site",
+    "slug": "rtih-current",
+    "url": "https://rtih.co.in/",
+    "category": "current-rth",
+    "priority": 0,
+    "notes": "Current institutional homepage linked from the public RTIH careers page. Verify with stakeholder if this is not the canonical production URL."
+  },
+  "capturedAt": "2026-05-22T07:27:32.213Z",
+  "viewports": {
+    "desktop": {
+      "title": "Ratan Tata Innovation Hub (RTIH)- Andhra Pradesh",
+      "finalUrl": "https://rtih.co.in/",
+      "language": "en",
+      "fontFamilies": [
+        "Figtree, sans-serif",
+        "Roboto",
+        "Arial",
+        "Figtree, system-ui, sans-serif"
+      ],
+      "colors": [
+        "rgb(17, 24, 39)",
+        "rgb(68, 71, 78)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 38, 90)",
+        "rgb(26, 27, 31)",
+        "rgb(0, 92, 187)",
+        "rgb(43, 49, 69)",
+        "rgb(75, 31, 111)",
+        "rgb(23, 32, 51)",
+        "rgb(74, 85, 104)",
+        "rgb(38, 26, 0)",
+        "rgba(255, 255, 255, 0.9)",
+        "rgb(0, 0, 0)",
+        "rgb(75, 30, 131)",
+        "rgb(195, 69, 7)",
+        "rgb(38, 37, 102)",
+        "rgb(51, 51, 51)",
+        "rgb(103, 47, 143)",
+        "rgb(79, 16, 125)",
+        "rgb(30, 42, 80)",
+        "rgb(91, 100, 117)",
+        "rgb(255, 209, 26)",
+        "rgb(34, 34, 34)",
+        "rgb(31, 27, 46)"
+      ],
+      "backgroundColors": [
+        "rgba(238, 240, 243, 0.92)",
+        "rgb(255, 255, 255)",
+        "rgb(124, 2, 35)",
+        "rgb(242, 169, 0)",
+        "rgb(58, 28, 96)",
+        "rgb(255, 209, 26)",
+        "rgb(91, 42, 134)",
+        "rgb(250, 250, 250)",
+        "rgb(103, 47, 143)",
+        "rgba(75, 30, 131, 0.85)",
+        "rgb(75, 30, 131)",
+        "rgba(30, 42, 80, 0.1)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "InnoTribe",
+          "fontSize": "30px",
+          "fontWeight": "700",
+          "lineHeight": "33px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sunrise Connects",
+          "fontSize": "30px",
+          "fontWeight": "700",
+          "lineHeight": "33px"
+        },
+        {
+          "tag": "h1",
+          "text": "Empowering Innovation.Enabling Growth.",
+          "fontSize": "44.8px",
+          "fontWeight": "700",
+          "lineHeight": "53.76px"
+        },
+        {
+          "tag": "h2",
+          "text": "What is RTIH?",
+          "fontSize": "28px",
+          "fontWeight": "800",
+          "lineHeight": "33.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ratan Tata Innovation Hub Designed to",
+          "fontSize": "16.38px",
+          "fontWeight": "800",
+          "lineHeight": "26.208px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes RTIH unique?",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "36.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Hub & Spoke Model",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Inclusivity & Diversity",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Integration",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sectoral Focus",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Academia-Industry Collaboration",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Policy Targets",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h2",
+          "text": "Focus Segments",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startup Acceleration",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentorship & Strategy",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Seed Funding & Investor Connect",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Co-working & Infrastructure",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Legal & IP Assistance",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Go-to-Market Support",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pitch Platforms & Demo Days",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Networking & Partnerships",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h2",
+          "text": "Partner With Us",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "36.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        },
+        {
+          "tag": "h3",
+          "text": "Investors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Hackthons and Challenges",
+          "href": "https://rtih.co.in/hackthons-challenges"
+        },
+        {
+          "text": "Sunrise Connects",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Amaravati Hub",
+          "href": "https://rtih.co.in/location/amaravati"
+        },
+        {
+          "text": "Ananthapuramu",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Rajamahendravaram",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "AI Hackthons",
+          "href": "https://rtgs.ap.gov.in/hackathons/#/home/index"
+        },
+        {
+          "text": "InnoTribe",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "Loan mela bankers connect",
+          "href": "https://apis.ap.gov.in/loan_mela/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Tenders",
+          "href": "https://rtih.co.in/tenders"
+        },
+        {
+          "text": "",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/home"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "View InnoTribearrow_forward",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "View Sunrise Connectsarrow_forward",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Join as a Start-up",
+          "href": "https://forms.gle/xbZGotkiuzjaHaFs9"
+        },
+        {
+          "text": "Explore the Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Partner with Us",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "Alternate Energy for Resilient Andhra (AP-AER Mission) - Calling for solution to address the ongoing energy crises - App",
+          "href": "https://rtih-govtech.softpages.in/challenge/ap-aer"
+        },
+        {
+          "text": "InnoTribe - Inviting Colleges to set up Innovation and Entrepreneurship Cell in their campuses - Apply Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfnX3mdVSXVcElJO3YgKEklW5NLQy3vKcxlkefDGEp_Hwoc7w/viewform"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Rajahmundry",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Anantapur",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Join Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfIHCyne5Gbfo7Wbhx-zsq6Rz4iCqDlCM72pfHx47oypYbhOQ/viewform?usp=sharing&ouid=110257595124980297744"
+        },
+        {
+          "text": "Become a Partner Today",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "+91 7396603335",
+          "href": "tel:+917396603335"
+        },
+        {
+          "text": "connect@rtih.co.in",
+          "href": "mailto:connect@rtih.co.in"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/share/1DYH9dGWJT/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/RTIH_AP?t=lIRZNQfSwwl47PH0Kdd2Kg&s=08"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/rtih_ap/?igsh=NXE4bnVuZzRncjBj#"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/rtih-ap"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "AP Start-Up Portal",
+          "href": "https://apis.ap.gov.in/#/home/login/"
+        },
+        {
+          "text": "Resources",
+          "href": "https://rtih.co.in/resources"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Contact Support",
+          "href": "https://rtih.co.in/contact"
+        },
+        {
+          "text": "Feedback & Grievances",
+          "href": "https://rtih.co.in/grievances"
+        },
+        {
+          "text": "FAQs",
+          "href": "https://rtih.co.in/faqs"
+        },
+        {
+          "text": "Subscribe",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSf638cCZ_3ul_7zy78LW50k1vsSOs3W-pzOhTIf2SqTUwfUew/viewform?usp=dialog"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://rtih.co.in/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://rtih.co.in/terms"
+        },
+        {
+          "text": "RTI",
+          "href": "https://rtih.co.in/rti"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "header",
+          "id": "",
+          "className": "rti-header mat-elevation-z2",
+          "label": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "text": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 80
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/01-menuhomeabout-rtih-programs-events-locations-partners-what-s-new-opportunities.png"
+        },
+        {
+          "index": 11,
+          "tag": "section",
+          "id": "",
+          "className": "rti-banner",
+          "label": "Empowering Innovation.Enabling Growth.",
+          "text": "Sri Nara Chandrababu NaiduHon’ble Chief Minister of Andhra PradeshSri Nara LokeshHon’ble Minister for IT Electronics & Communication; RTG, HR Development Empowering Innovation.Enabling Growth.Ratan Tata Innovation Hub is a flagship initiative that brings to life the Hon’ble Chief Minister Mr. N. Chandrababu Naidu’s visionary mission of One Family, One Entrepreneur. Join as a Start-upExplore the ProgramsPartner with Us",
+          "rect": {
+            "x": 0,
+            "y": 80,
+            "width": 1440,
+            "height": 700
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/desktop/cta-systems/02-empowering-innovation-enabling-growth.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "portal-popup-column portal-popup-column--innotribe",
+          "label": "InnoTribe",
+          "text": "rocket_launchInnoTribe A student innovation and entrepreneurship pathway from idea discovery to prototype validation, demo days, and incubation readiness. routeIdea to incubation journeygroupsCampus cohorts and mentoringemoji_eventsShowcases and demo daysView InnoTribearrow_forward",
+          "rect": {
+            "x": 269,
+            "y": 312,
+            "width": 442,
+            "height": 439
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/desktop/grid-systems/03-innotribe.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "about-rtih",
+          "label": "What is RTIH?",
+          "text": "What is RTIH?Ratan Tata Innovation Hub is Andhra Pradesh's flagship initiative to transform the state into a global startup hub. Operating on a Hub-and-Spoke model, RTIH at Amaravati acts as the central hub, supported by five regional centers across Visakhapatnam, Vijayawada, Rajahmundry, Tirupati, and Anantapur. Ratan Tata Innovation Hub Designed toNurture innovation and entrepreneurship across the stateConnect startups with markets, research, and government initiativesDrive cutting-edge innovation in AI, biotech, clean energy, advanced manufacturing, and emerging technologiesPromote inclusivity by supporting women, rural innovators, and underrepresented groups",
+          "rect": {
+            "x": 0,
+            "y": 829,
+            "width": 1440,
+            "height": 644
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/04-what-is-rtih.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "rti-stats",
+          "label": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "text": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "rect": {
+            "x": 0,
+            "y": 1473,
+            "width": 1440,
+            "height": 239
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/desktop/grid-systems/05-20-000start-ups-to-be-created1-lakhjobs-to-be-created-by-202920-enable-20-soonicorns10-ena.png"
+        },
+        {
+          "index": 23,
+          "tag": "section",
+          "id": "",
+          "className": "unique-ap",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.Hub & Spoke ModelCentralized coordination with district-level execution for maximum reach and impact.Inclusivity & DiversityEmpowering women, rural entrepreneurs, and underrepresented communities.Digital IntegrationSeamless Startup One portal for simplified processes and reduced bureaucracy.VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati HubSectoral FocusTargeted support across agriculture, healthcare, fintech, and emerging technologies.Academia-Industry CollaborationStrong partnerships between educational institutions and industry leaders.Policy TargetsClear roadmap with measurable goals for startup ecosystem development.",
+          "rect": {
+            "x": 0,
+            "y": 1712,
+            "width": 1440,
+            "height": 661
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/desktop/hero-sections/07-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 24,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.",
+          "rect": {
+            "x": 270,
+            "y": 1752,
+            "width": 900,
+            "height": 90
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/desktop/ecosystem-maps/08-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "ap-map-placed",
+          "label": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "text": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "rect": {
+            "x": 440,
+            "y": 1870,
+            "width": 560,
+            "height": 464
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/desktop/ecosystem-maps/09-visakhapatnamrajamahendravaramvijayawadatirupatiananthapuramuamaravati-hub.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "focus-segments",
+          "className": "focus-segments",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey. StartupsMSME’sRural EntrepreneurshipInnovators1Startup AccelerationStructured programs to refine business models and fast-track growth.2Mentorship & StrategyAccess to seasoned entrepreneurs, domain experts and business coaches.3Seed Funding & Investor ConnectSupport in raising capital through grants, angel networks, and VCs.4Co-working & InfrastructureAffordable workspace, labs, and shared resources for product development.5Legal & IP AssistanceHelp with company incorporation, IP filing, and regulatory compliance.6Go-to-Market SupportGuidance on market entry, customer acquisition, and pilot deployments.7Pitch Platforms & Demo DaysOpportunities to present to investors, corporates, and ecosystem enablers.8Networking & PartnershipsConnect with industry, academia, and government for strategic growth.chevron_leftchevron_right",
+          "rect": {
+            "x": 0,
+            "y": 2373,
+            "width": 1440,
+            "height": 563
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/10-focus-segments.png"
+        },
+        {
+          "index": 27,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey.",
+          "rect": {
+            "x": 136,
+            "y": 2432,
+            "width": 1168,
+            "height": 99
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/desktop/ecosystem-maps/11-focus-segments.png"
+        },
+        {
+          "index": 29,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Startup Acceleration",
+          "text": "1Startup AccelerationStructured programs to refine business models and fast-track growth.",
+          "rect": {
+            "x": 0,
+            "y": 2632,
+            "width": 276,
+            "height": 248
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/12-startup-acceleration.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "partner-us",
+          "className": "partner",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem. Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.InvestorsFuel innovation by investing in high-potential startups. RTIH connects investors with curated, promising ventures across diverse sectors.Why Partner as an Investor?✔Access to a pipeline of innovative startups.✔Opportunities for strategic investments and collaborations.✔Be part of a growing entrepreneurial ecosystem.CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic",
+          "rect": {
+            "x": 0,
+            "y": 2936,
+            "width": 1440,
+            "height": 886
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/13-partner-with-us.png"
+        },
+        {
+          "index": 38,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem.",
+          "rect": {
+            "x": 270,
+            "y": 2976,
+            "width": 900,
+            "height": 102
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/desktop/ecosystem-maps/14-partner-with-us.png"
+        },
+        {
+          "index": 39,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Mentors",
+          "text": "Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.",
+          "rect": {
+            "x": 120,
+            "y": 3103,
+            "width": 590,
+            "height": 316
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/desktop/hero-sections/15-mentors.png"
+        },
+        {
+          "index": 41,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Corporates",
+          "text": "CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic alliances with startups and innovators.✔Strengthen your brand as an innovation leader.",
+          "rect": {
+            "x": 120,
+            "y": 3439,
+            "width": 590,
+            "height": 384
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/16-corporates.png"
+        },
+        {
+          "index": 43,
+          "tag": "section",
+          "id": "",
+          "className": "cta-partner",
+          "label": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "text": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "rect": {
+            "x": 0,
+            "y": 3823,
+            "width": 1440,
+            "height": 223
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/desktop/cta-systems/17-join-us-in-building-a-world-class-innovation-ecosystem-become-a-partner-today.png"
+        },
+        {
+          "index": 44,
+          "tag": "section",
+          "id": "",
+          "className": "partners",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship Corporate Partners ❮ ❯ Knowledge Partners ❮ ❯ Join 200+ organizations already partnering with RTIH",
+          "rect": {
+            "x": 0,
+            "y": 4046,
+            "width": 1440,
+            "height": 726
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/desktop/cta-systems/18-our-partners.png"
+        },
+        {
+          "index": 45,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship",
+          "rect": {
+            "x": 260,
+            "y": 4106,
+            "width": 920,
+            "height": 102
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/desktop/ecosystem-maps/19-our-partners.png"
+        },
+        {
+          "index": 47,
+          "tag": "section",
+          "id": "",
+          "className": "faq",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh1. What is Ratan Tata Innovation Hub (RTIH)?−RTIH is a state-wide initiative set up by the Government of Andhra Pradesh to promote innovation, entrepreneurship, and industry–academia collaboration. It acts as a central point of support for startups and innovators.2. What is the vision behind establishing the Ratan Tata Innovation Hub (RTIH)?+The RTIH was established to nurture grassroots innovation, empower entrepreneurs, and create a vibrant startup ecosystem in Andhra Pradesh, with a vision to enable “One Family One Entrepreneur” and honor Ratan Tata’s legacy of innovation and social responsibility.3. Where is RTIH located?+The central hub is set up at Amaravati, with Spokes in Vijayawada, Visakhapatnam, Tirupati, Anantapuram, and Rajamahendravaram, collectively extending innovation support to all corners of the state.4. Who can apply for RTIH support?+Startups, entrepreneurs, MSMEs, students, grassroots innovators, women, differently abled and minority entrepreneurs, corporate partners, and academic institutions are eligible to apply for support under the Ratan Tata Innovation ",
+          "rect": {
+            "x": 0,
+            "y": 4772,
+            "width": 1440,
+            "height": 644
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/20-frequently-asked-questions.png"
+        },
+        {
+          "index": 48,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh",
+          "rect": {
+            "x": 280,
+            "y": 4812,
+            "width": 880,
+            "height": 92
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/21-frequently-asked-questions.png"
+        },
+        {
+          "index": 50,
+          "tag": "footer",
+          "id": "rtih-contact",
+          "className": "rti-footer",
+          "label": "Quick Links",
+          "text": "Andhra Pradesh's premier innovation hub, fostering entrepreneurship and technology development across the state through our hub-and-spoke model. 4th Floor, Mayuri tech park, Mangalagiri, GunturAndhra Pradesh 522503+91 7396603335 connect@rtih.co.in Available on Monday to Friday 10:30 am -5:30 pm(except public holidays)Quick LinksAbout RTIHProgramsAP Start-Up PortalResourcesEventsCareersSupport & ServicesContact SupportFeedback & GrievancesFAQsStay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe© 2025 Government of Andhra Pradesh. All rights reserved.Privacy PolicyTerms of ServiceRTIDesigned and Developed by",
+          "rect": {
+            "x": 0,
+            "y": 5417,
+            "width": 1440,
+            "height": 561
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/22-quick-links.png"
+        },
+        {
+          "index": 51,
+          "tag": "div",
+          "id": "",
+          "className": "col col--cta",
+          "label": "Stay Updated",
+          "text": "Stay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe",
+          "rect": {
+            "x": 1119,
+            "y": 5457,
+            "width": 301,
+            "height": 399
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/desktop/navigation/23-stay-updated.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Ratan Tata Innovation Hub (RTIH)- Andhra Pradesh",
+      "finalUrl": "https://rtih.co.in/",
+      "language": "en",
+      "fontFamilies": [
+        "Figtree, sans-serif",
+        "Roboto",
+        "Arial",
+        "Figtree, system-ui, sans-serif"
+      ],
+      "colors": [
+        "rgb(17, 24, 39)",
+        "rgb(68, 71, 78)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 38, 90)",
+        "rgb(26, 27, 31)",
+        "rgb(0, 92, 187)",
+        "rgb(43, 49, 69)",
+        "rgb(75, 31, 111)",
+        "rgb(23, 32, 51)",
+        "rgb(74, 85, 104)",
+        "rgb(38, 26, 0)",
+        "rgba(255, 255, 255, 0.9)",
+        "rgb(0, 0, 0)",
+        "rgb(75, 30, 131)",
+        "rgb(195, 69, 7)",
+        "rgb(38, 37, 102)",
+        "rgb(51, 51, 51)",
+        "rgb(103, 47, 143)",
+        "rgb(79, 16, 125)",
+        "rgb(30, 42, 80)",
+        "rgb(91, 100, 117)",
+        "rgb(255, 209, 26)",
+        "rgb(34, 34, 34)",
+        "rgb(31, 27, 46)"
+      ],
+      "backgroundColors": [
+        "rgba(238, 240, 243, 0.92)",
+        "rgb(255, 255, 255)",
+        "rgb(124, 2, 35)",
+        "rgb(242, 169, 0)",
+        "rgb(58, 28, 96)",
+        "rgb(255, 209, 26)",
+        "rgb(91, 42, 134)",
+        "rgb(250, 250, 250)",
+        "rgb(103, 47, 143)",
+        "rgba(75, 30, 131, 0.85)",
+        "rgb(75, 30, 131)",
+        "rgba(30, 42, 80, 0.1)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "InnoTribe",
+          "fontSize": "23px",
+          "fontWeight": "700",
+          "lineHeight": "25.3px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sunrise Connects",
+          "fontSize": "23px",
+          "fontWeight": "700",
+          "lineHeight": "25.3px"
+        },
+        {
+          "tag": "h1",
+          "text": "Empowering Innovation.Enabling Growth.",
+          "fontSize": "44.8px",
+          "fontWeight": "700",
+          "lineHeight": "53.76px"
+        },
+        {
+          "tag": "h2",
+          "text": "What is RTIH?",
+          "fontSize": "28px",
+          "fontWeight": "800",
+          "lineHeight": "33.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ratan Tata Innovation Hub Designed to",
+          "fontSize": "16.38px",
+          "fontWeight": "800",
+          "lineHeight": "26.208px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes RTIH unique?",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "36.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Hub & Spoke Model",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Inclusivity & Diversity",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Integration",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sectoral Focus",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Academia-Industry Collaboration",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h3",
+          "text": "Policy Targets",
+          "fontSize": "16.8px",
+          "fontWeight": "800",
+          "lineHeight": "26.88px"
+        },
+        {
+          "tag": "h2",
+          "text": "Focus Segments",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startup Acceleration",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentorship & Strategy",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Seed Funding & Investor Connect",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Co-working & Infrastructure",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Legal & IP Assistance",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Go-to-Market Support",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pitch Platforms & Demo Days",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Networking & Partnerships",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h2",
+          "text": "Partner With Us",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "36.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        },
+        {
+          "tag": "h3",
+          "text": "Investors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Hackthons and Challenges",
+          "href": "https://rtih.co.in/hackthons-challenges"
+        },
+        {
+          "text": "Sunrise Connects",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Amaravati Hub",
+          "href": "https://rtih.co.in/location/amaravati"
+        },
+        {
+          "text": "Ananthapuramu",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Rajamahendravaram",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "AI Hackthons",
+          "href": "https://rtgs.ap.gov.in/hackathons/#/home/index"
+        },
+        {
+          "text": "InnoTribe",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "Loan mela bankers connect",
+          "href": "https://apis.ap.gov.in/loan_mela/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Tenders",
+          "href": "https://rtih.co.in/tenders"
+        },
+        {
+          "text": "",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/home"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "View InnoTribearrow_forward",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "View Sunrise Connectsarrow_forward",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Join as a Start-up",
+          "href": "https://forms.gle/xbZGotkiuzjaHaFs9"
+        },
+        {
+          "text": "Explore the Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Partner with Us",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "Alternate Energy for Resilient Andhra (AP-AER Mission) - Calling for solution to address the ongoing energy crises - App",
+          "href": "https://rtih-govtech.softpages.in/challenge/ap-aer"
+        },
+        {
+          "text": "InnoTribe - Inviting Colleges to set up Innovation and Entrepreneurship Cell in their campuses - Apply Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfnX3mdVSXVcElJO3YgKEklW5NLQy3vKcxlkefDGEp_Hwoc7w/viewform"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Rajahmundry",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Anantapur",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Join Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfIHCyne5Gbfo7Wbhx-zsq6Rz4iCqDlCM72pfHx47oypYbhOQ/viewform?usp=sharing&ouid=110257595124980297744"
+        },
+        {
+          "text": "Become a Partner Today",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "+91 7396603335",
+          "href": "tel:+917396603335"
+        },
+        {
+          "text": "connect@rtih.co.in",
+          "href": "mailto:connect@rtih.co.in"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/share/1DYH9dGWJT/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/RTIH_AP?t=lIRZNQfSwwl47PH0Kdd2Kg&s=08"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/rtih_ap/?igsh=NXE4bnVuZzRncjBj#"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/rtih-ap"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "AP Start-Up Portal",
+          "href": "https://apis.ap.gov.in/#/home/login/"
+        },
+        {
+          "text": "Resources",
+          "href": "https://rtih.co.in/resources"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Contact Support",
+          "href": "https://rtih.co.in/contact"
+        },
+        {
+          "text": "Feedback & Grievances",
+          "href": "https://rtih.co.in/grievances"
+        },
+        {
+          "text": "FAQs",
+          "href": "https://rtih.co.in/faqs"
+        },
+        {
+          "text": "Subscribe",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSf638cCZ_3ul_7zy78LW50k1vsSOs3W-pzOhTIf2SqTUwfUew/viewform?usp=dialog"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://rtih.co.in/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://rtih.co.in/terms"
+        },
+        {
+          "text": "RTI",
+          "href": "https://rtih.co.in/rti"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "header",
+          "id": "",
+          "className": "rti-header mat-elevation-z2",
+          "label": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "text": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 80
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/01-menuhomeabout-rtih-programs-events-locations-partners-what-s-new-opportunities.png"
+        },
+        {
+          "index": 11,
+          "tag": "section",
+          "id": "",
+          "className": "rti-banner",
+          "label": "Empowering Innovation.Enabling Growth.",
+          "text": "Sri Nara Chandrababu NaiduHon’ble Chief Minister of Andhra PradeshSri Nara LokeshHon’ble Minister for IT Electronics & Communication; RTG, HR Development Empowering Innovation.Enabling Growth.Ratan Tata Innovation Hub is a flagship initiative that brings to life the Hon’ble Chief Minister Mr. N. Chandrababu Naidu’s visionary mission of One Family, One Entrepreneur. Join as a Start-upExplore the ProgramsPartner with Us",
+          "rect": {
+            "x": 0,
+            "y": 80,
+            "width": 834,
+            "height": 667
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/tablet/cta-systems/02-empowering-innovation-enabling-growth.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "portal-popup-column portal-popup-column--innotribe",
+          "label": "InnoTribe",
+          "text": "rocket_launchInnoTribe A student innovation and entrepreneurship pathway from idea discovery to prototype validation, demo days, and incubation readiness. routeIdea to incubation journeygroupsCampus cohorts and mentoringemoji_eventsShowcases and demo daysView InnoTribearrow_forward",
+          "rect": {
+            "x": 53,
+            "y": 288,
+            "width": 728,
+            "height": 408
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/tablet/grid-systems/03-innotribe.png"
+        },
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "portal-popup-column portal-popup-column--sunrise",
+          "label": "Sunrise Connects",
+          "text": "hubSunrise Connects A platform for ecosystem engagement, startup discovery, innovation conversations, and partner-led opportunities across RTIH networks. diversity_3Startup and partner connectsforumEcosystem conversationsevent_availablePrograms and opportunitiesView Sunrise Connectsarrow_forward",
+          "rect": {
+            "x": 53,
+            "y": 714,
+            "width": 728,
+            "height": 408
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/tablet/hero-sections/04-sunrise-connects.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "about-rtih",
+          "label": "What is RTIH?",
+          "text": "What is RTIH?Ratan Tata Innovation Hub is Andhra Pradesh's flagship initiative to transform the state into a global startup hub. Operating on a Hub-and-Spoke model, RTIH at Amaravati acts as the central hub, supported by five regional centers across Visakhapatnam, Vijayawada, Rajahmundry, Tirupati, and Anantapur. Ratan Tata Innovation Hub Designed toNurture innovation and entrepreneurship across the stateConnect startups with markets, research, and government initiativesDrive cutting-edge innovation in AI, biotech, clean energy, advanced manufacturing, and emerging technologiesPromote inclusivity by supporting women, rural innovators, and underrepresented groups",
+          "rect": {
+            "x": 0,
+            "y": 796,
+            "width": 834,
+            "height": 1268
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/05-what-is-rtih.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "rti-stats",
+          "label": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "text": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "rect": {
+            "x": 0,
+            "y": 2064,
+            "width": 834,
+            "height": 516
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/tablet/grid-systems/06-20-000start-ups-to-be-created1-lakhjobs-to-be-created-by-202920-enable-20-soonicorns10-ena.png"
+        },
+        {
+          "index": 23,
+          "tag": "section",
+          "id": "",
+          "className": "unique-ap",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.Hub & Spoke ModelCentralized coordination with district-level execution for maximum reach and impact.Inclusivity & DiversityEmpowering women, rural entrepreneurs, and underrepresented communities.Digital IntegrationSeamless Startup One portal for simplified processes and reduced bureaucracy.VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati HubSectoral FocusTargeted support across agriculture, healthcare, fintech, and emerging technologies.Academia-Industry CollaborationStrong partnerships between educational institutions and industry leaders.Policy TargetsClear roadmap with measurable goals for startup ecosystem development.",
+          "rect": {
+            "x": 0,
+            "y": 2580,
+            "width": 834,
+            "height": 1268
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/tablet/hero-sections/10-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 24,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.",
+          "rect": {
+            "x": 16,
+            "y": 2620,
+            "width": 802,
+            "height": 90
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/tablet/ecosystem-maps/11-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "ap-map-placed",
+          "label": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "text": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "rect": {
+            "x": 16,
+            "y": 2950,
+            "width": 802,
+            "height": 647
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/tablet/ecosystem-maps/12-visakhapatnamrajamahendravaramvijayawadatirupatiananthapuramuamaravati-hub.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "focus-segments",
+          "className": "focus-segments",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey. StartupsMSME’sRural EntrepreneurshipInnovators1Startup AccelerationStructured programs to refine business models and fast-track growth.2Mentorship & StrategyAccess to seasoned entrepreneurs, domain experts and business coaches.3Seed Funding & Investor ConnectSupport in raising capital through grants, angel networks, and VCs.4Co-working & InfrastructureAffordable workspace, labs, and shared resources for product development.5Legal & IP AssistanceHelp with company incorporation, IP filing, and regulatory compliance.6Go-to-Market SupportGuidance on market entry, customer acquisition, and pilot deployments.7Pitch Platforms & Demo DaysOpportunities to present to investors, corporates, and ecosystem enablers.8Networking & PartnershipsConnect with industry, academia, and government for strategic growth.chevron_leftchevron_right",
+          "rect": {
+            "x": 0,
+            "y": 3848,
+            "width": 834,
+            "height": 633
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/13-focus-segments.png"
+        },
+        {
+          "index": 27,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey.",
+          "rect": {
+            "x": 49,
+            "y": 3907,
+            "width": 735,
+            "height": 99
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/tablet/ecosystem-maps/14-focus-segments.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "partner-us",
+          "className": "partner",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem. Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.InvestorsFuel innovation by investing in high-potential startups. RTIH connects investors with curated, promising ventures across diverse sectors.Why Partner as an Investor?✔Access to a pipeline of innovative startups.✔Opportunities for strategic investments and collaborations.✔Be part of a growing entrepreneurial ecosystem.CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic",
+          "rect": {
+            "x": 0,
+            "y": 4482,
+            "width": 834,
+            "height": 1469
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/15-partner-with-us.png"
+        },
+        {
+          "index": 38,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem.",
+          "rect": {
+            "x": 16,
+            "y": 4522,
+            "width": 802,
+            "height": 102
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/tablet/ecosystem-maps/16-partner-with-us.png"
+        },
+        {
+          "index": 39,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Mentors",
+          "text": "Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.",
+          "rect": {
+            "x": 16,
+            "y": 4648,
+            "width": 802,
+            "height": 294
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/tablet/hero-sections/17-mentors.png"
+        },
+        {
+          "index": 40,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Investors",
+          "text": "InvestorsFuel innovation by investing in high-potential startups. RTIH connects investors with curated, promising ventures across diverse sectors.Why Partner as an Investor?✔Access to a pipeline of innovative startups.✔Opportunities for strategic investments and collaborations.✔Be part of a growing entrepreneurial ecosystem.",
+          "rect": {
+            "x": 16,
+            "y": 4962,
+            "width": 802,
+            "height": 294
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/rtih-current/tablet/startup-showcase/18-investors.png"
+        },
+        {
+          "index": 41,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Corporates",
+          "text": "CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic alliances with startups and innovators.✔Strengthen your brand as an innovation leader.",
+          "rect": {
+            "x": 16,
+            "y": 5276,
+            "width": 802,
+            "height": 294
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/19-corporates.png"
+        },
+        {
+          "index": 42,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "RTIH-Outposts",
+          "text": "RTIH-OutpostsRTIH-Outposts are institutional partners within the RTIH statewide innovation network—enabling universities, colleges, and regional centres to deliver startup support locally, with shared access to mentors, investors, programs, and platforms aligned to the AP Innovation & Startup Policy 2024–29.Why Partner as an RTIH-Outpost?✔Become part of Andhra Pradesh’s policy-aligned innovation ecosystem.✔Extend high-quality startup support to your region with statewide backing.✔Access shared mentors, investors, programs, and digital platforms.✔Build your incubation capacity and credibility✔Help local startups contribute to jobs and regional growth.",
+          "rect": {
+            "x": 16,
+            "y": 5590,
+            "width": 802,
+            "height": 361
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/20-rtih-outposts.png"
+        },
+        {
+          "index": 43,
+          "tag": "section",
+          "id": "",
+          "className": "cta-partner",
+          "label": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "text": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "rect": {
+            "x": 0,
+            "y": 5951,
+            "width": 834,
+            "height": 218
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/tablet/cta-systems/21-join-us-in-building-a-world-class-innovation-ecosystem-become-a-partner-today.png"
+        },
+        {
+          "index": 44,
+          "tag": "section",
+          "id": "",
+          "className": "partners",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship Corporate Partners ❮ ❯ Knowledge Partners ❮ ❯ Join 200+ organizations already partnering with RTIH",
+          "rect": {
+            "x": 0,
+            "y": 6169,
+            "width": 834,
+            "height": 726
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/tablet/cta-systems/22-our-partners.png"
+        },
+        {
+          "index": 45,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship",
+          "rect": {
+            "x": 16,
+            "y": 6229,
+            "width": 802,
+            "height": 102
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/tablet/ecosystem-maps/23-our-partners.png"
+        },
+        {
+          "index": 47,
+          "tag": "section",
+          "id": "",
+          "className": "faq",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh1. What is Ratan Tata Innovation Hub (RTIH)?−RTIH is a state-wide initiative set up by the Government of Andhra Pradesh to promote innovation, entrepreneurship, and industry–academia collaboration. It acts as a central point of support for startups and innovators.2. What is the vision behind establishing the Ratan Tata Innovation Hub (RTIH)?+The RTIH was established to nurture grassroots innovation, empower entrepreneurs, and create a vibrant startup ecosystem in Andhra Pradesh, with a vision to enable “One Family One Entrepreneur” and honor Ratan Tata’s legacy of innovation and social responsibility.3. Where is RTIH located?+The central hub is set up at Amaravati, with Spokes in Vijayawada, Visakhapatnam, Tirupati, Anantapuram, and Rajamahendravaram, collectively extending innovation support to all corners of the state.4. Who can apply for RTIH support?+Startups, entrepreneurs, MSMEs, students, grassroots innovators, women, differently abled and minority entrepreneurs, corporate partners, and academic institutions are eligible to apply for support under the Ratan Tata Innovation ",
+          "rect": {
+            "x": 0,
+            "y": 6896,
+            "width": 834,
+            "height": 644
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/24-frequently-asked-questions.png"
+        },
+        {
+          "index": 48,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh",
+          "rect": {
+            "x": 16,
+            "y": 6936,
+            "width": 802,
+            "height": 92
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/25-frequently-asked-questions.png"
+        },
+        {
+          "index": 50,
+          "tag": "footer",
+          "id": "rtih-contact",
+          "className": "rti-footer",
+          "label": "Quick Links",
+          "text": "Andhra Pradesh's premier innovation hub, fostering entrepreneurship and technology development across the state through our hub-and-spoke model. 4th Floor, Mayuri tech park, Mangalagiri, GunturAndhra Pradesh 522503+91 7396603335 connect@rtih.co.in Available on Monday to Friday 10:30 am -5:30 pm(except public holidays)Quick LinksAbout RTIHProgramsAP Start-Up PortalResourcesEventsCareersSupport & ServicesContact SupportFeedback & GrievancesFAQsStay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe© 2025 Government of Andhra Pradesh. All rights reserved.Privacy PolicyTerms of ServiceRTIDesigned and Developed by",
+          "rect": {
+            "x": 0,
+            "y": 7540,
+            "width": 834,
+            "height": 793
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/26-quick-links.png"
+        },
+        {
+          "index": 51,
+          "tag": "div",
+          "id": "",
+          "className": "col col--cta",
+          "label": "Stay Updated",
+          "text": "Stay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe",
+          "rect": {
+            "x": 433,
+            "y": 8011,
+            "width": 381,
+            "height": 171
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/tablet/navigation/27-stay-updated.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Ratan Tata Innovation Hub (RTIH)- Andhra Pradesh",
+      "finalUrl": "https://rtih.co.in/",
+      "language": "en",
+      "fontFamilies": [
+        "Figtree, sans-serif",
+        "Roboto",
+        "Arial",
+        "Figtree, system-ui, sans-serif"
+      ],
+      "colors": [
+        "rgb(17, 24, 39)",
+        "rgb(68, 71, 78)",
+        "rgb(255, 255, 255)",
+        "rgb(59, 38, 90)",
+        "rgb(26, 27, 31)",
+        "rgb(0, 92, 187)",
+        "rgb(43, 49, 69)",
+        "rgb(75, 31, 111)",
+        "rgb(23, 32, 51)",
+        "rgb(74, 85, 104)",
+        "rgb(38, 26, 0)",
+        "rgba(255, 255, 255, 0.9)",
+        "rgb(0, 0, 0)",
+        "rgb(75, 30, 131)",
+        "rgb(195, 69, 7)",
+        "rgb(38, 37, 102)",
+        "rgb(51, 51, 51)",
+        "rgb(103, 47, 143)",
+        "rgb(79, 16, 125)",
+        "rgb(30, 42, 80)",
+        "rgb(91, 100, 117)",
+        "rgb(255, 209, 26)",
+        "rgb(34, 34, 34)",
+        "rgb(31, 27, 46)"
+      ],
+      "backgroundColors": [
+        "rgba(238, 240, 243, 0.92)",
+        "rgb(255, 255, 255)",
+        "rgb(124, 2, 35)",
+        "rgb(242, 169, 0)",
+        "rgb(58, 28, 96)",
+        "rgb(255, 209, 26)",
+        "rgb(91, 42, 134)",
+        "rgb(250, 250, 250)",
+        "rgb(103, 47, 143)",
+        "rgb(75, 30, 131)",
+        "rgba(30, 42, 80, 0.1)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "InnoTribe",
+          "fontSize": "23px",
+          "fontWeight": "700",
+          "lineHeight": "25.3px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sunrise Connects",
+          "fontSize": "23px",
+          "fontWeight": "700",
+          "lineHeight": "25.3px"
+        },
+        {
+          "tag": "h1",
+          "text": "Empowering Innovation.Enabling Growth.",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "38.4px"
+        },
+        {
+          "tag": "h2",
+          "text": "What is RTIH?",
+          "fontSize": "28px",
+          "fontWeight": "800",
+          "lineHeight": "33.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ratan Tata Innovation Hub Designed to",
+          "fontSize": "16.38px",
+          "fontWeight": "800",
+          "lineHeight": "26.208px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes RTIH unique?",
+          "fontSize": "19.2px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        },
+        {
+          "tag": "h3",
+          "text": "Hub & Spoke Model",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Inclusivity & Diversity",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Digital Integration",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sectoral Focus",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Academia-Industry Collaboration",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h3",
+          "text": "Policy Targets",
+          "fontSize": "16px",
+          "fontWeight": "800",
+          "lineHeight": "25.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "Focus Segments",
+          "fontSize": "24px",
+          "fontWeight": "800",
+          "lineHeight": "28.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Startup Acceleration",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentorship & Strategy",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Seed Funding & Investor Connect",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Co-working & Infrastructure",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Legal & IP Assistance",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Go-to-Market Support",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pitch Platforms & Demo Days",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h3",
+          "text": "Networking & Partnerships",
+          "fontSize": "17.6px",
+          "fontWeight": "800",
+          "lineHeight": "28.16px"
+        },
+        {
+          "tag": "h2",
+          "text": "Partner With Us",
+          "fontSize": "32px",
+          "fontWeight": "800",
+          "lineHeight": "36.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Mentors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        },
+        {
+          "tag": "h3",
+          "text": "Investors",
+          "fontSize": "18.4px",
+          "fontWeight": "800",
+          "lineHeight": "22.08px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Hackthons and Challenges",
+          "href": "https://rtih.co.in/hackthons-challenges"
+        },
+        {
+          "text": "Sunrise Connects",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Amaravati Hub",
+          "href": "https://rtih.co.in/location/amaravati"
+        },
+        {
+          "text": "Ananthapuramu",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Rajamahendravaram",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "AI Hackthons",
+          "href": "https://rtgs.ap.gov.in/hackathons/#/home/index"
+        },
+        {
+          "text": "InnoTribe",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "Loan mela bankers connect",
+          "href": "https://apis.ap.gov.in/loan_mela/"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Tenders",
+          "href": "https://rtih.co.in/tenders"
+        },
+        {
+          "text": "",
+          "href": "https://rtih.co.in/"
+        },
+        {
+          "text": "Home",
+          "href": "https://rtih.co.in/home"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "View InnoTribearrow_forward",
+          "href": "https://rtih.co.in/innotribe"
+        },
+        {
+          "text": "View Sunrise Connectsarrow_forward",
+          "href": "https://rtih.co.in/sunrise-connects"
+        },
+        {
+          "text": "Join as a Start-up",
+          "href": "https://forms.gle/xbZGotkiuzjaHaFs9"
+        },
+        {
+          "text": "Explore the Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "Partner with Us",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "Alternate Energy for Resilient Andhra (AP-AER Mission) - Calling for solution to address the ongoing energy crises - App",
+          "href": "https://rtih-govtech.softpages.in/challenge/ap-aer"
+        },
+        {
+          "text": "InnoTribe - Inviting Colleges to set up Innovation and Entrepreneurship Cell in their campuses - Apply Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfnX3mdVSXVcElJO3YgKEklW5NLQy3vKcxlkefDGEp_Hwoc7w/viewform"
+        },
+        {
+          "text": "Visakhapatnam",
+          "href": "https://rtih.co.in/location/visakhapatnam"
+        },
+        {
+          "text": "Vijayawada",
+          "href": "https://rtih.co.in/location/vijayawada"
+        },
+        {
+          "text": "Rajahmundry",
+          "href": "https://rtih.co.in/location/rajahmundry"
+        },
+        {
+          "text": "Tirupati",
+          "href": "https://rtih.co.in/location/tirupati"
+        },
+        {
+          "text": "Anantapur",
+          "href": "https://rtih.co.in/location/anantapur"
+        },
+        {
+          "text": "Join Now",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSfIHCyne5Gbfo7Wbhx-zsq6Rz4iCqDlCM72pfHx47oypYbhOQ/viewform?usp=sharing&ouid=110257595124980297744"
+        },
+        {
+          "text": "Become a Partner Today",
+          "href": "https://forms.gle/XTGbLw8dwHRL8nt17"
+        },
+        {
+          "text": "+91 7396603335",
+          "href": "tel:+917396603335"
+        },
+        {
+          "text": "connect@rtih.co.in",
+          "href": "mailto:connect@rtih.co.in"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/share/1DYH9dGWJT/"
+        },
+        {
+          "text": "",
+          "href": "https://x.com/RTIH_AP?t=lIRZNQfSwwl47PH0Kdd2Kg&s=08"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/rtih_ap/?igsh=NXE4bnVuZzRncjBj#"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/rtih-ap"
+        },
+        {
+          "text": "About RTIH",
+          "href": "https://rtih.co.in/about"
+        },
+        {
+          "text": "Programs",
+          "href": "https://rtih.co.in/programs"
+        },
+        {
+          "text": "AP Start-Up Portal",
+          "href": "https://apis.ap.gov.in/#/home/login/"
+        },
+        {
+          "text": "Resources",
+          "href": "https://rtih.co.in/resources"
+        },
+        {
+          "text": "Events",
+          "href": "https://rtih.co.in/events"
+        },
+        {
+          "text": "Careers",
+          "href": "https://rtih.co.in/careers"
+        },
+        {
+          "text": "Contact Support",
+          "href": "https://rtih.co.in/contact"
+        },
+        {
+          "text": "Feedback & Grievances",
+          "href": "https://rtih.co.in/grievances"
+        },
+        {
+          "text": "FAQs",
+          "href": "https://rtih.co.in/faqs"
+        },
+        {
+          "text": "Subscribe",
+          "href": "https://docs.google.com/forms/d/e/1FAIpQLSf638cCZ_3ul_7zy78LW50k1vsSOs3W-pzOhTIf2SqTUwfUew/viewform?usp=dialog"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "https://rtih.co.in/privacy"
+        },
+        {
+          "text": "Terms of Service",
+          "href": "https://rtih.co.in/terms"
+        },
+        {
+          "text": "RTI",
+          "href": "https://rtih.co.in/rti"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "header",
+          "id": "",
+          "className": "rti-header mat-elevation-z2",
+          "label": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "text": "menuHomeAbout RTIH Programs & Events Locations Partners What’s New Opportunities",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 80
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/01-menuhomeabout-rtih-programs-events-locations-partners-what-s-new-opportunities.png"
+        },
+        {
+          "index": 11,
+          "tag": "section",
+          "id": "",
+          "className": "rti-banner",
+          "label": "Empowering Innovation.Enabling Growth.",
+          "text": "Sri Nara Chandrababu NaiduHon’ble Chief Minister of Andhra PradeshSri Nara LokeshHon’ble Minister for IT Electronics & Communication; RTG, HR Development Empowering Innovation.Enabling Growth.Ratan Tata Innovation Hub is a flagship initiative that brings to life the Hon’ble Chief Minister Mr. N. Chandrababu Naidu’s visionary mission of One Family, One Entrepreneur. Join as a Start-upExplore the ProgramsPartner with Us",
+          "rect": {
+            "x": 0,
+            "y": 80,
+            "width": 390,
+            "height": 681
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/cta-systems/02-empowering-innovation-enabling-growth.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "portal-popup-column portal-popup-column--innotribe",
+          "label": "InnoTribe",
+          "text": "rocket_launchInnoTribe A student innovation and entrepreneurship pathway from idea discovery to prototype validation, demo days, and incubation readiness. routeIdea to incubation journeygroupsCampus cohorts and mentoringemoji_eventsShowcases and demo daysView InnoTribearrow_forward",
+          "rect": {
+            "x": 33,
+            "y": 137,
+            "width": 324,
+            "height": 425
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/grid-systems/03-innotribe.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "cta",
+          "label": "Join as a Start-upExplore the ProgramsPartner with Us",
+          "text": "Join as a Start-upExplore the ProgramsPartner with Us",
+          "rect": {
+            "x": 12,
+            "y": 556,
+            "width": 366,
+            "height": 205
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/cta-systems/04-join-as-a-start-upexplore-the-programspartner-with-us.png"
+        },
+        {
+          "index": 9,
+          "tag": "section",
+          "id": "",
+          "className": "portal-popup-column portal-popup-column--sunrise",
+          "label": "Sunrise Connects",
+          "text": "hubSunrise Connects A platform for ecosystem engagement, startup discovery, innovation conversations, and partner-led opportunities across RTIH networks. diversity_3Startup and partner connectsforumEcosystem conversationsevent_availablePrograms and opportunitiesView Sunrise Connectsarrow_forward",
+          "rect": {
+            "x": 33,
+            "y": 580,
+            "width": 324,
+            "height": 425
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/mobile/hero-sections/05-sunrise-connects.png"
+        },
+        {
+          "index": 15,
+          "tag": "section",
+          "id": "",
+          "className": "about-rtih",
+          "label": "What is RTIH?",
+          "text": "What is RTIH?Ratan Tata Innovation Hub is Andhra Pradesh's flagship initiative to transform the state into a global startup hub. Operating on a Hub-and-Spoke model, RTIH at Amaravati acts as the central hub, supported by five regional centers across Visakhapatnam, Vijayawada, Rajahmundry, Tirupati, and Anantapur. Ratan Tata Innovation Hub Designed toNurture innovation and entrepreneurship across the stateConnect startups with markets, research, and government initiativesDrive cutting-edge innovation in AI, biotech, clean energy, advanced manufacturing, and emerging technologiesPromote inclusivity by supporting women, rural innovators, and underrepresented groups",
+          "rect": {
+            "x": 0,
+            "y": 810,
+            "width": 390,
+            "height": 1333
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/06-what-is-rtih.png"
+        },
+        {
+          "index": 16,
+          "tag": "section",
+          "id": "",
+          "className": "rti-stats",
+          "label": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "text": "20,000Start-Ups to be created1 lakhJobs to be created by 202920+Enable 20+ Soonicorns10+Enable 10+ Unicorns10Centers of Excellence in emerging technologies",
+          "rect": {
+            "x": 0,
+            "y": 2143,
+            "width": 390,
+            "height": 838
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/grid-systems/07-20-000start-ups-to-be-created1-lakhjobs-to-be-created-by-202920-enable-20-soonicorns10-ena.png"
+        },
+        {
+          "index": 23,
+          "tag": "section",
+          "id": "",
+          "className": "unique-ap",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.Hub & Spoke ModelCentralized coordination with district-level execution for maximum reach and impact.Inclusivity & DiversityEmpowering women, rural entrepreneurs, and underrepresented communities.Digital IntegrationSeamless Startup One portal for simplified processes and reduced bureaucracy.VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati HubSectoral FocusTargeted support across agriculture, healthcare, fintech, and emerging technologies.Academia-Industry CollaborationStrong partnerships between educational institutions and industry leaders.Policy TargetsClear roadmap with measurable goals for startup ecosystem development.",
+          "rect": {
+            "x": 0,
+            "y": 2981,
+            "width": 390,
+            "height": 993
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/mobile/hero-sections/13-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 24,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "What makes RTIH unique?",
+          "text": "What makes RTIH unique?Andhra Pradesh's innovation ecosystem stands out through strategic design, inclusive policies, and technology-driven execution.",
+          "rect": {
+            "x": 8,
+            "y": 3005,
+            "width": 374,
+            "height": 84
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/mobile/ecosystem-maps/14-what-makes-rtih-unique.png"
+        },
+        {
+          "index": 25,
+          "tag": "section",
+          "id": "",
+          "className": "ap-map-placed",
+          "label": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "text": "VisakhapatnamRajamahendravaramVijayawadaTirupatiAnanthapuramuAmaravati Hub",
+          "rect": {
+            "x": 8,
+            "y": 3117,
+            "width": 374,
+            "height": 291
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/mobile/ecosystem-maps/15-visakhapatnamrajamahendravaramvijayawadatirupatiananthapuramuamaravati-hub.png"
+        },
+        {
+          "index": 26,
+          "tag": "section",
+          "id": "focus-segments",
+          "className": "focus-segments",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey. StartupsMSME’sRural EntrepreneurshipInnovators1Startup AccelerationStructured programs to refine business models and fast-track growth.2Mentorship & StrategyAccess to seasoned entrepreneurs, domain experts and business coaches.3Seed Funding & Investor ConnectSupport in raising capital through grants, angel networks, and VCs.4Co-working & InfrastructureAffordable workspace, labs, and shared resources for product development.5Legal & IP AssistanceHelp with company incorporation, IP filing, and regulatory compliance.6Go-to-Market SupportGuidance on market entry, customer acquisition, and pilot deployments.7Pitch Platforms & Demo DaysOpportunities to present to investors, corporates, and ecosystem enablers.8Networking & PartnershipsConnect with industry, academia, and government for strategic growth.",
+          "rect": {
+            "x": 0,
+            "y": 3974,
+            "width": 390,
+            "height": 573
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/16-focus-segments.png"
+        },
+        {
+          "index": 27,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Focus Segments",
+          "text": "Focus Segments Comprehensive support ecosystem designed to nurture innovation at every stage of your entrepreneurial journey.",
+          "rect": {
+            "x": 28,
+            "y": 4018,
+            "width": 335,
+            "height": 102
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/mobile/ecosystem-maps/17-focus-segments.png"
+        },
+        {
+          "index": 28,
+          "tag": "nav",
+          "id": "",
+          "className": "tabs",
+          "label": "StartupsMSME’sRural EntrepreneurshipInnovators",
+          "text": "StartupsMSME’sRural EntrepreneurshipInnovators",
+          "rect": {
+            "x": 28,
+            "y": 4152,
+            "width": 335,
+            "height": 116
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/grid-systems/18-startupsmsme-srural-entrepreneurshipinnovators.png"
+        },
+        {
+          "index": 29,
+          "tag": "article",
+          "id": "",
+          "className": "card is-active",
+          "label": "Startup Acceleration",
+          "text": "1Startup AccelerationStructured programs to refine business models and fast-track growth.",
+          "rect": {
+            "x": 28,
+            "y": 4300,
+            "width": 335,
+            "height": 199
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/19-startup-acceleration.png"
+        },
+        {
+          "index": 37,
+          "tag": "section",
+          "id": "partner-us",
+          "className": "partner",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem. Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.InvestorsFuel innovation by investing in high-potential startups. RTIH connects investors with curated, promising ventures across diverse sectors.Why Partner as an Investor?✔Access to a pipeline of innovative startups.✔Opportunities for strategic investments and collaborations.✔Be part of a growing entrepreneurial ecosystem.CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic",
+          "rect": {
+            "x": 0,
+            "y": 4547,
+            "width": 390,
+            "height": 1975
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/20-partner-with-us.png"
+        },
+        {
+          "index": 38,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Partner With Us",
+          "text": "Partner With UsTailored support for different entrepreneur categories, ensuring inclusive growth across Andhra Pradesh's innovation ecosystem.",
+          "rect": {
+            "x": 16,
+            "y": 4587,
+            "width": 358,
+            "height": 160
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/mobile/ecosystem-maps/21-partner-with-us.png"
+        },
+        {
+          "index": 39,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Mentors",
+          "text": "Join Now MentorsMentors are the guiding force behind every successful startup. At RTIH, we invite experienced professionals, industry experts, and thought leaders to share their knowledge and insights with budding entrepreneurs.Why Partner as a Mentor?✔Shape the next generation of innovators.✔Share your expertise and create real impact.✔Network with a vibrant community of startups and industry leaders.",
+          "rect": {
+            "x": 16,
+            "y": 4771,
+            "width": 358,
+            "height": 384
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/rtih-current/mobile/hero-sections/22-mentors.png"
+        },
+        {
+          "index": 40,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Investors",
+          "text": "InvestorsFuel innovation by investing in high-potential startups. RTIH connects investors with curated, promising ventures across diverse sectors.Why Partner as an Investor?✔Access to a pipeline of innovative startups.✔Opportunities for strategic investments and collaborations.✔Be part of a growing entrepreneurial ecosystem.",
+          "rect": {
+            "x": 16,
+            "y": 5175,
+            "width": 358,
+            "height": 361
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/rtih-current/mobile/startup-showcase/23-investors.png"
+        },
+        {
+          "index": 41,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "Corporates",
+          "text": "CorporatesCorporates are key drivers of innovation through collaboration and market access. Partner with RTIH to co-create solutions, explore new technologies, and engage with startups that align with your business goals.Why Partner as a Corporate?✔Discover cutting-edge solutions for your business challenges.✔Build strategic alliances with startups and innovators.✔Strengthen your brand as an innovation leader.",
+          "rect": {
+            "x": 16,
+            "y": 5556,
+            "width": 358,
+            "height": 406
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/24-corporates.png"
+        },
+        {
+          "index": 42,
+          "tag": "article",
+          "id": "",
+          "className": "card",
+          "label": "RTIH-Outposts",
+          "text": "RTIH-OutpostsRTIH-Outposts are institutional partners within the RTIH statewide innovation network—enabling universities, colleges, and regional centres to deliver startup support locally, with shared access to mentors, investors, programs, and platforms aligned to the AP Innovation & Startup Policy 2024–29.Why Partner as an RTIH-Outpost?✔Become part of Andhra Pradesh’s policy-aligned innovation ecosystem.✔Extend high-quality startup support to your region with statewide backing.✔Access shared mentors, investors, programs, and digital platforms.✔Build your incubation capacity and credibility✔Help local startups contribute to jobs and regional growth.",
+          "rect": {
+            "x": 16,
+            "y": 5982,
+            "width": 358,
+            "height": 540
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/25-rtih-outposts.png"
+        },
+        {
+          "index": 43,
+          "tag": "section",
+          "id": "",
+          "className": "cta-partner",
+          "label": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "text": "👉Join us in building a world-class innovation ecosystem.Become a Partner Today",
+          "rect": {
+            "x": 0,
+            "y": 6522,
+            "width": 390,
+            "height": 205
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/cta-systems/26-join-us-in-building-a-world-class-innovation-ecosystem-become-a-partner-today.png"
+        },
+        {
+          "index": 44,
+          "tag": "section",
+          "id": "",
+          "className": "partners",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship Corporate Partners ❮ ❯ Knowledge Partners ❮ ❯ Join 200+ organizations already partnering with RTIH",
+          "rect": {
+            "x": 0,
+            "y": 6727,
+            "width": 390,
+            "height": 771
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/cta-systems/27-our-partners.png"
+        },
+        {
+          "index": 45,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Our Partners",
+          "text": "Our Partners Collaborating with leading organizations to create a robust ecosystem for innovation and entrepreneurship",
+          "rect": {
+            "x": 16,
+            "y": 6787,
+            "width": 358,
+            "height": 131
+          },
+          "category": "ecosystem-maps",
+          "screenshot": "research/screenshots/rtih-current/mobile/ecosystem-maps/28-our-partners.png"
+        },
+        {
+          "index": 46,
+          "tag": "p",
+          "id": "",
+          "className": "cta-note",
+          "label": "Join 200+ organizations already partnering with RTIH",
+          "text": "Join 200+ organizations already partnering with RTIH",
+          "rect": {
+            "x": 16,
+            "y": 7352,
+            "width": 358,
+            "height": 94
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/rtih-current/mobile/cta-systems/29-join-200-organizations-already-partnering-with-rtih.png"
+        },
+        {
+          "index": 47,
+          "tag": "section",
+          "id": "",
+          "className": "faq",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh1. What is Ratan Tata Innovation Hub (RTIH)?−RTIH is a state-wide initiative set up by the Government of Andhra Pradesh to promote innovation, entrepreneurship, and industry–academia collaboration. It acts as a central point of support for startups and innovators.2. What is the vision behind establishing the Ratan Tata Innovation Hub (RTIH)?+The RTIH was established to nurture grassroots innovation, empower entrepreneurs, and create a vibrant startup ecosystem in Andhra Pradesh, with a vision to enable “One Family One Entrepreneur” and honor Ratan Tata’s legacy of innovation and social responsibility.3. Where is RTIH located?+The central hub is set up at Amaravati, with Spokes in Vijayawada, Visakhapatnam, Tirupati, Anantapuram, and Rajamahendravaram, collectively extending innovation support to all corners of the state.4. Who can apply for RTIH support?+Startups, entrepreneurs, MSMEs, students, grassroots innovators, women, differently abled and minority entrepreneurs, corporate partners, and academic institutions are eligible to apply for support under the Ratan Tata Innovation ",
+          "rect": {
+            "x": 0,
+            "y": 7498,
+            "width": 390,
+            "height": 809
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/30-frequently-asked-questions.png"
+        },
+        {
+          "index": 48,
+          "tag": "header",
+          "id": "",
+          "className": "head",
+          "label": "Frequently Asked Questions",
+          "text": "Frequently Asked QuestionsEverything you need to know about Ratan Tata Innovation Hub in Andhra Pradesh",
+          "rect": {
+            "x": 16,
+            "y": 7538,
+            "width": 358,
+            "height": 147
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/31-frequently-asked-questions.png"
+        },
+        {
+          "index": 50,
+          "tag": "footer",
+          "id": "rtih-contact",
+          "className": "rti-footer",
+          "label": "Quick Links",
+          "text": "Andhra Pradesh's premier innovation hub, fostering entrepreneurship and technology development across the state through our hub-and-spoke model. 4th Floor, Mayuri tech park, Mangalagiri, GunturAndhra Pradesh 522503+91 7396603335 connect@rtih.co.in Available on Monday to Friday 10:30 am -5:30 pm(except public holidays)Quick LinksAbout RTIHProgramsAP Start-Up PortalResourcesEventsCareersSupport & ServicesContact SupportFeedback & GrievancesFAQsStay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe© 2025 Government of Andhra Pradesh. All rights reserved.Privacy PolicyTerms of ServiceRTIDesigned and Developed by",
+          "rect": {
+            "x": 0,
+            "y": 8307,
+            "width": 390,
+            "height": 1304
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/32-quick-links.png"
+        },
+        {
+          "index": 51,
+          "tag": "div",
+          "id": "",
+          "className": "col col--cta",
+          "label": "Stay Updated",
+          "text": "Stay UpdatedSubscribe to our newsletter for the latest updates on programs, events, and opportunities.Subscribe",
+          "rect": {
+            "x": 20,
+            "y": 9203,
+            "width": 350,
+            "height": 171
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/rtih-current/mobile/navigation/33-stay-updated.png"
+        }
+      ]
+    }
+  }
+}

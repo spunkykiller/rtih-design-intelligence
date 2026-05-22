@@ -1,0 +1,2079 @@
+{
+  "site": {
+    "name": "Berkeley SkyDeck",
+    "slug": "berkeley-skydeck",
+    "url": "https://skydeck.berkeley.edu/",
+    "category": "university-incubator",
+    "priority": 0.5,
+    "focus": [
+      "university accelerator",
+      "program funnel",
+      "mentor and advisor trust"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:49:14.209Z",
+  "viewports": {
+    "desktop": {
+      "title": "Berkeley SKYDECK",
+      "finalUrl": "https://skydeck.berkeley.edu/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Raleway, sans-serif",
+        "\"Nunito Sans\"",
+        "\"Nunito Sans\", sans-serif",
+        "Georgia, \"serif\"",
+        "Georgia",
+        "Georgia, sans-serif",
+        "\"Nunito sans\", sans-serif"
+      ],
+      "colors": [
+        "rgb(21, 40, 75)",
+        "rgb(0, 0, 255)",
+        "rgb(255, 183, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(157, 157, 157)",
+        "rgb(136, 136, 136)",
+        "rgb(205, 205, 205)",
+        "rgb(21, 39, 74)",
+        "rgb(13, 145, 217)",
+        "rgb(84, 84, 84)",
+        "rgb(112, 112, 112)",
+        "rgb(0, 176, 218)",
+        "rgb(0, 0, 0)",
+        "rgb(12, 77, 162)"
+      ],
+      "backgroundColors": [
+        "rgb(246, 246, 246)",
+        "rgb(21, 40, 75)",
+        "rgb(255, 255, 255)",
+        "rgba(37, 179, 227, 0.7)",
+        "rgb(255, 183, 0)",
+        "rgb(239, 239, 239)",
+        "rgb(55, 55, 55)",
+        "rgb(241, 241, 241)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Media",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "26px"
+        },
+        {
+          "tag": "h2",
+          "text": "Where visionaries take flight",
+          "fontSize": "72px",
+          "fontWeight": "400",
+          "lineHeight": "62px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck Batch 23",
+          "fontSize": "36px",
+          "fontWeight": "900",
+          "lineHeight": "48px"
+        },
+        {
+          "tag": "h2",
+          "text": "Applications open in August!",
+          "fontSize": "36px",
+          "fontWeight": "700",
+          "lineHeight": "48px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Journey to make SkyDeck the best accelerator for startups",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "(2 mins.)",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck has provided us with the opportunity to connect with world class advisors.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“Berkeley SkyDeck gave us the network and support we needed to succeed in the early stage of our company. They helped us hire top talent, identify go to market ",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "– Davit Baghdasaryan, Co-Founder & CEO of Krisp",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck by the numbers",
+          "fontSize": "28px",
+          "fontWeight": "700",
+          "lineHeight": "33.88px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes SkyDeck special?",
+          "fontSize": "90px",
+          "fontWeight": "400",
+          "lineHeight": "102.6px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck helped me think bigger and bolder than I ever have before.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Batch 11",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "$1.5B valuation $15M raised $250K MRR",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h3",
+          "text": "Why SkyDeck is the best accelerator for startups",
+          "fontSize": "50px",
+          "fontWeight": "400",
+          "lineHeight": "57px"
+        },
+        {
+          "tag": "h2",
+          "text": "Berkeley SkyDeck Fund",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "79.8px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "APPLY",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "Media",
+          "href": "https://skydeck.berkeley.edu/media"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/#"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "Berkeley SkyDeckFund – Learn more at SkyDeck.vc",
+          "href": "https://skydeck.vc/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://skydeck.berkeley.edu/invest/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors/"
+        },
+        {
+          "text": "Haas Startup Squad",
+          "href": "https://skydeck.berkeley.edu/uc-community/#has-startup"
+        },
+        {
+          "text": "Berkeley Science Fellows",
+          "href": "https://skydeck.berkeley.edu/uc-community/#berkeley-science"
+        },
+        {
+          "text": "Berkeley ACE",
+          "href": "https://skydeck.berkeley.edu/ace/"
+        },
+        {
+          "text": "Industry Partners",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program#program-tracks"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "See all the companies",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "See SkyDeck programs",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors/"
+        },
+        {
+          "text": "SkyDeck News and Upcoming Events",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Subscribe to our newsletter",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "UC Berkeley cultivates festive culture of ‘free thinkers’ at AI hackathon",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – April 8, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 18, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 4, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Learn more at SkyDeck.vc",
+          "href": "http://skydeck.vc/"
+        },
+        {
+          "text": "Investors FAQs",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Industry Partner Benefits",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/skydeck-berkeley/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "h2",
+          "id": "slider-17-slide-86-layer-3",
+          "className": "rs-layer tp-shape tp-shapewrapper rs-selectable",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 89,
+            "y": 343,
+            "width": 572,
+            "height": 243
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/grid-systems/01-h2.png"
+        },
+        {
+          "index": 23,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck company_in_numbers",
+          "label": "What makes SkyDeck special?",
+          "text": "What makes SkyDeck special? SkyDeck has developed a strong global reputation and leverages our network of 500,000 Berkeley Alumni to help startups succeed. SkyDeck’s commitment to: Diversity, Equity, & Inclusion Venture Capital We facilitate intros and help build relationships with our extensive network of top tier VCs and investors. Berkeley SkyDeckFund – Learn more at SkyDeck.vc Investors Mentorship Our 900 advisors and mentors actively coach and advise our founders on everything from product development to customer acquisition to go-to-market strategy to fundraising and beyond. SkyAdvisors Access to Talent We help connect the intellectual firepower of UC Berkeley to our startups, matching hundreds of students, MBAs, and postdocs to intern and work for our startups. We also match faculty to advisory boards. Faculty Advisors Haas Startup Squad Berkeley Science Fellows Berkeley ACE Customer Development We have strong relationships with hundreds of businesses and enterprises that are often early adopters of our startups’ technology, and we facilitate key introductions to executives from countless companies across our vast network of Berkeley alums. Industry Partners BAM Workshops St",
+          "rect": {
+            "x": 84,
+            "y": 963,
+            "width": 1272,
+            "height": 2438
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/hero-sections/02-what-makes-skydeck-special.png"
+        },
+        {
+          "index": 31,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow order-1 heros wpb_column vc_column_container vc_col-sm-4 vc_col-lg-4 vc_col-md-4 vc_col-xs-12",
+          "label": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to le",
+          "text": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to learn more. See all the companies",
+          "rect": {
+            "x": 84,
+            "y": 4201,
+            "width": 408,
+            "height": 352
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/cta-systems/06-some-of-our-heroes-our-founders-dare-to-strap-themselves-in-and-launch-into-the-unknown-he.png"
+        },
+        {
+          "index": 32,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 hero-logo wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 516,
+            "y": 4201,
+            "width": 840,
+            "height": 174
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/hero-sections/07-div.png"
+        },
+        {
+          "index": 33,
+          "tag": "div",
+          "id": "",
+          "className": "program-header-video wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 156,
+            "y": 4553,
+            "width": 768,
+            "height": 432
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/navigation/08-div.png"
+        },
+        {
+          "index": 34,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 tailored-programs wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-12 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program ",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 516,
+            "y": 5081,
+            "width": 840,
+            "height": 832
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/navigation/09-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 35,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-6 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "rect": {
+            "x": 948,
+            "y": 5081,
+            "width": 408,
+            "height": 180
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/hero-sections/10-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck we",
+          "text": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more",
+          "rect": {
+            "x": 948,
+            "y": 5346,
+            "width": 408,
+            "height": 225
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/cta-systems/11-innovation-partners-program-skydeck-s-innovation-partner-program-ipp-offers-partners-an-op.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can ",
+          "text": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 948,
+            "y": 5611,
+            "width": 408,
+            "height": 266
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/hero-sections/12-pad-13-the-skydeck-incubator-pad-13-is-for-early-stage-startups-focused-on-growth-and-beco.png"
+        },
+        {
+          "index": 38,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck venture_fund",
+          "label": "Berkeley SkyDeck Fund",
+          "text": "Berkeley SkyDeck Fund SkyDeck’s Dedicated Venture Fund The Berkeley SkyDeck Fund is the investment partner for UC Berkeley’s SkyDeck Accelerator Program. The Fund invests $200K into each startup that goes through SkyDeck, and can participate in later stage investment rounds with Berkeley founders. One of the most active seed investors in the Bay Area, the Fund has made over 130 investments in 3 years! In a first-of-its-kind, public-private partnership, the Berkeley SkyDeck Fund shares one-half of fund profits with UC Berkeley. This unique partnership helps support UC Berkeley education and creates a source of funding for UC Berkeley’s public education mission. The Berkeley SkyDeck Fund is run by Chon Tang, Managing Partner, and Brian Bordley, Partner. It is funded by organizations such as Sequoia Capital, Sierra Ventures, and Canvas Ventures, as well as other VC firms, individuals, and large corporations. Learn more at SkyDeck.vc",
+          "rect": {
+            "x": 0,
+            "y": 6461,
+            "width": 1440,
+            "height": 661
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/hero-sections/13-berkeley-skydeck-fund.png"
+        },
+        {
+          "index": 39,
+          "tag": "footer",
+          "id": "",
+          "className": "",
+          "label": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of th",
+          "text": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of the University of California, Berkeley Contact Us About Companies Begin.Berkeley GIVE TO SKYDECK",
+          "rect": {
+            "x": 0,
+            "y": 7601,
+            "width": 1440,
+            "height": 295
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/desktop/navigation/14-berkeley-skydeck-university-of-california-berkeley-2150-shattuck-avenue-penthouse-berkeley.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Berkeley SKYDECK",
+      "finalUrl": "https://skydeck.berkeley.edu/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Raleway, sans-serif",
+        "\"Nunito Sans\"",
+        "\"Nunito Sans\", sans-serif",
+        "Georgia, \"serif\"",
+        "Georgia",
+        "Georgia, sans-serif",
+        "\"Nunito sans\", sans-serif"
+      ],
+      "colors": [
+        "rgb(21, 40, 75)",
+        "rgb(0, 0, 255)",
+        "rgb(255, 183, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(157, 157, 157)",
+        "rgb(136, 136, 136)",
+        "rgb(205, 205, 205)",
+        "rgb(21, 39, 74)",
+        "rgb(13, 145, 217)",
+        "rgb(84, 84, 84)",
+        "rgb(112, 112, 112)",
+        "rgb(0, 176, 218)",
+        "rgb(0, 0, 0)",
+        "rgb(12, 77, 162)"
+      ],
+      "backgroundColors": [
+        "rgb(246, 246, 246)",
+        "rgb(21, 40, 75)",
+        "rgba(37, 179, 227, 0.7)",
+        "rgb(255, 183, 0)",
+        "rgb(239, 239, 239)",
+        "rgb(55, 55, 55)",
+        "rgb(255, 255, 255)",
+        "rgb(241, 241, 241)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Media",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "26px"
+        },
+        {
+          "tag": "h2",
+          "text": "Where visionaries take flight",
+          "fontSize": "44px",
+          "fontWeight": "400",
+          "lineHeight": "38px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "12px",
+          "fontWeight": "400",
+          "lineHeight": "15px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck Batch 23",
+          "fontSize": "22px",
+          "fontWeight": "900",
+          "lineHeight": "29px"
+        },
+        {
+          "tag": "h2",
+          "text": "Applications open in August!",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "lineHeight": "29px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Journey to make SkyDeck the best accelerator for startups",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "(2 mins.)",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck has provided us with the opportunity to connect with world class advisors.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“Berkeley SkyDeck gave us the network and support we needed to succeed in the early stage of our company. They helped us hire top talent, identify go to market ",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "– Davit Baghdasaryan, Co-Founder & CEO of Krisp",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck by the numbers",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "lineHeight": "26.62px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes SkyDeck special?",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "54.24px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck helped me think bigger and bolder than I ever have before.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Batch 11",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "$1.5B valuation $15M raised $250K MRR",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h3",
+          "text": "Why SkyDeck is the best accelerator for startups",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "34.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Berkeley SkyDeck Fund",
+          "fontSize": "48px",
+          "fontWeight": "400",
+          "lineHeight": "54.24px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "APPLY",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "Media",
+          "href": "https://skydeck.berkeley.edu/media"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/#"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "Berkeley SkyDeckFund – Learn more at SkyDeck.vc",
+          "href": "https://skydeck.vc/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://skydeck.berkeley.edu/invest/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors/"
+        },
+        {
+          "text": "Haas Startup Squad",
+          "href": "https://skydeck.berkeley.edu/uc-community/#has-startup"
+        },
+        {
+          "text": "Berkeley Science Fellows",
+          "href": "https://skydeck.berkeley.edu/uc-community/#berkeley-science"
+        },
+        {
+          "text": "Berkeley ACE",
+          "href": "https://skydeck.berkeley.edu/ace/"
+        },
+        {
+          "text": "Industry Partners",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program#program-tracks"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "See all the companies",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "See SkyDeck programs",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors/"
+        },
+        {
+          "text": "SkyDeck News and Upcoming Events",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Subscribe to our newsletter",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "UC Berkeley cultivates festive culture of ‘free thinkers’ at AI hackathon",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – April 8, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 18, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 4, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Learn more at SkyDeck.vc",
+          "href": "http://skydeck.vc/"
+        },
+        {
+          "text": "Investors FAQs",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Industry Partner Benefits",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/skydeck-berkeley/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 5,
+          "tag": "h2",
+          "id": "slider-17-slide-86-layer-3",
+          "className": "rs-layer tp-shape tp-shapewrapper rs-selectable",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 33,
+            "y": 260,
+            "width": 348,
+            "height": 148
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/grid-systems/01-h2.png"
+        },
+        {
+          "index": 23,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck company_in_numbers",
+          "label": "What makes SkyDeck special?",
+          "text": "What makes SkyDeck special? SkyDeck has developed a strong global reputation and leverages our network of 500,000 Berkeley Alumni to help startups succeed. SkyDeck’s commitment to: Diversity, Equity, & Inclusion Venture Capital We facilitate intros and help build relationships with our extensive network of top tier VCs and investors. Berkeley SkyDeckFund – Learn more at SkyDeck.vc Investors Mentorship Our 900 advisors and mentors actively coach and advise our founders on everything from product development to customer acquisition to go-to-market strategy to fundraising and beyond. SkyAdvisors Access to Talent We help connect the intellectual firepower of UC Berkeley to our startups, matching hundreds of students, MBAs, and postdocs to intern and work for our startups. We also match faculty to advisory boards. Faculty Advisors Haas Startup Squad Berkeley Science Fellows Berkeley ACE Customer Development We have strong relationships with hundreds of businesses and enterprises that are often early adopters of our startups’ technology, and we facilitate key introductions to executives from countless companies across our vast network of Berkeley alums. Industry Partners BAM Workshops St",
+          "rect": {
+            "x": 0,
+            "y": 714,
+            "width": 834,
+            "height": 2750
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/hero-sections/02-what-makes-skydeck-special.png"
+        },
+        {
+          "index": 31,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow order-1 heros wpb_column vc_column_container vc_col-sm-4 vc_col-lg-4 vc_col-md-4 vc_col-xs-12",
+          "label": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to le",
+          "text": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to learn more. See all the companies",
+          "rect": {
+            "x": 0,
+            "y": 3932,
+            "width": 278,
+            "height": 429
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/cta-systems/06-some-of-our-heroes-our-founders-dare-to-strap-themselves-in-and-launch-into-the-unknown-he.png"
+        },
+        {
+          "index": 32,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 hero-logo wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 278,
+            "y": 3932,
+            "width": 556,
+            "height": 800
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/hero-sections/07-div.png"
+        },
+        {
+          "index": 33,
+          "tag": "div",
+          "id": "",
+          "className": "program-header-video wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 35,
+            "y": 4851,
+            "width": 764,
+            "height": 323
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/navigation/08-div.png"
+        },
+        {
+          "index": 34,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 tailored-programs wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-12 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program ",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 35,
+            "y": 5420,
+            "width": 764,
+            "height": 806
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/navigation/09-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 35,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-6 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "rect": {
+            "x": 417,
+            "y": 5420,
+            "width": 382,
+            "height": 135
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/hero-sections/10-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck we",
+          "text": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more",
+          "rect": {
+            "x": 417,
+            "y": 5677,
+            "width": 382,
+            "height": 201
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/cta-systems/11-innovation-partners-program-skydeck-s-innovation-partner-program-ipp-offers-partners-an-op.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can ",
+          "text": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 417,
+            "y": 5934,
+            "width": 382,
+            "height": 256
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/hero-sections/12-pad-13-the-skydeck-incubator-pad-13-is-for-early-stage-startups-focused-on-growth-and-beco.png"
+        },
+        {
+          "index": 38,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck venture_fund",
+          "label": "Berkeley SkyDeck Fund",
+          "text": "Berkeley SkyDeck Fund SkyDeck’s Dedicated Venture Fund The Berkeley SkyDeck Fund is the investment partner for UC Berkeley’s SkyDeck Accelerator Program. The Fund invests $200K into each startup that goes through SkyDeck, and can participate in later stage investment rounds with Berkeley founders. One of the most active seed investors in the Bay Area, the Fund has made over 130 investments in 3 years! In a first-of-its-kind, public-private partnership, the Berkeley SkyDeck Fund shares one-half of fund profits with UC Berkeley. This unique partnership helps support UC Berkeley education and creates a source of funding for UC Berkeley’s public education mission. The Berkeley SkyDeck Fund is run by Chon Tang, Managing Partner, and Brian Bordley, Partner. It is funded by organizations such as Sequoia Capital, Sierra Ventures, and Canvas Ventures, as well as other VC firms, individuals, and large corporations. Learn more at SkyDeck.vc",
+          "rect": {
+            "x": 0,
+            "y": 6952,
+            "width": 834,
+            "height": 539
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/hero-sections/13-berkeley-skydeck-fund.png"
+        },
+        {
+          "index": 39,
+          "tag": "footer",
+          "id": "",
+          "className": "",
+          "label": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of th",
+          "text": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of the University of California, Berkeley Contact Us About Companies Begin.Berkeley GIVE TO SKYDECK",
+          "rect": {
+            "x": 0,
+            "y": 8174,
+            "width": 834,
+            "height": 323
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/tablet/navigation/14-berkeley-skydeck-university-of-california-berkeley-2150-shattuck-avenue-penthouse-berkeley.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Berkeley SKYDECK",
+      "finalUrl": "https://skydeck.berkeley.edu/",
+      "language": "en-US",
+      "fontFamilies": [
+        "Raleway, sans-serif",
+        "\"Nunito Sans\"",
+        "\"Nunito Sans\", sans-serif",
+        "Georgia, \"serif\"",
+        "Georgia",
+        "Georgia, sans-serif",
+        "\"Nunito sans\", sans-serif"
+      ],
+      "colors": [
+        "rgb(21, 40, 75)",
+        "rgb(0, 0, 255)",
+        "rgb(255, 183, 0)",
+        "rgb(255, 255, 255)",
+        "rgb(157, 157, 157)",
+        "rgb(136, 136, 136)",
+        "rgb(205, 205, 205)",
+        "rgb(21, 39, 74)",
+        "rgb(13, 145, 217)",
+        "rgb(84, 84, 84)",
+        "rgb(112, 112, 112)",
+        "rgb(0, 176, 218)",
+        "rgb(0, 0, 0)",
+        "rgb(12, 77, 162)"
+      ],
+      "backgroundColors": [
+        "rgb(246, 246, 246)",
+        "rgb(21, 40, 75)",
+        "rgba(37, 179, 227, 0.7)",
+        "rgb(255, 183, 0)",
+        "rgb(239, 239, 239)",
+        "rgb(55, 55, 55)",
+        "rgb(255, 255, 255)",
+        "rgb(241, 241, 241)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Media",
+          "fontSize": "13px",
+          "fontWeight": "400",
+          "lineHeight": "26px"
+        },
+        {
+          "tag": "h2",
+          "text": "Where visionaries take flight",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "20px",
+          "fontWeight": "400",
+          "lineHeight": "25px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck Batch 23",
+          "fontSize": "18px",
+          "fontWeight": "900",
+          "lineHeight": "48px"
+        },
+        {
+          "tag": "h2",
+          "text": "Applications open in August!",
+          "fontSize": "18px",
+          "fontWeight": "700",
+          "lineHeight": "48px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Our Journey to make SkyDeck the best accelerator for startups",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "(2 mins.)",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck has provided us with the opportunity to connect with world class advisors.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "“Berkeley SkyDeck gave us the network and support we needed to succeed in the early stage of our company. They helped us hire top talent, identify go to market ",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "– Davit Baghdasaryan, Co-Founder & CEO of Krisp",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "SkyDeck by the numbers",
+          "fontSize": "22px",
+          "fontWeight": "700",
+          "lineHeight": "26.62px"
+        },
+        {
+          "tag": "h2",
+          "text": "What makes SkyDeck special?",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "36.16px"
+        },
+        {
+          "tag": "h2",
+          "text": "“SkyDeck helped me think bigger and bolder than I ever have before.”",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "Batch 11",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h2",
+          "text": "$1.5B valuation $15M raised $250K MRR",
+          "fontSize": "70px",
+          "fontWeight": "400",
+          "lineHeight": "96.9231px"
+        },
+        {
+          "tag": "h3",
+          "text": "Why SkyDeck is the best accelerator for startups",
+          "fontSize": "30px",
+          "fontWeight": "400",
+          "lineHeight": "34.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Berkeley SkyDeck Fund",
+          "fontSize": "32px",
+          "fontWeight": "400",
+          "lineHeight": "36.16px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "APPLY",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "Media",
+          "href": "https://skydeck.berkeley.edu/media"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "NEWSLETTER",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "INVESTORS",
+          "href": "https://skydeck.berkeley.edu/invest"
+        },
+        {
+          "text": "COMPANIES",
+          "href": "https://skydeck.berkeley.edu/portfolio/"
+        },
+        {
+          "text": "Portfolio",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "PARTNERS",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "ABOUT",
+          "href": "https://skydeck.berkeley.edu/our_team/"
+        },
+        {
+          "text": "SkyDeck News",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Media Kit",
+          "href": "https://skydeck.berkeley.edu/media-kit/"
+        },
+        {
+          "text": "Students",
+          "href": "http://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Intern Scholarship",
+          "href": "https://skydeck.berkeley.edu/intern-scholarship"
+        },
+        {
+          "text": "Virtual Intern Fair",
+          "href": "https://skydeck.berkeley.edu/intern-fair/"
+        },
+        {
+          "text": "Campus Partnerships",
+          "href": "https://skydeck.berkeley.edu/campus-partnerships"
+        },
+        {
+          "text": "ACE Program",
+          "href": "https://skydeck.berkeley.edu/ace"
+        },
+        {
+          "text": "Team & Ambassadors",
+          "href": "https://skydeck.berkeley.edu/our_team"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors"
+        },
+        {
+          "text": "PROGRAMS",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Berkeley SkyDeck",
+          "href": "https://skydeck.berkeley.edu/program"
+        },
+        {
+          "text": "ADVISORS",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "JOBS",
+          "href": "https://jobs.skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/#"
+        },
+        {
+          "text": "LEARN MORE",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "Berkeley SkyDeckFund – Learn more at SkyDeck.vc",
+          "href": "https://skydeck.vc/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://skydeck.berkeley.edu/invest/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors"
+        },
+        {
+          "text": "Faculty Advisors",
+          "href": "https://skydeck.berkeley.edu/faculty-advisors/"
+        },
+        {
+          "text": "Haas Startup Squad",
+          "href": "https://skydeck.berkeley.edu/uc-community/#has-startup"
+        },
+        {
+          "text": "Berkeley Science Fellows",
+          "href": "https://skydeck.berkeley.edu/uc-community/#berkeley-science"
+        },
+        {
+          "text": "Berkeley ACE",
+          "href": "https://skydeck.berkeley.edu/ace/"
+        },
+        {
+          "text": "Industry Partners",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program#program-tracks"
+        },
+        {
+          "text": "APPLY NOW",
+          "href": "https://skydeck.berkeley.edu/apply/"
+        },
+        {
+          "text": "See all the companies",
+          "href": "https://skydeck.berkeley.edu/portfolio"
+        },
+        {
+          "text": "See SkyDeck programs",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://skydeck.berkeley.edu/program/"
+        },
+        {
+          "text": "SkyAdvisors",
+          "href": "https://skydeck.berkeley.edu/advisors/"
+        },
+        {
+          "text": "SkyDeck News and Upcoming Events",
+          "href": "https://skydeck.berkeley.edu/media/"
+        },
+        {
+          "text": "Subscribe to our newsletter",
+          "href": "https://berkeley.us10.list-manage.com/subscribe?u=91e2d50b29e6a0274bc5499e4&id=32e7e8a277"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "UC Berkeley cultivates festive culture of ‘free thinkers’ at AI hackathon",
+          "href": "https://skydeck.berkeley.edu/2023-hackathon/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – April 8, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-april-8-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 18, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-18-2026/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Newsletters, Press Releases and more",
+          "href": "https://skydeck.berkeley.edu/category/newsletters/"
+        },
+        {
+          "text": "Newsletter – March 4, 2026",
+          "href": "https://skydeck.berkeley.edu/newsletter-march-4-2026/"
+        },
+        {
+          "text": "Learn more at SkyDeck.vc",
+          "href": "http://skydeck.vc/"
+        },
+        {
+          "text": "Investors FAQs",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "Industry Partner Benefits",
+          "href": "https://skydeck.berkeley.edu/partners/"
+        },
+        {
+          "text": "",
+          "href": "https://skydeck.berkeley.edu/"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/skydeck-berkeley/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 3,
+          "tag": "h2",
+          "id": "slider-17-slide-86-layer-1",
+          "className": "rs-layer rs-selectable",
+          "label": "Where visionaries take flight",
+          "text": "Where visionaries take flight",
+          "rect": {
+            "x": 61,
+            "y": 210,
+            "width": 271,
+            "height": 91
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/grid-systems/01-where-visionaries-take-flight.png"
+        },
+        {
+          "index": 5,
+          "tag": "h2",
+          "id": "slider-17-slide-86-layer-3",
+          "className": "rs-layer tp-shape tp-shapewrapper rs-selectable",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 60,
+            "y": 319,
+            "width": 273,
+            "height": 172
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/grid-systems/02-h2.png"
+        },
+        {
+          "index": 23,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck company_in_numbers",
+          "label": "What makes SkyDeck special?",
+          "text": "What makes SkyDeck special? SkyDeck has developed a strong global reputation and leverages our network of 500,000 Berkeley Alumni to help startups succeed. SkyDeck’s commitment to: Diversity, Equity, & Inclusion Venture Capital We facilitate intros and help build relationships with our extensive network of top tier VCs and investors. Berkeley SkyDeckFund – Learn more at SkyDeck.vc Investors Mentorship Our 900 advisors and mentors actively coach and advise our founders on everything from product development to customer acquisition to go-to-market strategy to fundraising and beyond. SkyAdvisors Access to Talent We help connect the intellectual firepower of UC Berkeley to our startups, matching hundreds of students, MBAs, and postdocs to intern and work for our startups. We also match faculty to advisory boards. Faculty Advisors Haas Startup Squad Berkeley Science Fellows Berkeley ACE Customer Development We have strong relationships with hundreds of businesses and enterprises that are often early adopters of our startups’ technology, and we facilitate key introductions to executives from countless companies across our vast network of Berkeley alums. Industry Partners BAM Workshops St",
+          "rect": {
+            "x": 0,
+            "y": 1349,
+            "width": 390,
+            "height": 4297
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/hero-sections/03-what-makes-skydeck-special.png"
+        },
+        {
+          "index": 31,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow order-1 heros wpb_column vc_column_container vc_col-sm-4 vc_col-lg-4 vc_col-md-4 vc_col-xs-12",
+          "label": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to le",
+          "text": "Some of Our Heroes Our founders dare to strap themselves in and launch into the unknown. Here are a few SkyDeck alumni that went to the moon (and beyond). Click on their logo to learn more. See all the companies",
+          "rect": {
+            "x": 0,
+            "y": 6365,
+            "width": 390,
+            "height": 270
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/cta-systems/07-some-of-our-heroes-our-founders-dare-to-strap-themselves-in-and-launch-into-the-unknown-he.png"
+        },
+        {
+          "index": 32,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 hero-logo wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "DIV",
+          "text": "",
+          "rect": {
+            "x": 0,
+            "y": 6635,
+            "width": 390,
+            "height": 100
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/hero-sections/08-div.png"
+        },
+        {
+          "index": 33,
+          "tag": "div",
+          "id": "",
+          "className": "program-header-video wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-8 vc_col-xs-12",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 35,
+            "y": 6889,
+            "width": 320,
+            "height": 180
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/navigation/09-div.png"
+        },
+        {
+          "index": 34,
+          "tag": "div",
+          "id": "",
+          "className": "order-2 order-md-1 tailored-programs wpb_column vc_column_container vc_col-sm-8 vc_col-lg-8 vc_col-md-12 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program ",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 35,
+            "y": 7372,
+            "width": 320,
+            "height": 1328
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/navigation/10-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 35,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6 vc_col-lg-6 vc_col-md-6 vc_col-xs-12",
+          "label": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "text": "SkyDeck Accelerator Program Roughly 20 startups are selected every 6 months to receive a $200,000 investment from the Berkeley SkyDeck Fund. Learn more",
+          "rect": {
+            "x": 35,
+            "y": 7566,
+            "width": 320,
+            "height": 135
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/hero-sections/11-skydeck-accelerator-program-roughly-20-startups-are-selected-every-6-months-to-receive-a-2.png"
+        },
+        {
+          "index": 36,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck we",
+          "text": "Innovation Partners Program SkyDeck’s Innovation Partner Program (IPP) offers partners an opportunity to send startups to be accelerated for a 3-month period at SkyDeck. SkyDeck welcomes IPP startups from various industries and across different funding stages. Learn more",
+          "rect": {
+            "x": 35,
+            "y": 7932,
+            "width": 320,
+            "height": 224
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/cta-systems/12-innovation-partners-program-skydeck-s-innovation-partner-program-ipp-offers-partners-an-op.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "link-with-arrow right-block tailored-program wpb_column vc_column_container vc_col-sm-6",
+          "label": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can ",
+          "text": "Pad-13 THE SKYDECK INCUBATOR Pad-13 is for early stage startups focused on growth and becoming more competitive for selection to SkyDeck’s Accelerator program. Pad-13 startups can be as early as the idea stage, with just one or two founders. Startups applying to Pad-13 should have at least one founder affiliated with University of California. Learn more",
+          "rect": {
+            "x": 35,
+            "y": 8386,
+            "width": 320,
+            "height": 278
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/hero-sections/13-pad-13-the-skydeck-incubator-pad-13-is-for-early-stage-startups-focused-on-growth-and-beco.png"
+        },
+        {
+          "index": 38,
+          "tag": "div",
+          "id": "",
+          "className": "vc_row wpb_row section vc_row-fluid  partners_InovativePartners home_skydeckFund why_sky_deck venture_fund",
+          "label": "Berkeley SkyDeck Fund",
+          "text": "Berkeley SkyDeck Fund SkyDeck’s Dedicated Venture Fund The Berkeley SkyDeck Fund is the investment partner for UC Berkeley’s SkyDeck Accelerator Program. The Fund invests $200K into each startup that goes through SkyDeck, and can participate in later stage investment rounds with Berkeley founders. One of the most active seed investors in the Bay Area, the Fund has made over 130 investments in 3 years! In a first-of-its-kind, public-private partnership, the Berkeley SkyDeck Fund shares one-half of fund profits with UC Berkeley. This unique partnership helps support UC Berkeley education and creates a source of funding for UC Berkeley’s public education mission. The Berkeley SkyDeck Fund is run by Chon Tang, Managing Partner, and Brian Bordley, Partner. It is funded by organizations such as Sequoia Capital, Sierra Ventures, and Canvas Ventures, as well as other VC firms, individuals, and large corporations. Learn more at SkyDeck.vc",
+          "rect": {
+            "x": 0,
+            "y": 10237,
+            "width": 390,
+            "height": 791
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/hero-sections/14-berkeley-skydeck-fund.png"
+        },
+        {
+          "index": 39,
+          "tag": "footer",
+          "id": "",
+          "className": "",
+          "label": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of th",
+          "text": "Berkeley SkyDeck University of California, Berkeley 2150 Shattuck Avenue, Penthouse Berkeley, CA 94704 © 2026 University of California, Berkeley Berkeley SkyDeck is a program of the University of California, Berkeley Contact Us About Companies Begin.Berkeley GIVE TO SKYDECK",
+          "rect": {
+            "x": 0,
+            "y": 11828,
+            "width": 390,
+            "height": 561
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/berkeley-skydeck/mobile/navigation/15-berkeley-skydeck-university-of-california-berkeley-2150-shattuck-avenue-penthouse-berkeley.png"
+        }
+      ]
+    }
+  }
+}

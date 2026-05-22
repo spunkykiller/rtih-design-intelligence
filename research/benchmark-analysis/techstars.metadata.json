@@ -1,0 +1,1316 @@
+{
+  "site": {
+    "name": "Techstars",
+    "slug": "techstars",
+    "url": "https://www.techstars.com/",
+    "category": "global-accelerator",
+    "priority": 1,
+    "focus": [
+      "program architecture",
+      "mentor trust",
+      "global network"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:18:56.412Z",
+  "viewports": {
+    "desktop": {
+      "title": "Building the World’s Most Powerful Network for Founders | Techstars",
+      "finalUrl": "https://www.techstars.com/",
+      "language": "en",
+      "fontFamilies": [
+        "\"Suisse Intl\", Helvetica, Arial, sans-serif"
+      ],
+      "colors": [
+        "rgb(250, 250, 250)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(33, 33, 33)",
+        "rgb(130, 152, 171)",
+        "rgb(57, 196, 99)",
+        "rgb(74, 74, 74)",
+        "rgb(56, 96, 190)",
+        "rgb(106, 106, 106)",
+        "rgb(85, 85, 85)",
+        "rgb(101, 101, 101)"
+      ],
+      "backgroundColors": [
+        "rgb(0, 0, 0)",
+        "rgb(52, 117, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(106, 106, 106)",
+        "rgb(56, 96, 190)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Applications Are Now Open",
+          "fontSize": "56px",
+          "fontWeight": "600",
+          "lineHeight": "64px"
+        },
+        {
+          "tag": "h3",
+          "text": "1,100+",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "lineHeight": "64px"
+        },
+        {
+          "tag": "h3",
+          "text": "$133.4B",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "lineHeight": "64px"
+        },
+        {
+          "tag": "h3",
+          "text": "23",
+          "fontSize": "56px",
+          "fontWeight": "700",
+          "lineHeight": "64px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find the Latest From Techstars",
+          "fontSize": "70px",
+          "fontWeight": "700",
+          "lineHeight": "75px"
+        },
+        {
+          "tag": "h1",
+          "text": "Sign Up for the Techstars Newsletter",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "45.76px"
+        },
+        {
+          "tag": "h2",
+          "text": "Opt-out of Targeted Advertising/Sharing",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manage Consent Preferences",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cookie List",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.techstars.com/"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "locations",
+          "href": "https://www.techstars.com/locations"
+        },
+        {
+          "text": "verticals",
+          "href": "https://www.techstars.com/vertical-networks"
+        },
+        {
+          "text": "about",
+          "href": "https://www.techstars.com/about"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://apply.techstars.com/?source=nav"
+        },
+        {
+          "text": "Find a Program",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "Investment Terms",
+          "href": "https://www.techstars.com/newsroom/investment-terms"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Portfolio Market Cap",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "$1B+ Companies",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "Give First",
+          "href": "https://www.techstars.com/blog/podcasts/what-is-give-first"
+        },
+        {
+          "text": "",
+          "href": "https://www.alloy.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.chainalysis.com/"
+        },
+        {
+          "text": "",
+          "href": "https://classpass.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.datarobot.com/"
+        },
+        {
+          "text": "",
+          "href": "https://degreed.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.digitalocean.com/"
+        },
+        {
+          "text": "",
+          "href": "https://organizations.headspace.com/ginger-is-now-part-of-headspace"
+        },
+        {
+          "text": "",
+          "href": "https://www.latch.com/"
+        },
+        {
+          "text": "",
+          "href": "https://newsela.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.outreach.io/"
+        },
+        {
+          "text": "",
+          "href": "https://owletcare.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.pillpack.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.remitly.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.salesloft.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.self.inc/"
+        },
+        {
+          "text": "",
+          "href": "https://sendbird.com/"
+        },
+        {
+          "text": "",
+          "href": "https://sendgrid.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tradingview.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.shipveho.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.flyzipline.com/"
+        },
+        {
+          "text": "",
+          "href": "https://twelve.co/"
+        },
+        {
+          "text": "",
+          "href": "https://openloophealth.com/"
+        },
+        {
+          "text": "",
+          "href": "https://preply.com/"
+        },
+        {
+          "text": "View the full Techstars portfolio",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/founder-catalyst?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719510570218.1719515415920.20&__hssc=124297685.1.1719515415920&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-weekend?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.47.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-week?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.55.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Meet our mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Partner with us",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "Invest in the future",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "Where Smart Money Is Going in 2026",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "How to Split Co-Founder Equity (The Right Way)",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "Overwatch AI Raises $1.5M to Reduce Flight Disruptions",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://twitter.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@techstars.global"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/user/techstarstv"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "http://www.techstars.com/terms-of-use/"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "http://www.techstars.com/privacy-policy-4/"
+        },
+        {
+          "text": "resources",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "education",
+          "href": "https://www.techstars.com/education"
+        },
+        {
+          "text": "blog",
+          "href": "https://www.techstars.com/blog"
+        },
+        {
+          "text": "newsroom",
+          "href": "https://www.techstars.com/newsroom"
+        },
+        {
+          "text": "newsletter",
+          "href": "https://accelerate.techstars.com/en/techstars-newsletter-subscribe?utm_source=emailnewsletter&utm_medium=website&utm_campaign=footer"
+        },
+        {
+          "text": "events",
+          "href": "https://www.techstars.com/events"
+        },
+        {
+          "text": "faq",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "contact",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "information for",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/accelerator-hub"
+        },
+        {
+          "text": "finding an accelerator",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "finding a mentor",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "becoming a mentor",
+          "href": "https://www.techstars.com/mentorship-at-techstars"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "initiatives",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars universe",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars foundation",
+          "href": "https://techstars.org/"
+        },
+        {
+          "text": "rising stars",
+          "href": "https://www.techstars.com/risingstars"
+        },
+        {
+          "text": "diversity, equity & inclusion",
+          "href": "https://www.techstars.com/diversity-equity-inclusion"
+        },
+        {
+          "text": "guidelines",
+          "href": "https://www.techstars.com/code-of-conduct"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "",
+          "className": "jss51 jss53 jss43 jss44 Navigation jss27 mui-fixed",
+          "label": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "text": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 80
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/techstars/desktop/grid-systems/01-startupsinvestorspartnerslocationsverticalsaboutapply-now.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "Building the World’s Most Powerful Network for Founders | Techstars",
+      "finalUrl": "https://www.techstars.com/",
+      "language": "en",
+      "fontFamilies": [
+        "\"Suisse Intl\", Helvetica, Arial, sans-serif"
+      ],
+      "colors": [
+        "rgb(250, 250, 250)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(33, 33, 33)",
+        "rgb(130, 152, 171)",
+        "rgb(57, 196, 99)",
+        "rgb(74, 74, 74)",
+        "rgb(56, 96, 190)",
+        "rgb(106, 106, 106)",
+        "rgb(85, 85, 85)",
+        "rgb(101, 101, 101)"
+      ],
+      "backgroundColors": [
+        "rgb(0, 0, 0)",
+        "rgb(52, 117, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(106, 106, 106)",
+        "rgb(56, 96, 190)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Applications Are Now Open",
+          "fontSize": "32px",
+          "fontWeight": "600",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "1,100+",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "$133.4B",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "23",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find the Latest From Techstars",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h1",
+          "text": "Sign Up for the Techstars Newsletter",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "45.76px"
+        },
+        {
+          "tag": "h2",
+          "text": "Opt-out of Targeted Advertising/Sharing",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manage Consent Preferences",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cookie List",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.techstars.com/"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "locations",
+          "href": "https://www.techstars.com/locations"
+        },
+        {
+          "text": "verticals",
+          "href": "https://www.techstars.com/vertical-networks"
+        },
+        {
+          "text": "about",
+          "href": "https://www.techstars.com/about"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://apply.techstars.com/?source=nav"
+        },
+        {
+          "text": "Find a Program",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "Investment Terms",
+          "href": "https://www.techstars.com/newsroom/investment-terms"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Portfolio Market Cap",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "$1B+ Companies",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "Give First",
+          "href": "https://www.techstars.com/blog/podcasts/what-is-give-first"
+        },
+        {
+          "text": "",
+          "href": "https://www.alloy.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.chainalysis.com/"
+        },
+        {
+          "text": "",
+          "href": "https://classpass.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.datarobot.com/"
+        },
+        {
+          "text": "",
+          "href": "https://degreed.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.digitalocean.com/"
+        },
+        {
+          "text": "",
+          "href": "https://organizations.headspace.com/ginger-is-now-part-of-headspace"
+        },
+        {
+          "text": "",
+          "href": "https://www.latch.com/"
+        },
+        {
+          "text": "",
+          "href": "https://newsela.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.outreach.io/"
+        },
+        {
+          "text": "",
+          "href": "https://owletcare.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.pillpack.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.remitly.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.salesloft.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.self.inc/"
+        },
+        {
+          "text": "",
+          "href": "https://sendbird.com/"
+        },
+        {
+          "text": "",
+          "href": "https://sendgrid.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tradingview.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.shipveho.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.flyzipline.com/"
+        },
+        {
+          "text": "",
+          "href": "https://twelve.co/"
+        },
+        {
+          "text": "",
+          "href": "https://openloophealth.com/"
+        },
+        {
+          "text": "",
+          "href": "https://preply.com/"
+        },
+        {
+          "text": "View the full Techstars portfolio",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/founder-catalyst?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719510570218.1719515415920.20&__hssc=124297685.1.1719515415920&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-weekend?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.47.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-week?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.55.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Meet our mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Partner with us",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "Invest in the future",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "Where Smart Money Is Going in 2026",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "How to Split Co-Founder Equity (The Right Way)",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "Overwatch AI Raises $1.5M to Reduce Flight Disruptions",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://twitter.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@techstars.global"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/user/techstarstv"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "http://www.techstars.com/terms-of-use/"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "http://www.techstars.com/privacy-policy-4/"
+        },
+        {
+          "text": "resources",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "education",
+          "href": "https://www.techstars.com/education"
+        },
+        {
+          "text": "blog",
+          "href": "https://www.techstars.com/blog"
+        },
+        {
+          "text": "newsroom",
+          "href": "https://www.techstars.com/newsroom"
+        },
+        {
+          "text": "newsletter",
+          "href": "https://accelerate.techstars.com/en/techstars-newsletter-subscribe?utm_source=emailnewsletter&utm_medium=website&utm_campaign=footer"
+        },
+        {
+          "text": "events",
+          "href": "https://www.techstars.com/events"
+        },
+        {
+          "text": "faq",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "contact",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "information for",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/accelerator-hub"
+        },
+        {
+          "text": "finding an accelerator",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "finding a mentor",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "becoming a mentor",
+          "href": "https://www.techstars.com/mentorship-at-techstars"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "initiatives",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars universe",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars foundation",
+          "href": "https://techstars.org/"
+        },
+        {
+          "text": "rising stars",
+          "href": "https://www.techstars.com/risingstars"
+        },
+        {
+          "text": "diversity, equity & inclusion",
+          "href": "https://www.techstars.com/diversity-equity-inclusion"
+        },
+        {
+          "text": "guidelines",
+          "href": "https://www.techstars.com/code-of-conduct"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "",
+          "className": "jss51 jss53 jss43 jss44 Navigation jss27 mui-fixed",
+          "label": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "text": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 834,
+            "height": 80
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/techstars/tablet/grid-systems/01-startupsinvestorspartnerslocationsverticalsaboutapply-now.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "Building the World’s Most Powerful Network for Founders | Techstars",
+      "finalUrl": "https://www.techstars.com/",
+      "language": "en",
+      "fontFamilies": [
+        "\"Suisse Intl\", Helvetica, Arial, sans-serif"
+      ],
+      "colors": [
+        "rgb(250, 250, 250)",
+        "rgb(255, 255, 255)",
+        "rgb(17, 17, 17)",
+        "rgb(33, 33, 33)",
+        "rgb(130, 152, 171)",
+        "rgb(57, 196, 99)",
+        "rgb(74, 74, 74)",
+        "rgb(56, 96, 190)",
+        "rgb(106, 106, 106)",
+        "rgb(85, 85, 85)",
+        "rgb(101, 101, 101)"
+      ],
+      "backgroundColors": [
+        "rgb(0, 0, 0)",
+        "rgb(52, 117, 178)",
+        "rgb(255, 255, 255)",
+        "rgb(106, 106, 106)",
+        "rgb(56, 96, 190)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h3",
+          "text": "Applications Are Now Open",
+          "fontSize": "32px",
+          "fontWeight": "600",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "1,100+",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "$133.4B",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h3",
+          "text": "23",
+          "fontSize": "24px",
+          "fontWeight": "700",
+          "lineHeight": "35.2px"
+        },
+        {
+          "tag": "h2",
+          "text": "Find the Latest From Techstars",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "36px"
+        },
+        {
+          "tag": "h1",
+          "text": "Sign Up for the Techstars Newsletter",
+          "fontSize": "32px",
+          "fontWeight": "700",
+          "lineHeight": "45.76px"
+        },
+        {
+          "tag": "h2",
+          "text": "Opt-out of Targeted Advertising/Sharing",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "24px"
+        },
+        {
+          "tag": "h3",
+          "text": "Manage Consent Preferences",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cookie List",
+          "fontSize": "16px",
+          "fontWeight": "700",
+          "lineHeight": "20.8px"
+        }
+      ],
+      "links": [
+        {
+          "text": "",
+          "href": "https://www.techstars.com/"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "locations",
+          "href": "https://www.techstars.com/locations"
+        },
+        {
+          "text": "verticals",
+          "href": "https://www.techstars.com/vertical-networks"
+        },
+        {
+          "text": "about",
+          "href": "https://www.techstars.com/about"
+        },
+        {
+          "text": "Apply Now",
+          "href": "https://apply.techstars.com/?source=nav"
+        },
+        {
+          "text": "Find a Program",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "Investment Terms",
+          "href": "https://www.techstars.com/newsroom/investment-terms"
+        },
+        {
+          "text": "Mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Portfolio Market Cap",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "$1B+ Companies",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn More",
+          "href": "https://www.techstars.com/startups"
+        },
+        {
+          "text": "Give First",
+          "href": "https://www.techstars.com/blog/podcasts/what-is-give-first"
+        },
+        {
+          "text": "",
+          "href": "https://www.alloy.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.chainalysis.com/"
+        },
+        {
+          "text": "",
+          "href": "https://classpass.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.datarobot.com/"
+        },
+        {
+          "text": "",
+          "href": "https://degreed.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.digitalocean.com/"
+        },
+        {
+          "text": "",
+          "href": "https://organizations.headspace.com/ginger-is-now-part-of-headspace"
+        },
+        {
+          "text": "",
+          "href": "https://www.latch.com/"
+        },
+        {
+          "text": "",
+          "href": "https://newsela.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.outreach.io/"
+        },
+        {
+          "text": "",
+          "href": "https://owletcare.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.pillpack.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.remitly.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.salesloft.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.self.inc/"
+        },
+        {
+          "text": "",
+          "href": "https://sendbird.com/"
+        },
+        {
+          "text": "",
+          "href": "https://sendgrid.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.tradingview.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.shipveho.com/"
+        },
+        {
+          "text": "",
+          "href": "https://www.flyzipline.com/"
+        },
+        {
+          "text": "",
+          "href": "https://twelve.co/"
+        },
+        {
+          "text": "",
+          "href": "https://openloophealth.com/"
+        },
+        {
+          "text": "",
+          "href": "https://preply.com/"
+        },
+        {
+          "text": "View the full Techstars portfolio",
+          "href": "https://www.techstars.com/portfolio"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/founder-catalyst?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719510570218.1719515415920.20&__hssc=124297685.1.1719515415920&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-weekend?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.47.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Learn more",
+          "href": "https://www.techstars.com/communities/startup-week?__hstc=124297685.d18dfba50d89a11f070a818f3684d3c9.1718408678005.1719589265125.1719873837473.25&__hssc=124297685.55.1719873837473&__hsfp=3530606189"
+        },
+        {
+          "text": "Meet our mentors",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "Partner with us",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "Invest in the future",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "Where Smart Money Is Going in 2026",
+          "href": "https://www.techstars.com/blog/pov/where-smart-money-is-going-in-2026"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "How to Split Co-Founder Equity (The Right Way)",
+          "href": "https://www.techstars.com/blog/advice/how-to-split-co-founder-equity-the-right-way"
+        },
+        {
+          "text": "",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "Overwatch AI Raises $1.5M to Reduce Flight Disruptions",
+          "href": "https://www.techstars.com/blog/startup-profile/overwatch-ai-raises-1-5m-to-reduce-flight-disruptions"
+        },
+        {
+          "text": "",
+          "href": "https://www.linkedin.com/company/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://www.instagram.com/techstars/"
+        },
+        {
+          "text": "",
+          "href": "https://twitter.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.tiktok.com/@techstars.global"
+        },
+        {
+          "text": "",
+          "href": "https://www.facebook.com/techstars"
+        },
+        {
+          "text": "",
+          "href": "https://www.youtube.com/user/techstarstv"
+        },
+        {
+          "text": "Terms of Use",
+          "href": "http://www.techstars.com/terms-of-use/"
+        },
+        {
+          "text": "Privacy Policy",
+          "href": "http://www.techstars.com/privacy-policy-4/"
+        },
+        {
+          "text": "resources",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "education",
+          "href": "https://www.techstars.com/education"
+        },
+        {
+          "text": "blog",
+          "href": "https://www.techstars.com/blog"
+        },
+        {
+          "text": "newsroom",
+          "href": "https://www.techstars.com/newsroom"
+        },
+        {
+          "text": "newsletter",
+          "href": "https://accelerate.techstars.com/en/techstars-newsletter-subscribe?utm_source=emailnewsletter&utm_medium=website&utm_campaign=footer"
+        },
+        {
+          "text": "events",
+          "href": "https://www.techstars.com/events"
+        },
+        {
+          "text": "faq",
+          "href": "https://help.techstars.com/support/home"
+        },
+        {
+          "text": "contact",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "information for",
+          "href": "https://www.techstars.com/contact"
+        },
+        {
+          "text": "startups",
+          "href": "https://www.techstars.com/accelerator-hub"
+        },
+        {
+          "text": "finding an accelerator",
+          "href": "https://www.techstars.com/accelerators"
+        },
+        {
+          "text": "finding a mentor",
+          "href": "https://www.techstars.com/mentors"
+        },
+        {
+          "text": "becoming a mentor",
+          "href": "https://www.techstars.com/mentorship-at-techstars"
+        },
+        {
+          "text": "partners",
+          "href": "https://www.techstars.com/partner"
+        },
+        {
+          "text": "investors",
+          "href": "https://www.techstars.com/investors"
+        },
+        {
+          "text": "initiatives",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars universe",
+          "href": "https://universe.techstars.com/"
+        },
+        {
+          "text": "techstars foundation",
+          "href": "https://techstars.org/"
+        },
+        {
+          "text": "rising stars",
+          "href": "https://www.techstars.com/risingstars"
+        },
+        {
+          "text": "diversity, equity & inclusion",
+          "href": "https://www.techstars.com/diversity-equity-inclusion"
+        },
+        {
+          "text": "guidelines",
+          "href": "https://www.techstars.com/code-of-conduct"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "",
+          "className": "jss51 jss53 jss43 jss44 Navigation jss27 mui-fixed",
+          "label": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "text": "startupsinvestorspartnerslocationsverticalsaboutApply Now",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 390,
+            "height": 80
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/techstars/mobile/grid-systems/01-startupsinvestorspartnerslocationsverticalsaboutapply-now.png"
+        }
+      ]
+    }
+  }
+}

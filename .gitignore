@@ -1,0 +1,6 @@
+node_modules/
+research/screenshots/
+research/logs/
+playwright-report/
+test-results/
+*.tmp

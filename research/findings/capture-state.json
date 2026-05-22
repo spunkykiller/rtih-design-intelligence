@@ -1,0 +1,92 @@
+{
+  "capturedSites": {
+    "500-global": {
+      "name": "500 Global",
+      "url": "https://500.co/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:24:58.656Z",
+      "records": 65,
+      "errors": 0
+    },
+    "alchemist-accelerator": {
+      "name": "Alchemist Accelerator",
+      "url": "https://www.alchemistaccelerator.com/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:25:45.168Z",
+      "records": 30,
+      "errors": 0
+    },
+    "rtih-current": {
+      "name": "Ratan Tata Incubation Hub / RTIH current site",
+      "url": "https://rtih.co.in/",
+      "category": "current-rth",
+      "lastCapturedAt": "2026-05-22T07:28:32.582Z",
+      "records": 94,
+      "errors": 9
+    },
+    "y-combinator": {
+      "name": "Y Combinator",
+      "url": "https://www.ycombinator.com/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:26:25.831Z",
+      "records": 76,
+      "errors": 0
+    },
+    "techstars": {
+      "name": "Techstars",
+      "url": "https://www.techstars.com/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:19:30.048Z",
+      "records": 21,
+      "errors": 0
+    },
+    "antler": {
+      "name": "Antler",
+      "url": "https://www.antler.co/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:24:10.944Z",
+      "records": 74,
+      "errors": 0
+    },
+    "berkeley-skydeck": {
+      "name": "Berkeley SkyDeck",
+      "url": "https://skydeck.berkeley.edu/",
+      "category": "university-incubator",
+      "lastCapturedAt": "2026-05-22T07:50:39.450Z",
+      "records": 62,
+      "errors": 9
+    },
+    "creative-destruction-lab": {
+      "name": "Creative Destruction Lab",
+      "url": "https://creativedestructionlab.com/",
+      "category": "deep-tech-innovation",
+      "lastCapturedAt": "2026-05-22T07:51:52.533Z",
+      "records": 54,
+      "errors": 0
+    },
+    "hax": {
+      "name": "HAX",
+      "url": "https://hax.co/",
+      "category": "venture-studio",
+      "lastCapturedAt": "2026-05-22T07:52:56.423Z",
+      "records": 29,
+      "errors": 0
+    },
+    "mars-discovery-district": {
+      "name": "MaRS Discovery District",
+      "url": "https://www.marsdd.com/",
+      "category": "innovation-ecosystem",
+      "lastCapturedAt": "2026-05-22T07:54:15.261Z",
+      "records": 120,
+      "errors": 5
+    },
+    "masschallenge": {
+      "name": "MassChallenge",
+      "url": "https://masschallenge.org/",
+      "category": "global-accelerator",
+      "lastCapturedAt": "2026-05-22T07:54:59.091Z",
+      "records": 35,
+      "errors": 0
+    }
+  }
+}

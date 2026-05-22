@@ -1,0 +1,3184 @@
+{
+  "site": {
+    "name": "MaRS Discovery District",
+    "slug": "mars-discovery-district",
+    "url": "https://www.marsdd.com/",
+    "category": "innovation-ecosystem",
+    "priority": 0.5,
+    "focus": [
+      "public innovation ecosystem",
+      "institutional programs",
+      "sector navigation"
+    ]
+  },
+  "capturedAt": "2026-05-22T07:52:56.423Z",
+  "viewports": {
+    "desktop": {
+      "title": "MaRS Discovery District",
+      "finalUrl": "https://www.marsdd.com/",
+      "language": "en-CA",
+      "fontFamilies": [
+        "Inter-Medium, MaRSMarcin-Regular, sans-serif",
+        "Inter-Bold, MaRSMarcin-Bold, sans-serif",
+        "Inter-ExtraBold, MaRSMarcin-Bold, sans-serif"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(0, 61, 165)",
+        "rgb(115, 115, 115)",
+        "rgb(255, 255, 255)",
+        "rgba(0, 0, 0, 0)",
+        "rgb(51, 51, 51)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(0, 61, 165)",
+        "rgb(247, 247, 247)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We help innovators build a better world",
+          "fontSize": "54px",
+          "fontWeight": "500",
+          "lineHeight": "65px"
+        },
+        {
+          "tag": "h2",
+          "text": "Work with the people who are driving innovation forward",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "37px"
+        },
+        {
+          "tag": "h2",
+          "text": "A place to grow",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h2",
+          "text": "The right connections",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h2",
+          "text": "Expert guidance",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h2",
+          "text": "Scaling innovation for global impact",
+          "fontSize": "36px",
+          "fontWeight": "500",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h2",
+          "text": "Increasing the odds of success for Canadian startups",
+          "fontSize": "36px",
+          "fontWeight": "500",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sprout Family",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "StellarAlgo",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "Effenco",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "RetiSpec",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ayrton Energy",
+          "fontSize": "18px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h2",
+          "text": "Driving change",
+          "fontSize": "36px",
+          "fontWeight": "500",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h3",
+          "text": "Life sciences",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cleantech",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "Emerging technologies",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "Bringing prosthetics to people in need",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "These five cleantech startups are literally breaking new ground",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pulse Check: Overcoming barriers facing Canadian health tech ventures",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h3",
+          "text": "June 16, 2026",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h2",
+          "text": "Technically Speaking: Bootstrapping your business",
+          "fontSize": "36px",
+          "fontWeight": "500",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h3",
+          "text": "November 17 & 18, 2026",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        },
+        {
+          "tag": "h2",
+          "text": "MaRS Climate Impact",
+          "fontSize": "36px",
+          "fontWeight": "500",
+          "lineHeight": "45px"
+        },
+        {
+          "tag": "h3",
+          "text": "May 25, 2026",
+          "fontSize": "25px",
+          "fontWeight": "500",
+          "lineHeight": "35px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content.",
+          "href": "https://www.marsdd.com/#afterNav"
+        },
+        {
+          "text": "Jump to Page Footer.",
+          "href": "https://www.marsdd.com/#footer"
+        },
+        {
+          "text": "",
+          "href": "https://www.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "Sign in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "About MaRS",
+          "href": "https://www.marsdd.com/about/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.marsdd.com/invest-with-us/"
+        },
+        {
+          "text": "Supporters",
+          "href": "https://www.marsdd.com/supporters/"
+        },
+        {
+          "text": "Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Startup Toolkit",
+          "href": "https://learn.marsdd.com/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.marsdd.com/contact/"
+        },
+        {
+          "text": "Log in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Français",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "health",
+          "href": "https://www.marsdd.com/our-sectors/health/"
+        },
+        {
+          "text": "climate",
+          "href": "https://www.marsdd.com/our-sectors/climate/"
+        },
+        {
+          "text": "AI",
+          "href": "https://www.marsdd.com/service/innovate-uk-manufacturing/"
+        },
+        {
+          "text": "other key sectors",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "office, lab and event spaces",
+          "href": "https://hubs.marsdd.com/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 0,
+          "tag": "header",
+          "id": "",
+          "className": "site-header header--main header--collapse",
+          "label": "Startups Membership Core Accelerators MaRS Capital Program Momentum at MaRS MaRS Connect Directory Partners Our fund Our hubs Innovation Hubs About Innovation Hubs MaRS Centre MaRS",
+          "text": "Startups Membership Core Accelerators MaRS Capital Program Momentum at MaRS MaRS Connect Directory Partners Our fund Our hubs Innovation Hubs About Innovation Hubs MaRS Centre MaRS Waterfront Our Tenants Workspaces Lab Spaces Office Spaces Coworking at MaRS Waterfront MaRS Incubator Events Upcoming Events Event Spaces Work in tech Our stories Articles and videos Media and press MaRS podcast Reports and case studies FR Sign in Startups Membership Core Accelerators MaRS Capital Program Momentum at MaRS MaRS Connect Directory Partners Our fund Our hubs Innovation Hubs About Innovation Hubs MaRS Centre MaRS Waterfront Our Tenants Workspaces Lab Spaces Office Spaces Coworking at MaRS Waterfront MaRS Incubator Events Upcoming Events Event Spaces Work in tech Our stories Articles and videos Media and press MaRS podcast Reports and case studies About MaRS Investors Supporters Events Startup Toolkit MaRS Waterfront Contact Log in Français FR",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1440,
+            "height": 128
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/01-startups-membership-core-accelerators-mars-capital-program-momentum-at-mars-mars-connect-d.png"
+        },
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "missionStatment sectionWrapper",
+          "label": "Work with the people who are driving innovation forward",
+          "text": "Work with the people who are driving innovation forward A place to grow Join Canada’s most connected innovation ecosystem. Founders, funders, researchers, policy-makers, corporates and advisors come together at the MaRS Centre and Waterfront hub to collaborate, spark new ideas and help startups grow. Find out more about our flexible office, lab and event spaces. The right connections Whether you’re raising capital, looking to shape your narrative, or testing new markets, MaRS opens doors to vetted investors, customers and partners. Explore our targeted programming for startups. Expert guidance Every founder needs a sounding board. Learn from seasoned advisors and industry experts who’ve built and scaled real companies. MaRS provides tailored support at every stage of growth. Meet our advisors.",
+          "rect": {
+            "x": 0,
+            "y": 891,
+            "width": 1440,
+            "height": 421
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/04-work-with-the-people-who-are-driving-innovation-forward.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "statsFeature sectorSection sectionWrapper show_brand_icons mt-0 mb-0 ",
+          "label": "Scaling innovation for global impact",
+          "text": "HOW WE WORK Scaling innovation for global impact Canada’s most ambitious founders turn to MaRS for support to help hit key milestones from pre-seed funding to international expansion. 1,200+ Ventures supported by MaRS across sectors $ 11B+ Raised by MaRS-supported companies between 2010 and 2024 125+ Companies and organizations are based in the MaRS Centre and MaRS Waterfront Discover Canada’s most promising startups in real time. MaRS Connect is an exclusive platform that gives founders, investors and innovation buyers direct access to vetted ventures, market information and new opportunities.",
+          "rect": {
+            "x": 0,
+            "y": 1392,
+            "width": 1440,
+            "height": 698
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/05-scaling-innovation-for-global-impact.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "startups sectionWrapper pb-0 mt-lg-0",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 0,
+            "y": 2140,
+            "width": 1440,
+            "height": 708
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/06-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "startups__wrapper",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 0,
+            "y": 2210,
+            "width": 1440,
+            "height": 638
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/07-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 10,
+          "tag": "div",
+          "id": "",
+          "className": "startups__top col-12 col-md-8",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 105,
+            "y": 2210,
+            "width": 820,
+            "height": 263
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/08-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "startups__title",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 120,
+            "y": 2225,
+            "width": 790,
+            "height": 224
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/09-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 13,
+          "tag": "div",
+          "id": "",
+          "className": "startups__cta col-12 col-md-4",
+          "label": "Startup Services",
+          "text": "Startup Services",
+          "rect": {
+            "x": 925,
+            "y": 2260,
+            "width": 410,
+            "height": 263
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/hero-sections/10-startup-services.png"
+        },
+        {
+          "index": 14,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areas",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 120,
+            "y": 2473,
+            "width": 1200,
+            "height": 375
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/11-sprout-family.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "impactAreas sectionWrapper pb-0 mt-lg-0",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 2928,
+            "width": 1440,
+            "height": 955
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/12-driving-change.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__wrapper",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 2998,
+            "width": 1440,
+            "height": 885
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/13-driving-change.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__top col-12 col-md-8",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 105,
+            "y": 2998,
+            "width": 820,
+            "height": 233
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/grid-systems/14-driving-change.png"
+        },
+        {
+          "index": 43,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__title",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 120,
+            "y": 2998,
+            "width": 790,
+            "height": 209
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/grid-systems/15-driving-change.png"
+        },
+        {
+          "index": 44,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__cta col-12 col-md-4",
+          "label": "Apply to MaRS Work with Us",
+          "text": "Apply to MaRS Work with Us",
+          "rect": {
+            "x": 925,
+            "y": 3048,
+            "width": 410,
+            "height": 233
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/16-apply-to-mars-work-with-us.png"
+        },
+        {
+          "index": 45,
+          "tag": "div",
+          "id": "",
+          "className": "col-12 col-md-4 impactAreas__area",
+          "label": "Life sciences",
+          "text": "Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More",
+          "rect": {
+            "x": 105,
+            "y": 3281,
+            "width": 410,
+            "height": 652
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/17-life-sciences.png"
+        },
+        {
+          "index": 46,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaImage",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 120,
+            "y": 3281,
+            "width": 380,
+            "height": 380
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/grid-systems/18-div.png"
+        },
+        {
+          "index": 47,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaContent",
+          "label": "Life sciences",
+          "text": "Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More",
+          "rect": {
+            "x": 120,
+            "y": 3661,
+            "width": 380,
+            "height": 245
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/19-life-sciences.png"
+        },
+        {
+          "index": 51,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaContent",
+          "label": "Cleantech",
+          "text": "Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More",
+          "rect": {
+            "x": 530,
+            "y": 3661,
+            "width": 380,
+            "height": 272
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/20-cleantech.png"
+        },
+        {
+          "index": 48,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaDescription",
+          "label": "We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market.",
+          "text": "We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market.",
+          "rect": {
+            "x": 120,
+            "y": 3728,
+            "width": 380,
+            "height": 108
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/21-we-support-health-and-life-sciences-companies-bringing-breakthrough-therapies-diagnostics-.png"
+        },
+        {
+          "index": 52,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaDescription",
+          "label": "We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future.",
+          "text": "We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future.",
+          "rect": {
+            "x": 530,
+            "y": 3728,
+            "width": 380,
+            "height": 135
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/22-we-help-cleantech-startups-scale-solutions-in-food-energy-transportation-construction-and-.png"
+        },
+        {
+          "index": 57,
+          "tag": "section",
+          "id": "",
+          "className": "magazineIssues manualPosts sectionWrapper mt-0 mb-0",
+          "label": "Bringing prosthetics to people in need",
+          "text": "Bringing prosthetics to people in need Almost 40 million people require prosthetics or orthotics, but only 10 to 15 per cent can access them. The Victoria Hand Project has developed a sustainable way of creating customized upper limb replacements anywhere in the world. These five cleantech startups are literally breaking new ground The startups in the inaugural cohort of the MaRS First-of-a-Kind Lab are gearing up for commercial-scale deployment of their climate solutions. Pulse Check: Overcoming barriers facing Canadian health tech ventures At #MaRSImpactHealth, we spoke with panelists and attendees about the biggest barriers facing Canadian health ventures.",
+          "rect": {
+            "x": 0,
+            "y": 3963,
+            "width": 1440,
+            "height": 556
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/23-bringing-prosthetics-to-people-in-need.png"
+        },
+        {
+          "index": 58,
+          "tag": "section",
+          "id": "",
+          "className": "featuredImage sectionWrapper",
+          "label": "June 16, 2026",
+          "text": "June 16, 2026 Technically Speaking: Bootstrapping your business Event Details All Events November 17 & 18, 2026 MaRS Climate Impact Event Details All Events May 25, 2026 Toronto takes on the world: Winning strategies for global growth Event Details All Events May 25, 2026 MaRS Mornings - New world order: Scaling globally in an era of “middle power” ties Event Details All Events May 26, 2026 MaRS Mornings - Pitch session: AI, quantum and emerging tech ventures Event Details All Events May 27, 2026 MaRS Mornings - Hype versus reality: Valuation in the age of AI Event Details All Events June 1, 2026 TOCW - Celebrating 5 Years of Mission from MaRS: Wins, Challenges and Perspectives Event Details All Events June 3, 2026 Better Buildings: Improving performance in multi-residential buildings Event Details All Events June 16, 2026 Technically Speaking: Bootstrapping your business Event Details All Events November 17 & 18, 2026 MaRS Climate Impact Event Details All Events May 25, 2026 Toronto takes on the world: Winning strategies for global growth Event Details All Events May 25, 2026 MaRS Mornings - New world order: Scaling globally in an era of “middle power” ties Event Details All Event",
+          "rect": {
+            "x": 0,
+            "y": 4599,
+            "width": 1440,
+            "height": 524
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/event-systems/24-june-16-2026.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "impactAreas sectionWrapper pb-0 mt-lg-0",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities. Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation Investors Fuel the next generation of transformation startups. In addition to the work of MaRS IAF, MaRS connects forward-thinking investors with high-potential companies driving impact. Partner with MaRS Partners Collaborate on the future. We work with corporate leaders, policy-makers, philanthropists and civic innovators to help startups commercialize solutions through curated partnerships. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 5203,
+            "width": 1440,
+            "height": 599
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/25-support-innovation-that-matters.png"
+        },
+        {
+          "index": 60,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__wrapper",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities. Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation Investors Fuel the next generation of transformation startups. In addition to the work of MaRS IAF, MaRS connects forward-thinking investors with high-potential companies driving impact. Partner with MaRS Partners Collaborate on the future. We work with corporate leaders, policy-makers, philanthropists and civic innovators to help startups commercialize solutions through curated partnerships. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 5273,
+            "width": 1440,
+            "height": 529
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/26-support-innovation-that-matters.png"
+        },
+        {
+          "index": 61,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__top col-12 ",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities.",
+          "rect": {
+            "x": 105,
+            "y": 5273,
+            "width": 1230,
+            "height": 233
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/27-support-innovation-that-matters.png"
+        },
+        {
+          "index": 62,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__title",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities.",
+          "rect": {
+            "x": 120,
+            "y": 5273,
+            "width": 1200,
+            "height": 209
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/28-support-innovation-that-matters.png"
+        },
+        {
+          "index": 63,
+          "tag": "div",
+          "id": "",
+          "className": "col-12 col-md-4 impactAreas__area",
+          "label": "Philanthropy",
+          "text": "Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation",
+          "rect": {
+            "x": 105,
+            "y": 5556,
+            "width": 410,
+            "height": 296
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/29-philanthropy.png"
+        },
+        {
+          "index": 65,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaContent",
+          "label": "Philanthropy",
+          "text": "Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation",
+          "rect": {
+            "x": 120,
+            "y": 5580,
+            "width": 380,
+            "height": 272
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/30-philanthropy.png"
+        },
+        {
+          "index": 66,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaDescription",
+          "label": "Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact.",
+          "text": "Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact.",
+          "rect": {
+            "x": 120,
+            "y": 5647,
+            "width": 380,
+            "height": 135
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/startup-showcase/31-make-innovation-your-legacy-support-science-technology-and-talent-that-will-shape-the-futu.png"
+        },
+        {
+          "index": 75,
+          "tag": "section",
+          "id": "",
+          "className": "logoSection sectionWrapper show_brand_icons pb-0 mb-0 mt-lg-0",
+          "label": "Together, we’re building a stronger innovation ecosystem",
+          "text": "Together, we’re building a stronger innovation ecosystem Join the growing network of partners, donors and organizations working with MaRS to create lasting impact. Work with us",
+          "rect": {
+            "x": 0,
+            "y": 5882,
+            "width": 1440,
+            "height": 830
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/cta-systems/32-together-we-re-building-a-stronger-innovation-ecosystem.png"
+        },
+        {
+          "index": 76,
+          "tag": "section",
+          "id": "",
+          "className": "",
+          "label": "Acknowledgement",
+          "text": "MaRS gratefully acknowledges the support of the Province of Ontario through the Ministry of Economic Development, Job Creation and Trade and the Government of Canada through the Federal Economic Development Agency for Southern Ontario.",
+          "rect": {
+            "x": 0,
+            "y": 6662,
+            "width": 1440,
+            "height": 102
+          },
+          "category": "partner-layouts",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/partner-layouts/33-acknowledgement.png"
+        },
+        {
+          "index": 77,
+          "tag": "footer",
+          "id": "",
+          "className": "",
+          "label": "Join MaRS",
+          "text": "Join MaRS Grow your company and create global impact. Apply Lease a space Join our curated community of innovators. Explore Support MaRS Make MaRS your home for impact. Donate Startups StartupsStartup ToolkitLog in Partners PartnersInvestorsChallengesCorporate Innovation Community EventsCareersOur hubsSupportersHost an eventCommunity log in About About MaRSResearch & ImpactResultsMedia & PressContact Legal Terms & ConditionsPrivacy policyAccessibility service policyObtenez des renseignements en français Sign up for our newsletters Enter your email* /* <![CDATA[ */ gform.initializeOnLoaded( function() {gformInitSpinner( 58, 'https://www.marsdd.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_58').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_58');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_58').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_conf",
+          "rect": {
+            "x": 0,
+            "y": 6764,
+            "width": 1440,
+            "height": 710
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/desktop/navigation/34-join-mars.png"
+        }
+      ]
+    },
+    "tablet": {
+      "title": "MaRS Discovery District",
+      "finalUrl": "https://www.marsdd.com/",
+      "language": "en-CA",
+      "fontFamilies": [
+        "Inter-Medium, MaRSMarcin-Regular, sans-serif",
+        "Inter-Bold, MaRSMarcin-Bold, sans-serif",
+        "Inter-ExtraBold, MaRSMarcin-Bold, sans-serif"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(0, 61, 165)",
+        "rgb(115, 115, 115)",
+        "rgb(255, 255, 255)",
+        "rgba(0, 0, 0, 0)",
+        "rgb(51, 51, 51)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(0, 61, 165)",
+        "rgb(247, 247, 247)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We help innovators build a better world",
+          "fontSize": "44px",
+          "fontWeight": "500",
+          "lineHeight": "52px"
+        },
+        {
+          "tag": "h2",
+          "text": "Work with the people who are driving innovation forward",
+          "fontSize": "22px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "A place to grow",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "The right connections",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "Expert guidance",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "Scaling innovation for global impact",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "34px"
+        },
+        {
+          "tag": "h2",
+          "text": "Increasing the odds of success for Canadian startups",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "34px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sprout Family",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "StellarAlgo",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Effenco",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "RetiSpec",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ayrton Energy",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "Driving change",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "34px"
+        },
+        {
+          "tag": "h3",
+          "text": "Life sciences",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cleantech",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Emerging technologies",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Bringing prosthetics to people in need",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "These five cleantech startups are literally breaking new ground",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pulse Check: Overcoming barriers facing Canadian health tech ventures",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h3",
+          "text": "June 16, 2026",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "Technically Speaking: Bootstrapping your business",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "34px"
+        },
+        {
+          "tag": "h3",
+          "text": "November 17 & 18, 2026",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        },
+        {
+          "tag": "h2",
+          "text": "MaRS Climate Impact",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "34px"
+        },
+        {
+          "tag": "h3",
+          "text": "May 25, 2026",
+          "fontSize": "20px",
+          "fontWeight": "500",
+          "lineHeight": "30px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content.",
+          "href": "https://www.marsdd.com/#afterNav"
+        },
+        {
+          "text": "Jump to Page Footer.",
+          "href": "https://www.marsdd.com/#footer"
+        },
+        {
+          "text": "",
+          "href": "https://www.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "Sign in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "About MaRS",
+          "href": "https://www.marsdd.com/about/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.marsdd.com/invest-with-us/"
+        },
+        {
+          "text": "Supporters",
+          "href": "https://www.marsdd.com/supporters/"
+        },
+        {
+          "text": "Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Startup Toolkit",
+          "href": "https://learn.marsdd.com/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.marsdd.com/contact/"
+        },
+        {
+          "text": "Log in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Français",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "health",
+          "href": "https://www.marsdd.com/our-sectors/health/"
+        },
+        {
+          "text": "climate",
+          "href": "https://www.marsdd.com/our-sectors/climate/"
+        },
+        {
+          "text": "AI",
+          "href": "https://www.marsdd.com/service/innovate-uk-manufacturing/"
+        },
+        {
+          "text": "other key sectors",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "office, lab and event spaces",
+          "href": "https://hubs.marsdd.com/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "missionStatment sectionWrapper",
+          "label": "Work with the people who are driving innovation forward",
+          "text": "Work with the people who are driving innovation forward A place to grow Join Canada’s most connected innovation ecosystem. Founders, funders, researchers, policy-makers, corporates and advisors come together at the MaRS Centre and Waterfront hub to collaborate, spark new ideas and help startups grow. Find out more about our flexible office, lab and event spaces. The right connections Whether you’re raising capital, looking to shape your narrative, or testing new markets, MaRS opens doors to vetted investors, customers and partners. Explore our targeted programming for startups. Expert guidance Every founder needs a sounding board. Learn from seasoned advisors and industry experts who’ve built and scaled real companies. MaRS provides tailored support at every stage of growth. Meet our advisors.",
+          "rect": {
+            "x": 0,
+            "y": 720,
+            "width": 834,
+            "height": 456
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/02-work-with-the-people-who-are-driving-innovation-forward.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "statsFeature sectorSection sectionWrapper show_brand_icons mt-0 mb-0 ",
+          "label": "Scaling innovation for global impact",
+          "text": "HOW WE WORK Scaling innovation for global impact Canada’s most ambitious founders turn to MaRS for support to help hit key milestones from pre-seed funding to international expansion. 1,200+ Ventures supported by MaRS across sectors $ 11B+ Raised by MaRS-supported companies between 2010 and 2024 125+ Companies and organizations are based in the MaRS Centre and MaRS Waterfront Discover Canada’s most promising startups in real time. MaRS Connect is an exclusive platform that gives founders, investors and innovation buyers direct access to vetted ventures, market information and new opportunities.",
+          "rect": {
+            "x": 0,
+            "y": 1226,
+            "width": 834,
+            "height": 609
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/03-scaling-innovation-for-global-impact.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "startups sectionWrapper pb-0 mt-lg-0",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 0,
+            "y": 1905,
+            "width": 834,
+            "height": 1061
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/04-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "startups__wrapper",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 20,
+            "y": 1975,
+            "width": 794,
+            "height": 991
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/05-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 10,
+          "tag": "div",
+          "id": "",
+          "className": "startups__top col-12 col-md-8",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 20,
+            "y": 1975,
+            "width": 529,
+            "height": 162
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/06-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "startups__title",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 35,
+            "y": 1990,
+            "width": 499,
+            "height": 129
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/07-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 13,
+          "tag": "div",
+          "id": "",
+          "className": "startups__cta col-12 col-md-4",
+          "label": "Startup Services",
+          "text": "Startup Services",
+          "rect": {
+            "x": 549,
+            "y": 2025,
+            "width": 265,
+            "height": 162
+          },
+          "category": "hero-sections",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/hero-sections/08-startup-services.png"
+        },
+        {
+          "index": 14,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areas",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 35,
+            "y": 2137,
+            "width": 764,
+            "height": 829
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/09-sprout-family.png"
+        },
+        {
+          "index": 15,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 35,
+            "y": 2187,
+            "width": 242,
+            "height": 399
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/10-sprout-family.png"
+        },
+        {
+          "index": 16,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "Sprout Family url",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 35,
+            "y": 2187,
+            "width": 242,
+            "height": 394
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/11-sprout-family-url.png"
+        },
+        {
+          "index": 17,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 35,
+            "y": 2187,
+            "width": 242,
+            "height": 242
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/12-div.png"
+        },
+        {
+          "index": 18,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 35,
+            "y": 2429,
+            "width": 242,
+            "height": 114
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/13-sprout-family.png"
+        },
+        {
+          "index": 30,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "RetiSpec",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 35,
+            "y": 2601,
+            "width": 242,
+            "height": 399
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/14-retispec.png"
+        },
+        {
+          "index": 31,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "RetiSpec url",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 35,
+            "y": 2601,
+            "width": 242,
+            "height": 394
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/15-retispec-url.png"
+        },
+        {
+          "index": 32,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 35,
+            "y": 2601,
+            "width": 242,
+            "height": 242
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/image-systems/16-div.png"
+        },
+        {
+          "index": 33,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "RetiSpec",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 35,
+            "y": 2843,
+            "width": 242,
+            "height": 114
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/17-retispec.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "impactAreas sectionWrapper pb-0 mt-lg-0",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 3016,
+            "width": 834,
+            "height": 807
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/18-driving-change.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__wrapper",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 20,
+            "y": 3086,
+            "width": 794,
+            "height": 737
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/19-driving-change.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__top col-12 col-md-8",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 20,
+            "y": 3086,
+            "width": 529,
+            "height": 168
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/20-driving-change.png"
+        },
+        {
+          "index": 43,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__title",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 35,
+            "y": 3086,
+            "width": 499,
+            "height": 139
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/21-driving-change.png"
+        },
+        {
+          "index": 44,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__cta col-12 col-md-4",
+          "label": "Apply to MaRS Work with Us",
+          "text": "Apply to MaRS Work with Us",
+          "rect": {
+            "x": 549,
+            "y": 3136,
+            "width": 265,
+            "height": 168
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/22-apply-to-mars-work-with-us.png"
+        },
+        {
+          "index": 45,
+          "tag": "div",
+          "id": "",
+          "className": "col-12 col-md-4 impactAreas__area",
+          "label": "Life sciences",
+          "text": "Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More",
+          "rect": {
+            "x": 20,
+            "y": 3304,
+            "width": 265,
+            "height": 569
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/23-life-sciences.png"
+        },
+        {
+          "index": 57,
+          "tag": "section",
+          "id": "",
+          "className": "magazineIssues manualPosts sectionWrapper mt-0 mb-0",
+          "label": "Bringing prosthetics to people in need",
+          "text": "Bringing prosthetics to people in need Almost 40 million people require prosthetics or orthotics, but only 10 to 15 per cent can access them. The Victoria Hand Project has developed a sustainable way of creating customized upper limb replacements anywhere in the world. These five cleantech startups are literally breaking new ground The startups in the inaugural cohort of the MaRS First-of-a-Kind Lab are gearing up for commercial-scale deployment of their climate solutions. Pulse Check: Overcoming barriers facing Canadian health tech ventures At #MaRSImpactHealth, we spoke with panelists and attendees about the biggest barriers facing Canadian health ventures.",
+          "rect": {
+            "x": 0,
+            "y": 3872,
+            "width": 834,
+            "height": 1087
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/24-bringing-prosthetics-to-people-in-need.png"
+        },
+        {
+          "index": 58,
+          "tag": "section",
+          "id": "",
+          "className": "featuredImage sectionWrapper",
+          "label": "June 16, 2026",
+          "text": "June 16, 2026 Technically Speaking: Bootstrapping your business Event Details All Events November 17 & 18, 2026 MaRS Climate Impact Event Details All Events May 25, 2026 Toronto takes on the world: Winning strategies for global growth Event Details All Events May 25, 2026 MaRS Mornings - New world order: Scaling globally in an era of “middle power” ties Event Details All Events May 26, 2026 MaRS Mornings - Pitch session: AI, quantum and emerging tech ventures Event Details All Events May 27, 2026 MaRS Mornings - Hype versus reality: Valuation in the age of AI Event Details All Events June 1, 2026 TOCW - Celebrating 5 Years of Mission from MaRS: Wins, Challenges and Perspectives Event Details All Events June 3, 2026 Better Buildings: Improving performance in multi-residential buildings Event Details All Events June 16, 2026 Technically Speaking: Bootstrapping your business Event Details All Events November 17 & 18, 2026 MaRS Climate Impact Event Details All Events May 25, 2026 Toronto takes on the world: Winning strategies for global growth Event Details All Events May 25, 2026 MaRS Mornings - New world order: Scaling globally in an era of “middle power” ties Event Details All Event",
+          "rect": {
+            "x": 0,
+            "y": 4979,
+            "width": 834,
+            "height": 521
+          },
+          "category": "event-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/event-systems/25-june-16-2026.png"
+        },
+        {
+          "index": 59,
+          "tag": "section",
+          "id": "",
+          "className": "impactAreas sectionWrapper pb-0 mt-lg-0",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities. Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation Investors Fuel the next generation of transformation startups. In addition to the work of MaRS IAF, MaRS connects forward-thinking investors with high-potential companies driving impact. Partner with MaRS Partners Collaborate on the future. We work with corporate leaders, policy-makers, philanthropists and civic innovators to help startups commercialize solutions through curated partnerships. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 5550,
+            "width": 834,
+            "height": 769
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/26-support-innovation-that-matters.png"
+        },
+        {
+          "index": 60,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__wrapper",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities. Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation Investors Fuel the next generation of transformation startups. In addition to the work of MaRS IAF, MaRS connects forward-thinking investors with high-potential companies driving impact. Partner with MaRS Partners Collaborate on the future. We work with corporate leaders, policy-makers, philanthropists and civic innovators to help startups commercialize solutions through curated partnerships. Learn More",
+          "rect": {
+            "x": 20,
+            "y": 5620,
+            "width": 794,
+            "height": 699
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/27-support-innovation-that-matters.png"
+        },
+        {
+          "index": 61,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__top col-12 ",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities.",
+          "rect": {
+            "x": 20,
+            "y": 5620,
+            "width": 794,
+            "height": 157
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/28-support-innovation-that-matters.png"
+        },
+        {
+          "index": 62,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__title",
+          "label": "Support innovation that matters",
+          "text": "Support innovation that matters At MaRS, we work with visionary partners — investors, philanthropists, corporates and governments — to accelerate breakthroughs with tangible results. If you’re looking to fund the next generation of startups and strengthen Canada’s innovation economy, we’ll help you connect with the right opportunities.",
+          "rect": {
+            "x": 35,
+            "y": 5620,
+            "width": 764,
+            "height": 139
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/29-support-innovation-that-matters.png"
+        },
+        {
+          "index": 63,
+          "tag": "div",
+          "id": "",
+          "className": "col-12 col-md-4 impactAreas__area",
+          "label": "Philanthropy",
+          "text": "Philanthropy Make innovation your legacy. Support science, technology and talent that will shape the future. Your donation helps high-potential founders turn bold ideas into lasting impact. Support innovation",
+          "rect": {
+            "x": 20,
+            "y": 5827,
+            "width": 265,
+            "height": 542
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/startup-showcase/30-philanthropy.png"
+        },
+        {
+          "index": 75,
+          "tag": "section",
+          "id": "",
+          "className": "logoSection sectionWrapper show_brand_icons pb-0 mb-0 mt-lg-0",
+          "label": "Together, we’re building a stronger innovation ecosystem",
+          "text": "Together, we’re building a stronger innovation ecosystem Join the growing network of partners, donors and organizations working with MaRS to create lasting impact. Work with us",
+          "rect": {
+            "x": 0,
+            "y": 6369,
+            "width": 834,
+            "height": 649
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/cta-systems/31-together-we-re-building-a-stronger-innovation-ecosystem.png"
+        },
+        {
+          "index": 76,
+          "tag": "section",
+          "id": "",
+          "className": "",
+          "label": "Acknowledgement",
+          "text": "MaRS gratefully acknowledges the support of the Province of Ontario through the Ministry of Economic Development, Job Creation and Trade and the Government of Canada through the Federal Economic Development Agency for Southern Ontario.",
+          "rect": {
+            "x": 0,
+            "y": 6968,
+            "width": 834,
+            "height": 129
+          },
+          "category": "partner-layouts",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/partner-layouts/32-acknowledgement.png"
+        },
+        {
+          "index": 77,
+          "tag": "footer",
+          "id": "",
+          "className": "",
+          "label": "Join MaRS",
+          "text": "Join MaRS Grow your company and create global impact. Apply Lease a space Join our curated community of innovators. Explore Support MaRS Make MaRS your home for impact. Donate Startups StartupsStartup ToolkitLog in Partners PartnersInvestorsChallengesCorporate Innovation Community EventsCareersOur hubsSupportersHost an eventCommunity log in About About MaRSResearch & ImpactResultsMedia & PressContact Legal Terms & ConditionsPrivacy policyAccessibility service policyObtenez des renseignements en français Sign up for our newsletters Enter your email* /* <![CDATA[ */ gform.initializeOnLoaded( function() {gformInitSpinner( 58, 'https://www.marsdd.com/wp-content/plugins/gravityforms/images/spinner.svg', true );jQuery('#gform_ajax_frame_58').on('load',function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_58');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_58').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_conf",
+          "rect": {
+            "x": 0,
+            "y": 7097,
+            "width": 834,
+            "height": 1009
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/navigation/33-join-mars.png"
+        },
+        {
+          "index": 78,
+          "tag": "nav",
+          "id": "",
+          "className": "footerNav",
+          "label": "Footer navigation for startups section",
+          "text": "StartupsStartup ToolkitLog in",
+          "rect": {
+            "x": 35,
+            "y": 7424,
+            "width": 255,
+            "height": 96
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/34-footer-navigation-for-startups-section.png"
+        },
+        {
+          "index": 79,
+          "tag": "nav",
+          "id": "",
+          "className": "footerNav",
+          "label": "Footer navigation for partners section",
+          "text": "PartnersInvestorsChallengesCorporate Innovation",
+          "rect": {
+            "x": 290,
+            "y": 7424,
+            "width": 255,
+            "height": 128
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/35-footer-navigation-for-partners-section.png"
+        },
+        {
+          "index": 80,
+          "tag": "nav",
+          "id": "",
+          "className": "footerNav",
+          "label": "Footer navigation for community section",
+          "text": "EventsCareersOur hubsSupportersHost an eventCommunity log in",
+          "rect": {
+            "x": 544,
+            "y": 7424,
+            "width": 255,
+            "height": 192
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/tablet/grid-systems/36-footer-navigation-for-community-section.png"
+        }
+      ]
+    },
+    "mobile": {
+      "title": "MaRS Discovery District",
+      "finalUrl": "https://www.marsdd.com/",
+      "language": "en-CA",
+      "fontFamilies": [
+        "Inter-Medium, MaRSMarcin-Regular, sans-serif",
+        "Inter-Bold, MaRSMarcin-Bold, sans-serif",
+        "Inter-ExtraBold, MaRSMarcin-Bold, sans-serif"
+      ],
+      "colors": [
+        "rgb(0, 0, 0)",
+        "rgb(0, 61, 165)",
+        "rgb(115, 115, 115)",
+        "rgb(255, 255, 255)",
+        "rgba(0, 0, 0, 0)",
+        "rgb(51, 51, 51)"
+      ],
+      "backgroundColors": [
+        "rgb(255, 255, 255)",
+        "rgb(0, 61, 165)",
+        "rgb(247, 247, 247)"
+      ],
+      "headingScale": [
+        {
+          "tag": "h1",
+          "text": "We help innovators build a better world",
+          "fontSize": "28px",
+          "fontWeight": "500",
+          "lineHeight": "32px"
+        },
+        {
+          "tag": "h2",
+          "text": "Work with the people who are driving innovation forward",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "A place to grow",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "The right connections",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "Expert guidance",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "Scaling innovation for global impact",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h2",
+          "text": "Increasing the odds of success for Canadian startups",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "Sprout Family",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "StellarAlgo",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Effenco",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "RetiSpec",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Ayrton Energy",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "Driving change",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "Life sciences",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Cleantech",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Emerging technologies",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Bringing prosthetics to people in need",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "These five cleantech startups are literally breaking new ground",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "Pulse Check: Overcoming barriers facing Canadian health tech ventures",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h3",
+          "text": "June 16, 2026",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "Technically Speaking: Bootstrapping your business",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "November 17 & 18, 2026",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        },
+        {
+          "tag": "h2",
+          "text": "MaRS Climate Impact",
+          "fontSize": "21px",
+          "fontWeight": "500",
+          "lineHeight": "28px"
+        },
+        {
+          "tag": "h3",
+          "text": "May 25, 2026",
+          "fontSize": "16px",
+          "fontWeight": "500",
+          "lineHeight": "22px"
+        }
+      ],
+      "links": [
+        {
+          "text": "Skip to content.",
+          "href": "https://www.marsdd.com/#afterNav"
+        },
+        {
+          "text": "Jump to Page Footer.",
+          "href": "https://www.marsdd.com/#footer"
+        },
+        {
+          "text": "",
+          "href": "https://www.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "Sign in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Startups",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Membership",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Core",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "Accelerators",
+          "href": "https://www.marsdd.com/accelerators/"
+        },
+        {
+          "text": "MaRS Capital Program",
+          "href": "https://www.marsdd.com/startups/capital-program/"
+        },
+        {
+          "text": "Momentum at MaRS",
+          "href": "https://www.marsdd.com/service/momentum/"
+        },
+        {
+          "text": "MaRS Connect",
+          "href": "https://www.marsdd.com/connect/"
+        },
+        {
+          "text": "Directory",
+          "href": "https://app.marsdd.com/directory/"
+        },
+        {
+          "text": "Partners",
+          "href": "https://www.marsdd.com/partners/"
+        },
+        {
+          "text": "Our fund",
+          "href": "https://marsiaf.com/"
+        },
+        {
+          "text": "Our hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "Innovation Hubs",
+          "href": "https://hubs.marsdd.com/"
+        },
+        {
+          "text": "About Innovation Hubs",
+          "href": "https://hubs.marsdd.com/hubs/"
+        },
+        {
+          "text": "MaRS Centre",
+          "href": "https://hubs.marsdd.com/location/mars-centre/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Our Tenants",
+          "href": "https://hubs.marsdd.com/hubs/our-tenants/"
+        },
+        {
+          "text": "Workspaces",
+          "href": "https://hubs.marsdd.com/workspaces/"
+        },
+        {
+          "text": "Lab Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/labs/"
+        },
+        {
+          "text": "Office Spaces",
+          "href": "https://hubs.marsdd.com/workspaces/offices/"
+        },
+        {
+          "text": "Coworking at MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/workspaces/coworking-at-mars-waterfront/"
+        },
+        {
+          "text": "MaRS Incubator",
+          "href": "https://hubs.marsdd.com/workspaces/incubator/"
+        },
+        {
+          "text": "Events",
+          "href": "https://hubs.marsdd.com/events/"
+        },
+        {
+          "text": "Upcoming Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Event Spaces",
+          "href": "https://hubs.marsdd.com/event-spaces/"
+        },
+        {
+          "text": "Work in tech",
+          "href": "https://www.marsdd.com/work-in-tech/"
+        },
+        {
+          "text": "Our stories",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Articles and videos",
+          "href": "https://www.marsdd.com/our-stories/"
+        },
+        {
+          "text": "Media and press",
+          "href": "https://www.marsdd.com/media-press/"
+        },
+        {
+          "text": "MaRS podcast",
+          "href": "https://www.marsdd.com/magazine-issues/solve-for-x-podcast/"
+        },
+        {
+          "text": "Reports and case studies",
+          "href": "https://www.marsdd.com/research-and-impact/"
+        },
+        {
+          "text": "About MaRS",
+          "href": "https://www.marsdd.com/about/"
+        },
+        {
+          "text": "Investors",
+          "href": "https://www.marsdd.com/invest-with-us/"
+        },
+        {
+          "text": "Supporters",
+          "href": "https://www.marsdd.com/supporters/"
+        },
+        {
+          "text": "Events",
+          "href": "https://www.marsdd.com/events/"
+        },
+        {
+          "text": "Startup Toolkit",
+          "href": "https://learn.marsdd.com/"
+        },
+        {
+          "text": "MaRS Waterfront",
+          "href": "https://hubs.marsdd.com/location/mars-waterfront/"
+        },
+        {
+          "text": "Contact",
+          "href": "https://www.marsdd.com/contact/"
+        },
+        {
+          "text": "Log in",
+          "href": "https://app.marsdd.com/"
+        },
+        {
+          "text": "Français",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "FR",
+          "href": "https://www.marsdd.com/francais/"
+        },
+        {
+          "text": "health",
+          "href": "https://www.marsdd.com/our-sectors/health/"
+        },
+        {
+          "text": "climate",
+          "href": "https://www.marsdd.com/our-sectors/climate/"
+        },
+        {
+          "text": "AI",
+          "href": "https://www.marsdd.com/service/innovate-uk-manufacturing/"
+        },
+        {
+          "text": "other key sectors",
+          "href": "https://www.marsdd.com/startups/"
+        },
+        {
+          "text": "office, lab and event spaces",
+          "href": "https://hubs.marsdd.com/"
+        }
+      ],
+      "sections": [
+        {
+          "index": 6,
+          "tag": "section",
+          "id": "",
+          "className": "missionStatment sectionWrapper",
+          "label": "Work with the people who are driving innovation forward",
+          "text": "Work with the people who are driving innovation forward A place to grow Join Canada’s most connected innovation ecosystem. Founders, funders, researchers, policy-makers, corporates and advisors come together at the MaRS Centre and Waterfront hub to collaborate, spark new ideas and help startups grow. Find out more about our flexible office, lab and event spaces. The right connections Whether you’re raising capital, looking to shape your narrative, or testing new markets, MaRS opens doors to vetted investors, customers and partners. Explore our targeted programming for startups. Expert guidance Every founder needs a sounding board. Learn from seasoned advisors and industry experts who’ve built and scaled real companies. MaRS provides tailored support at every stage of growth. Meet our advisors.",
+          "rect": {
+            "x": 0,
+            "y": 978,
+            "width": 390,
+            "height": 617
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/03-work-with-the-people-who-are-driving-innovation-forward.png"
+        },
+        {
+          "index": 7,
+          "tag": "section",
+          "id": "",
+          "className": "statsFeature sectorSection sectionWrapper show_brand_icons mt-0 mb-0 ",
+          "label": "Scaling innovation for global impact",
+          "text": "HOW WE WORK Scaling innovation for global impact Canada’s most ambitious founders turn to MaRS for support to help hit key milestones from pre-seed funding to international expansion. 1,200+ Ventures supported by MaRS across sectors $ 11B+ Raised by MaRS-supported companies between 2010 and 2024 125+ Companies and organizations are based in the MaRS Centre and MaRS Waterfront Discover Canada’s most promising startups in real time. MaRS Connect is an exclusive platform that gives founders, investors and innovation buyers direct access to vetted ventures, market information and new opportunities.",
+          "rect": {
+            "x": 0,
+            "y": 1595,
+            "width": 390,
+            "height": 861
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/startup-showcase/04-scaling-innovation-for-global-impact.png"
+        },
+        {
+          "index": 8,
+          "tag": "section",
+          "id": "",
+          "className": "startups sectionWrapper pb-0 mt-lg-0",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 0,
+            "y": 2526,
+            "width": 390,
+            "height": 1971
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/05-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 9,
+          "tag": "div",
+          "id": "",
+          "className": "startups__wrapper",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale. Startup Services Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 0,
+            "y": 2551,
+            "width": 390,
+            "height": 1946
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/06-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 10,
+          "tag": "div",
+          "id": "",
+          "className": "startups__top col-12 col-md-8",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "STARTUPS Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 0,
+            "y": 2551,
+            "width": 390,
+            "height": 172
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/startup-showcase/07-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 12,
+          "tag": "div",
+          "id": "",
+          "className": "startups__title",
+          "label": "Increasing the odds of success for Canadian startups",
+          "text": "Increasing the odds of success for Canadian startups MaRS supports hundreds of companies at every stage of growth to achieve global impact and scale.",
+          "rect": {
+            "x": 15,
+            "y": 2566,
+            "width": 360,
+            "height": 139
+          },
+          "category": "startup-showcase",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/startup-showcase/08-increasing-the-odds-of-success-for-canadian-startups.png"
+        },
+        {
+          "index": 14,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areas",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business. StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base. Effenco Effenco found a pathway to market and landed a contract with the City of Toronto. RetiSpec RetiSpec raised awareness about its game-changing medical device. Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 15,
+            "y": 2801,
+            "width": 360,
+            "height": 1696
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/09-sprout-family.png"
+        },
+        {
+          "index": 15,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 15,
+            "y": 2851,
+            "width": 345,
+            "height": 324
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/10-sprout-family.png"
+        },
+        {
+          "index": 16,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "Sprout Family url",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 15,
+            "y": 2851,
+            "width": 345,
+            "height": 319
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/11-sprout-family-url.png"
+        },
+        {
+          "index": 17,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 2851,
+            "width": 345,
+            "height": 194
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/image-systems/12-div.png"
+        },
+        {
+          "index": 18,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "Sprout Family",
+          "text": "Sprout Family Strategic public relations support helped Sprout Family grow its business.",
+          "rect": {
+            "x": 15,
+            "y": 3045,
+            "width": 345,
+            "height": 87
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/13-sprout-family.png"
+        },
+        {
+          "index": 20,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "StellarAlgo",
+          "text": "StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base.",
+          "rect": {
+            "x": 15,
+            "y": 3190,
+            "width": 345,
+            "height": 324
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/14-stellaralgo.png"
+        },
+        {
+          "index": 21,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "StellarAlgo url",
+          "text": "StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base.",
+          "rect": {
+            "x": 15,
+            "y": 3190,
+            "width": 345,
+            "height": 319
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/15-stellaralgo-url.png"
+        },
+        {
+          "index": 22,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 3190,
+            "width": 345,
+            "height": 194
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/image-systems/16-div.png"
+        },
+        {
+          "index": 23,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "StellarAlgo",
+          "text": "StellarAlgo StellarAlgo refined its communications game plan and doubled its customer base.",
+          "rect": {
+            "x": 15,
+            "y": 3384,
+            "width": 345,
+            "height": 87
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/17-stellaralgo.png"
+        },
+        {
+          "index": 25,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "Effenco",
+          "text": "Effenco Effenco found a pathway to market and landed a contract with the City of Toronto.",
+          "rect": {
+            "x": 15,
+            "y": 3530,
+            "width": 345,
+            "height": 324
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/18-effenco.png"
+        },
+        {
+          "index": 26,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "Effenco url",
+          "text": "Effenco Effenco found a pathway to market and landed a contract with the City of Toronto.",
+          "rect": {
+            "x": 15,
+            "y": 3530,
+            "width": 345,
+            "height": 319
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/19-effenco-url.png"
+        },
+        {
+          "index": 27,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 3530,
+            "width": 345,
+            "height": 194
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/image-systems/20-div.png"
+        },
+        {
+          "index": 28,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "Effenco",
+          "text": "Effenco Effenco found a pathway to market and landed a contract with the City of Toronto.",
+          "rect": {
+            "x": 15,
+            "y": 3724,
+            "width": 345,
+            "height": 87
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/21-effenco.png"
+        },
+        {
+          "index": 30,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "RetiSpec",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 15,
+            "y": 3869,
+            "width": 345,
+            "height": 324
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/22-retispec.png"
+        },
+        {
+          "index": 31,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "RetiSpec url",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 15,
+            "y": 3869,
+            "width": 345,
+            "height": 319
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/23-retispec-url.png"
+        },
+        {
+          "index": 32,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 3869,
+            "width": 345,
+            "height": 194
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/image-systems/24-div.png"
+        },
+        {
+          "index": 33,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "RetiSpec",
+          "text": "RetiSpec RetiSpec raised awareness about its game-changing medical device.",
+          "rect": {
+            "x": 15,
+            "y": 4063,
+            "width": 345,
+            "height": 87
+          },
+          "category": "navigation",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/navigation/25-retispec.png"
+        },
+        {
+          "index": 35,
+          "tag": "div",
+          "id": "",
+          "className": "startups__area",
+          "label": "Ayrton Energy",
+          "text": "Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 15,
+            "y": 4208,
+            "width": 345,
+            "height": 324
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/26-ayrton-energy.png"
+        },
+        {
+          "index": 36,
+          "tag": "a",
+          "id": "",
+          "className": "startups__areaLink",
+          "label": "Ayrton Energy url",
+          "text": "Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 15,
+            "y": 4208,
+            "width": 345,
+            "height": 319
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/27-ayrton-energy-url.png"
+        },
+        {
+          "index": 37,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaImage od-lazy-bg-image",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 4208,
+            "width": 345,
+            "height": 194
+          },
+          "category": "image-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/image-systems/28-div.png"
+        },
+        {
+          "index": 38,
+          "tag": "div",
+          "id": "",
+          "className": "startups__areaContent",
+          "label": "Ayrton Energy",
+          "text": "Ayrton Energy Ayrton Energy refined its pitch deck and closed its seed round.",
+          "rect": {
+            "x": 15,
+            "y": 4402,
+            "width": 345,
+            "height": 87
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/29-ayrton-energy.png"
+        },
+        {
+          "index": 40,
+          "tag": "section",
+          "id": "",
+          "className": "impactAreas sectionWrapper pb-0 mt-lg-0",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 4547,
+            "width": 390,
+            "height": 1978
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/cta-systems/30-driving-change.png"
+        },
+        {
+          "index": 41,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__wrapper",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base. Apply to MaRS Work with Us Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More Cleantech We help cleantech startups scale solutions in food, energy, transportation, construction and manufacturing, accelerating the shift to a more sustainable future. Learn More Emerging technologies We provide founders building the next wave of transformative tech with the tools they need to develop solutions in AI, quantum, robotics, advanced manufacturing and other emerging sectors. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 4572,
+            "width": 390,
+            "height": 1953
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/cta-systems/31-driving-change.png"
+        },
+        {
+          "index": 42,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__top col-12 col-md-8",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 0,
+            "y": 4572,
+            "width": 390,
+            "height": 173
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/32-driving-change.png"
+        },
+        {
+          "index": 43,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__title",
+          "label": "Driving change",
+          "text": "Driving change At MaRS, we bring Canada’s most innovative organizations and leaders together to commercialize science and technology, bolstering productivity and building the country’s industrial base.",
+          "rect": {
+            "x": 15,
+            "y": 4572,
+            "width": 360,
+            "height": 155
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/33-driving-change.png"
+        },
+        {
+          "index": 45,
+          "tag": "div",
+          "id": "",
+          "className": "col-12 col-md-4 impactAreas__area",
+          "label": "Life sciences",
+          "text": "Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More",
+          "rect": {
+            "x": 0,
+            "y": 4873,
+            "width": 390,
+            "height": 540
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/cta-systems/34-life-sciences.png"
+        },
+        {
+          "index": 46,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaImage",
+          "label": "",
+          "text": "",
+          "rect": {
+            "x": 15,
+            "y": 4873,
+            "width": 360,
+            "height": 360
+          },
+          "category": "grid-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/grid-systems/35-div.png"
+        },
+        {
+          "index": 47,
+          "tag": "div",
+          "id": "",
+          "className": "impactAreas__areaContent",
+          "label": "Life sciences",
+          "text": "Life sciences We support health and life sciences companies bringing breakthrough therapies, diagnostics and digital care solutions to market. Learn More",
+          "rect": {
+            "x": 15,
+            "y": 5233,
+            "width": 360,
+            "height": 180
+          },
+          "category": "cta-systems",
+          "screenshot": "research/screenshots/mars-discovery-district/mobile/cta-systems/36-life-sciences.png"
+        }
+      ]
+    }
+  }
+}

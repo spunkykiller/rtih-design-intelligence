@@ -1,0 +1,292 @@
+{
+  "project": {
+    "name": "Ratan Tata Incubation Hub redesign research",
+    "currentSite": {
+      "name": "Ratan Tata Incubation Hub / RTIH current site",
+      "slug": "rtih-current",
+      "url": "https://rtih.co.in/",
+      "category": "current-rth",
+      "priority": 0,
+      "notes": "Current institutional homepage linked from the public RTIH careers page. Verify with stakeholder if this is not the canonical production URL."
+    }
+  },
+  "viewports": {
+    "desktop": { "width": 1440, "height": 1000 },
+    "tablet": { "width": 834, "height": 1112 },
+    "mobile": { "width": 390, "height": 844 }
+  },
+  "requiredCategories": [
+    "typography",
+    "hero-sections",
+    "cta-systems",
+    "navigation",
+    "startup-showcase",
+    "event-systems",
+    "ecosystem-maps",
+    "partner-layouts",
+    "institutional-trust",
+    "application-funnels",
+    "motion-inspiration",
+    "grid-systems",
+    "image-systems",
+    "mobile-ux"
+  ],
+  "benchmarks": [
+    {
+      "name": "Y Combinator",
+      "slug": "y-combinator",
+      "url": "https://www.ycombinator.com/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["founder conversion", "startup showcase", "application funnel", "editorial density"]
+    },
+    {
+      "name": "Techstars",
+      "slug": "techstars",
+      "url": "https://www.techstars.com/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["program architecture", "mentor trust", "global network"]
+    },
+    {
+      "name": "500 Global",
+      "slug": "500-global",
+      "url": "https://500.co/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["portfolio density", "investment credibility", "global ecosystem"]
+    },
+    {
+      "name": "Antler",
+      "slug": "antler",
+      "url": "https://www.antler.co/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["founder pathing", "geographic ecosystem", "application CTA"]
+    },
+    {
+      "name": "Entrepreneur First",
+      "slug": "entrepreneur-first",
+      "url": "https://www.joinef.com/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["talent-first narrative", "founder journey", "program explanation"]
+    },
+    {
+      "name": "Alchemist Accelerator",
+      "slug": "alchemist-accelerator",
+      "url": "https://www.alchemistaccelerator.com/",
+      "category": "global-accelerator",
+      "priority": 1,
+      "focus": ["enterprise startup positioning", "portfolio proof", "B2B trust"]
+    },
+    {
+      "name": "StartX",
+      "slug": "startx",
+      "url": "https://startx.com/",
+      "category": "university-incubator",
+      "priority": 0.5,
+      "focus": ["university founder community", "founder credibility", "community model"]
+    },
+    {
+      "name": "Berkeley SkyDeck",
+      "slug": "berkeley-skydeck",
+      "url": "https://skydeck.berkeley.edu/",
+      "category": "university-incubator",
+      "priority": 0.5,
+      "focus": ["university accelerator", "program funnel", "mentor and advisor trust"]
+    },
+    {
+      "name": "Creative Destruction Lab",
+      "slug": "creative-destruction-lab",
+      "url": "https://creativedestructionlab.com/",
+      "category": "deep-tech-innovation",
+      "priority": 0.5,
+      "focus": ["deep-tech positioning", "program geography", "venture science credibility"]
+    },
+    {
+      "name": "HAX",
+      "slug": "hax",
+      "url": "https://hax.co/",
+      "category": "venture-studio",
+      "priority": 0.5,
+      "focus": ["hard-tech venture studio", "prototype storytelling", "founder resources"]
+    },
+    {
+      "name": "MaRS Discovery District",
+      "slug": "mars-discovery-district",
+      "url": "https://www.marsdd.com/",
+      "category": "innovation-ecosystem",
+      "priority": 0.5,
+      "focus": ["public innovation ecosystem", "institutional programs", "sector navigation"]
+    },
+    {
+      "name": "MassChallenge",
+      "slug": "masschallenge",
+      "url": "https://masschallenge.org/",
+      "category": "global-accelerator",
+      "priority": 0.5,
+      "focus": ["nonprofit accelerator", "ecosystem programs", "startup showcase"]
+    },
+    {
+      "name": "Sequoia",
+      "slug": "sequoia",
+      "url": "https://www.sequoiacap.com/",
+      "category": "venture-capital",
+      "priority": 2,
+      "focus": ["editorial authority", "founder storytelling", "premium restraint"]
+    },
+    {
+      "name": "Andreessen Horowitz",
+      "slug": "a16z",
+      "url": "https://a16z.com/",
+      "category": "venture-capital",
+      "priority": 2,
+      "focus": ["content ecosystem", "topic architecture", "media trust"]
+    },
+    {
+      "name": "First Round Capital",
+      "slug": "first-round",
+      "url": "https://firstround.com/",
+      "category": "venture-capital",
+      "priority": 2,
+      "focus": ["community storytelling", "resource architecture", "operator tone"]
+    },
+    {
+      "name": "Village Global",
+      "slug": "village-global",
+      "url": "https://www.villageglobal.vc/",
+      "category": "venture-capital",
+      "priority": 2,
+      "focus": ["network signal", "mentor credibility", "founder access"]
+    },
+    {
+      "name": "NFX",
+      "slug": "nfx",
+      "url": "https://www.nfx.com/",
+      "category": "venture-capital",
+      "priority": 2,
+      "focus": ["framework-led content", "network effects education", "tools"]
+    },
+    {
+      "name": "MIT Media Lab",
+      "slug": "mit-media-lab",
+      "url": "https://www.media.mit.edu/",
+      "category": "innovation-research",
+      "priority": 2,
+      "focus": ["research density", "people/projects architecture", "institutional experimentation"]
+    },
+    {
+      "name": "Stanford d.school",
+      "slug": "stanford-dschool",
+      "url": "https://dschool.stanford.edu/",
+      "category": "innovation-research",
+      "priority": 2,
+      "focus": ["education journey", "workshop energy", "human-centered storytelling"]
+    },
+    {
+      "name": "Plug and Play",
+      "slug": "plug-and-play",
+      "url": "https://www.plugandplaytechcenter.com/",
+      "category": "innovation-research",
+      "priority": 2,
+      "focus": ["corporate innovation", "vertical ecosystems", "partner logo systems"]
+    },
+    {
+      "name": "Station F",
+      "slug": "station-f",
+      "url": "https://stationf.co/",
+      "category": "innovation-research",
+      "priority": 2,
+      "focus": ["campus storytelling", "startup density", "event/community presentation"]
+    },
+    {
+      "name": "IIT Madras Incubation Cell",
+      "slug": "iit-madras-incubation-cell",
+      "url": "https://www.incubation.iitm.ac.in/",
+      "category": "indian-incubator",
+      "priority": 1,
+      "focus": ["Indian institutional credibility", "deep-tech proof", "portfolio display"]
+    },
+    {
+      "name": "IIT Bombay Society for Innovation and Entrepreneurship",
+      "slug": "iit-bombay-sine",
+      "url": "https://sineiitb.org/",
+      "category": "indian-incubator",
+      "priority": 1,
+      "focus": ["university incubation", "program trust", "startup support pathways"]
+    },
+    {
+      "name": "T-Hub",
+      "slug": "t-hub",
+      "url": "https://t-hub.co/",
+      "category": "indian-incubator",
+      "priority": 1,
+      "focus": ["government-backed ecosystem scale", "partner architecture", "event density"]
+    },
+    {
+      "name": "Kerala Startup Mission",
+      "slug": "kerala-startup-mission",
+      "url": "https://startupmission.kerala.gov.in/",
+      "category": "government-ecosystem",
+      "priority": 1,
+      "focus": ["government innovation UX", "program discovery", "policy/institution balance"]
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "url": "https://linear.app/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["motion restraint", "typographic polish", "product clarity"]
+    },
+    {
+      "name": "Stripe",
+      "slug": "stripe",
+      "url": "https://stripe.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["information density", "trust layering", "global proof"]
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "url": "https://www.notion.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["modular storytelling", "CTA hierarchy", "visual warmth"]
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "url": "https://vercel.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["developer credibility", "technical hierarchy", "performance cues"]
+    },
+    {
+      "name": "Framer",
+      "slug": "framer",
+      "url": "https://www.framer.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["motion system", "visual pacing", "conversion CTAs"]
+    },
+    {
+      "name": "Retool",
+      "slug": "retool",
+      "url": "https://retool.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["enterprise SaaS trust", "card systems", "case studies"]
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "url": "https://www.figma.com/",
+      "category": "modern-startup-site",
+      "priority": 3,
+      "focus": ["community scale", "visual system consistency", "product storytelling"]
+    }
+  ]
+}
